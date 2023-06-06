@@ -1,0 +1,5 @@
+WeaponName, Quantity, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+Semi Auto Pistol, 5, 3632, 3632, 0, 0, 0
+Basic Rifle, 3, 2353, 2353, 0, 0, 0
+Basic Rifle, 6, 11422, 11422, 0, 0, 0
+Interior Turret, 6, 3345, 3345, 0, 0, 0

@@ -1,0 +1,293 @@
+18:44:10.6612 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+18:44:10.6612 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:17:00.3701 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+19:17:00.3853 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+19:20:19.8852 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {115C17214BA7295} Remote Control that is not yet replicated on client
+19:20:19.9358 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:20:20.3229 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:20:20.4240 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {138C4242FF450E4} Remote Control that is not yet replicated on client
+19:20:20.4394 [WARN]   Keen: Trying to remove entity with name Default_Astronaut that is not yet replicated on client
+19:20:20.6715 [WARN]   Keen: Trying to remove entity with name Default_Astronaut_Female that is not yet replicated on client
+19:20:58.1173 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:20:58.3837 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1A5A662F7765801} Remote Control that is not yet replicated on client
+19:20:58.4509 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:20:58.5519 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {18263C401CEF7D6} Remote Control that is not yet replicated on client
+19:20:58.9836 [WARN]   Keen: Trying to remove entity with name Default_Astronaut that is not yet replicated on client
+19:20:59.8030 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1D071ECDFAF6868} Remote Control that is not yet replicated on client
+19:21:00.1855 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1F49236A863D79A} Remote Control 2 that is not yet replicated on client
+19:21:00.5508 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1979384406A74F5} Remote Control that is not yet replicated on client
+19:21:00.6179 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1CC6FC2B36CAD92} Remote Control that is not yet replicated on client
+19:21:00.8190 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1FA85C58FA872DB} Remote Control that is not yet replicated on client
+19:25:53.1531 [INFO]   Chat: [Global:0] Pyro: uhhh
+19:26:00.3371 [INFO]   Chat: [Global:0] Pyro: are you getting inventory bugs?
+19:26:07.0557 [INFO]   Torch.Managers.MultiplayerManagerBase: Pyro (76561198143574867) Disconnected.
+19:26:48.2699 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+19:26:48.2869 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+19:34:19.6820 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:34:19.6820 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:34:21.3450 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:34:21.3450 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:34:23.0122 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:34:23.0122 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:34:24.6792 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:34:24.6792 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:34:26.3459 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:34:26.3459 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:42:04.6577 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561199253002098 from 68.47.60.158
+19:42:04.6744 [INFO]   Torch.Managers.MultiplayerManagerBase: Player xXHolicsXx joined (76561199253002098)
+19:43:50.4007 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:43:50.4007 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:43:50.4983 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:43:50.4983 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:43:50.5488 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+19:43:50.5488 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+19:43:52.0672 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:43:52.0672 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:43:52.1657 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:43:52.1657 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:43:52.8317 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+19:43:52.8491 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+19:44:38.6818 [INFO]   Chat: [Global:0] xXHolicsXx: Aaaand I awaken where I was, having full batteries (thanks reactor)
+19:45:08.1659 [INFO]   Chat: [Global:0] xXHolicsXx: whats this lag
+19:45:43.7357 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:45:43.7357 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:45:45.4013 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:45:45.4013 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:46:52.5514 [INFO]   Chat: [Global:0] xXHolicsXx: did this start when I logged in?
+19:49:27.5948 [INFO]   Chat: [Global:0] xXHolicsXx: oh thats my local machine lagging wtf
+19:54:54.4127 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:54:54.6258 [WARN]   Keen: Trying to remove entity with name Police_Bot that is not yet replicated on client
+19:54:55.4444 [WARN]   Keen: Trying to remove entity with name Default_Astronaut that is not yet replicated on client
+19:55:39.2468 [WARN]   Keen: Trying to remove entity with name Default_Astronaut_Female that is not yet replicated on client
+19:59:24.4047 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:59:24.4047 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:59:26.0715 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:59:26.0715 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:59:27.7386 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:59:27.7386 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:59:29.4052 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:59:29.4052 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:01:19.9558 [INFO]   Chat: [Global:0] Pyro: /motd
+20:01:24.0720 [INFO]   Chat: [Global:0] xXHolicsXx: rekt
+20:01:55.5388 [INFO]   Chat: [Global:0] Pyro: brb
+20:01:58.9558 [INFO]   Chat: [Global:0] xXHolicsXx: k
+20:02:04.8416 [INFO]   Torch.Managers.MultiplayerManagerBase: Pyro (76561198143574867) Disconnected.
+20:10:01.5695 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:10:01.5695 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:10:03.2353 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:10:03.2353 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:14:57.7448 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+20:14:57.7618 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+20:17:54.2670 [INFO]   Chat: [Global:0] xXHolicsXx: The welding radius on these t5 welders are truly prodigious
+20:21:08.1722 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:21:08.1722 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:21:08.2224 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+20:21:08.2224 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+20:21:08.2574 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:21:08.2574 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:21:29.9932 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:21:29.9932 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:21:30.0554 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+20:21:30.0554 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+20:21:30.0994 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:21:30.0994 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:42:49.6012 [INFO]   Chat: [Global:0] xXHolicsXx: Think I've bout had enough Space Engineers for today, even though I barely played
+20:43:02.9205 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:02.9205 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:04.5886 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:04.5886 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:06.2542 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:06.2542 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:07.9207 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:07.9207 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:09.5908 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:09.5908 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:11.2565 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:11.2565 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:43:12.9205 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:43:12.9205 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:44:00.5475 [INFO]   Chat: [Global:0] xXHolicsXx: Have fun
+20:44:06.2663 [INFO]   Torch.Managers.MultiplayerManagerBase: xXHolicsXx (76561199253002098) Disconnected.
+20:45:07.3836 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...098] (76561199253002098) Disconnected.
+20:53:16.2306 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:53:16.2306 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:53:16.3133 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:53:16.3133 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:57:11.0684 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:57:11.0684 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:57:11.1515 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:57:11.1515 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:00:53.6018 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:00:53.6018 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:00:55.2691 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:00:55.2691 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:00:56.9400 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:00:56.9400 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:00:58.6028 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:00:58.6028 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:00.2692 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:00.2692 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:01.9358 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:01.9358 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:03.6055 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:03.6055 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:05.2691 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:05.2691 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:06.9357 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:06.9357 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:08.6065 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:01:08.6065 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:01:44.7920 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:46.7907 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:47.7919 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:48.7911 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:50.1251 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:51.1249 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:52.1252 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:53.4575 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:54.4669 [WARN]   Keen: Sound on different thread , PlaySound
+21:01:55.4574 [WARN]   Keen: Sound on different thread , PlaySound
+21:04:51.3825 [WARN]   Keen: Sound on different thread , PlaySound
+21:04:52.3835 [WARN]   Keen: Sound on different thread , PlaySound
+21:04:54.3839 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:15.0998 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:16.1003 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:17.1037 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:27.1491 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:28.1688 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:29.1494 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:30.1539 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:31.1496 [WARN]   Keen: Sound on different thread , PlaySound
+21:06:53.7604 [INFO]   Torch.Managers.MultiplayerManagerBase: Pyro (76561198143574867) Disconnected.
+21:18:33.2491 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+21:18:33.2661 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+21:21:37.6905 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:21:37.6905 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:21:37.9390 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:21:37.9390 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:23:05.7224 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:23:05.7224 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:23:05.8054 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:23:05.8054 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:34:48.6690 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:34:48.6690 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:34:50.3348 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:34:50.3348 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:34:52.0037 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:34:52.0037 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:34:53.6686 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:34:53.6686 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:42:42.8834 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561197993405115 from 209.122.61.34
+21:42:42.8998 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Steener joined (76561197993405115)
+21:55:34.5368 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:55:34.5368 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:55:36.2032 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:55:36.2032 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:59:11.3710 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:59:11.3710 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:59:13.0374 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:59:13.0374 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:59:14.7049 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:59:14.7049 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:59:16.3706 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:59:16.3706 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:05:00.3772 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:05:00.3772 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:05:00.4602 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:05:00.4602 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:16:40.2867 [INFO]   Torch.Managers.MultiplayerManagerBase: Pyro (76561198143574867) Disconnected.
+22:17:30.4366 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...867] (76561198143574867) Disconnected.
+22:28:30.5704 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:28:30.5704 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:28:32.2363 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:28:32.2363 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:28:33.9027 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:28:33.9027 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:28:35.5694 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:28:35.5694 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:28:37.2362 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:28:37.2362 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:46:48.3923 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198030953024 from 192.168.1.68
+22:46:48.4068 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Silverbane joined (76561198030953024)
+22:47:51.1108 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:51.1108 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:52.7749 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:52.7749 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:54.4424 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:54.4424 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:56.1088 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:56.1088 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:57.7756 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:57.7756 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:59.4421 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:47:59.4421 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:48:01.1125 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:48:01.1125 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:48:02.7751 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:48:02.7751 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:48:04.4420 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:48:04.4420 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:05:52.4611 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:05:52.4611 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:05:54.1280 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:05:54.1280 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:05:55.7947 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:05:55.7947 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:05:57.4617 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:05:57.4617 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:05:59.1275 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:05:59.1275 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:06:00.7941 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:06:00.7941 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:06:02.4606 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:06:02.4606 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:06:04.1283 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:06:04.1283 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:23.0919 [WARN]   Keen: Trying to remove entity with name Default_Astronaut_Female that is not yet replicated on client
+23:24:04.3421 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:04.3421 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:06.0091 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:06.0121 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:07.6760 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:07.6760 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:09.3415 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:09.3415 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:11.0093 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:11.0093 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:12.6748 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:12.6748 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:14.3419 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:14.3419 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:16.0090 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:16.0090 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:17.6754 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:17.6754 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:19.3434 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:19.3434 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:21.0087 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:21.0087 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:22.6755 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:22.6755 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:24.3511 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:24.3511 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:26.0088 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:26.0088 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:27.6748 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:27.6748 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:27:11.0096 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:27:11.0096 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:27:12.6761 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:27:12.6761 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:27:14.3423 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:27:14.3423 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:27:16.0095 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:27:16.0095 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:33:45.6074 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1667B83A783C5FF} Fighter Remote Control that is not yet replicated on client
+23:33:47.1477 [INFO]   Torch.Managers.MultiplayerManagerBase: Silverbane (76561198030953024) Disconnected.
+23:34:39.6310 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...024] (76561198030953024) Disconnected.
+23:40:46.1832 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:46.1832 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:47.8512 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:47.8512 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:56:34.5039 [INFO]   Torch.Managers.MultiplayerManagerBase: Steener (76561197993405115) Disconnected.
+23:57:27.7708 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...115] (76561197993405115) Disconnected.

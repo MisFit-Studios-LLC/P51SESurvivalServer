@@ -1,0 +1,12 @@
+[ExampleSection]
+BaseCost=2000
+ModifierCost=0.05
+MaxCost=50000
+FloorWealth=1000
+
+;--- START COMMENT ---
+;BaseCost: The flat rate for a respawn
+;ModifierCost: Additional fee based on total wealth (percentage)
+;MaxCost: Cap on maximum cost for a respawn
+;FloorWealth: No respawn fee when below this wealth
+;--- END COMMENT ---

@@ -1,0 +1,7 @@
+060523-21:17:27:2148    MaCore: SuperEarlySetup    Waking up.  Is Server: True
+060523-21:17:29:2879    MaCore: OxyGen (82217207744513382): Report:    I'm alive: 82217207744513382
+060523-21:17:33:5463    MaCore: OxyGen (124562130357205162): Report:    I'm alive: 124562130357205162
+060523-21:17:44:4026    MaCore: LateSetup    Fully online.
+060623-12:16:38:9628    MaCore: OxyGen (82217207744513382): Close:    I'm out! 82217207744513382
+060623-12:16:39:3343    MaCore: OxyGen (124562130357205162): Close:    I'm out! 124562130357205162
+060623-12:16:39:5630    MaCore: Unload    Retired.

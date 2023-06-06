@@ -1,0 +1,1033 @@
+00:22:54.6291 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561199253002098 from 68.47.60.158
+00:22:54.6447 [INFO]   Torch.Managers.MultiplayerManagerBase: Player xXHolicsXx joined (76561199253002098)
+00:30:28.1256 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+00:30:28.1256 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+00:30:29.7910 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+00:30:29.7910 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+00:30:31.4596 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+00:30:31.4596 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+00:30:33.1240 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+00:30:33.1240 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:06:06.6670 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:06:06.6670 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:06:08.3325 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:06:08.3325 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:06:10.0001 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:06:10.0001 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:42:23.6129 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:42:23.6129 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:42:25.2792 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:42:25.2792 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:42:26.9462 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:42:26.9462 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:42:28.6143 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:42:28.6143 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:07.2399 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:07.2399 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:08.9060 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:08.9060 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:10.5734 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:10.5734 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:12.2391 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:12.2391 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:13.9073 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:13.9073 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:15.5725 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:15.5725 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:14:17.2396 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+02:14:17.2396 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+02:50:47.7937 [INFO]   Torch: Stopping server.
+02:50:47.7937 [WARN]   Torch: Failed to wait for the game to be stopped
+02:50:47.7937 [INFO]   Torch: Server stopped.
+02:50:47.8189 [INFO]   Torch.Session.TorchSessionManager: Unloading torch session for Protocol 51 Star System
+02:50:47.8246 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Removed authentication intercept
+02:50:51.9898 [INFO]   Torch.Session.TorchSessionManager: Unloaded torch session for Protocol 51 Star System
+02:59:39.0209 [WARN]   InstanceManager: Checkpoint cache is stale, not saving dedicated config.
+02:59:51.8251 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+02:59:51.8251 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+02:59:52.0669 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+02:59:52.0745 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+02:59:52.0745 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+02:59:52.0745 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+02:59:52.0745 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+02:59:52.0745 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+02:59:52.5943 [INFO]   Torch.Patches.PromotePatch: patching promote
+02:59:52.5943 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+02:59:52.5943 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+02:59:52.6205 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+02:59:52.6721 [INFO]   Torch: Initializing server
+02:59:53.1291 [INFO]   Torch: RELEASE
+02:59:53.1291 [INFO]   Torch: Torch Version: v1.3.1.234-master
+02:59:53.1291 [INFO]   Torch: Game Version: 1.202.117
+02:59:53.1291 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.234, Culture=neutral, PublicKeyToken=null
+02:59:53.1291 [INFO]   Torch: Executing directory: C:\SEServer\
+02:59:53.1291 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+02:59:53.1291 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+02:59:53.1291 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+02:59:53.1402 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+02:59:53.4023 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+02:59:53.9969 [INFO]   Torch.VRageGame: Loading Dedicated Config
+02:59:54.0324 [INFO]   Torch.VRageGame: Initializing network services
+02:59:54.0324 [INFO]   Torch.VRageGame: Initializing services
+02:59:54.0324 [INFO]   Torch.VRageGame: Services initialized
+02:59:54.0674 [INFO]   Torch.VRageGame: Setting up serializers
+02:59:56.5064 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+02:59:59.0154 [INFO]   ModListControl: Instance loaded.
+02:59:59.0154 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+02:59:59.0154 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+02:59:59.0154 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+02:59:59.0154 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+02:59:59.0154 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+02:59:59.0154 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+02:59:59.0284 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+02:59:59.0284 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+02:59:59.0284 [INFO]   Torch: Starting server.
+03:00:00.2480 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+03:00:00.4322 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+03:00:02.8027 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+03:00:02.8027 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+03:00:02.8027 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+03:00:02.8027 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+03:00:02.8137 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+03:01:51.2617 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight
+03:01:51.2617 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight_Centered
+03:01:51.4188 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Cockpit/LWTS_SmallBlockCockpitMetal
+03:01:51.4497 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Assembler/LWTS_LargeAssemblerSimpleT5
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT2
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT3
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT4
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT5
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT6
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT7
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT2
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT3
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT4
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT5
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT6
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT7
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4
+03:01:51.4649 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5
+03:01:51.4813 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT2
+03:01:51.4813 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT3
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier2
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier3
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier4
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier5
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT2
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT3
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT4
+03:01:51.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT5
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier2
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier3
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier4
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier5
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier6
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier7
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier2
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier3
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier4
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier5
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier6
+03:01:51.5293 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier7
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier2
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier3
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier4
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier5
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT2
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT3
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT4
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT5
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Refinery/LWTS_LargeRefineryT5
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT2
+03:01:51.5594 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT3
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT4
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT5
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT2
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT3
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT4
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT5
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT2
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT3
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT4
+03:01:51.5745 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT5
+03:01:51.5902 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallThrustT5_GOLD
+03:01:51.5902 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallThrustT5_GOLD
+03:01:51.8247 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30
+03:01:51.8247 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30_sm
+03:01:51.8247 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot
+03:01:51.8247 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot_sm
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock_Armored_Full
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock_Armored_Full
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2_Armored_Half
+03:01:51.8567 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2_Armored_Half
+03:01:51.8884 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Conveyor/Maintenance_Door_Large
+03:01:53.3182 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+03:01:53.3182 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT2 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT3 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT4 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT5 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT2 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT3 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT4 is not in the same block-variant group
+03:01:53.3182 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT5 is not in the same block-variant group
+03:01:54.5666 [INFO]   Torch.Session.TorchSessionManager: Starting new torch session for Protocol 51 Star System
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/EngineerPlushieScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/SabiroidPlushieScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_GoldCoatScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_CandyCaneScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT6Scrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT7Scrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT6Scrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT7Scrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/Field_ModulatorsScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MESThrustScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ProprietaryTechScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/InhibitorChipScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AdminPlateScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CombatBotMaterialScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CrewBotMaterialScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_RepairBotMaterialScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_ScavengerBotMaterialScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/CompressorAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallThrustAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeThrustAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeHydrogenThrustAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallHydrogenThrustAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeAtmosphericThrustAssertScrap" is missing.
+03:01:55.1528 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallAtmosphericThrustAssertScrap" is missing.
+03:01:57.3715 [WARN]   Keen:    Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+03:01:58.1751 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:01:58.1751 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:01:58.7762 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:01:58.7762 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:01:59.1001 [WARN]   Keen: Sound on different thread , StopSound
+03:01:59.2732 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:01:59.2732 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:02:00.2991 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:02:00.2991 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:02:00.3882 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.3882 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.3882 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5639 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5639 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5639 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5639 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5639 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:00.5779 [WARN]   Keen: Sound on different thread , StopSound
+03:02:04.2307 [WARN]   Keen: Sound on different thread , StopSound
+03:02:14.3568 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Inserted authentication intercept
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'whatsmyip'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'help'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'longhelp'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'ver'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'plugins'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'stop'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'restart'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'notify'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'restart.cancel'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'stop.cancel'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'save'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'uptime'
+03:02:14.3568 [INFO]   Torch.Session.TorchSessionManager: Loaded torch session for Protocol 51 Star System
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.on'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.off'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.add'
+03:02:14.3568 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.remove'
+03:02:17.1380 [INFO]   Torch: Starting server watchdog.
+03:02:17.1560 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561199253002098 from 68.47.60.158
+03:02:17.6829 [INFO]   Torch.Managers.MultiplayerManagerBase: Player xXHolicsXx joined (76561199253002098)
+03:23:14.0936 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:23:14.0936 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:23:15.9252 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:23:15.9252 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:23:17.5887 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:23:17.5887 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:23:19.2562 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:23:19.2562 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:23:20.9221 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:23:20.9221 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:40:54.2565 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:40:54.2565 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:40:55.9238 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+03:40:55.9238 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+03:49:48.2318 [INFO]   Torch.Managers.MultiplayerManagerBase: xXHolicsXx (76561199253002098) Disconnected.
+03:50:37.4940 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...098] (76561199253002098) Disconnected.
+06:48:10.8881 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198043888294 from 173.238.6.239
+06:48:10.9048 [INFO]   Torch.Managers.MultiplayerManagerBase: Player deamons joined (76561198043888294)
+07:13:46.3683 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:14:59.2424 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:19:59.2574 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:24:59.2383 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:29:59.2571 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:34:59.2456 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:39:59.2726 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:40:37.2130 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+07:40:37.2130 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+07:44:59.2487 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:48:44.5556 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1CC6FC2B36CAD92} Remote Control that is not yet replicated on client
+07:48:44.6406 [WARN]   Keen: Trying to remove entity with name Default_Astronaut_Female that is not yet replicated on client
+07:48:44.7579 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1B2A8F27C021575} Fighter Remote Control that is not yet replicated on client
+07:48:44.7746 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {115C17214BA7295} Remote Control that is not yet replicated on client
+07:48:45.1031 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {18193CBDC9FFF17} Remote Control that is not yet replicated on client
+07:49:59.2556 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:53:27.4366 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:27.5362 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:27.6363 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:27.7362 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:28.7550 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:28.8697 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:53:28.9529 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:54:59.2575 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+07:58:09.7204 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:58:09.8041 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:58:09.9203 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:58:10.2536 [WARN]   Keen: Validation of sync value ID 3 failed.
+07:59:59.2641 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:04:59.2675 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:09:59.2827 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:14:59.2841 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:19:37.7693 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:19:37.7693 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:19:39.5242 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:19:39.5242 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:19:41.1889 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:19:41.1889 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:19:59.2711 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:24:59.2799 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:29:59.2824 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:34:59.2859 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:39:59.2900 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:43:44.7338 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:43:44.7338 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:43:46.4004 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:43:46.4004 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:43:48.0668 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:43:48.0668 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:43:49.7340 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+08:43:49.7340 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+08:44:59.2898 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:45:11.2121 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1B2A8F27C021575} Fighter Remote Control that is not yet replicated on client
+08:45:11.2408 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {16B7B1CB31EF636} Remote Control 3 that is not yet replicated on client
+08:45:11.3459 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1C25A2F8E940F84} Remote Control that is not yet replicated on client
+08:45:11.4466 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1A83F88A56D93BC} Remote Control BIG that is not yet replicated on client
+08:45:11.5576 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {18193CBDC9FFF17} Remote Control that is not yet replicated on client
+08:45:11.7239 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1D90D6F8B2198ED} Welder Remote Control 2 that is not yet replicated on client
+08:45:12.2614 [WARN]   Keen: Trying to remove entity with name Default_Astronaut_Female that is not yet replicated on client
+08:45:12.5096 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {115C17214BA7295} Remote Control that is not yet replicated on client
+08:45:12.6802 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1CC6FC2B36CAD92} Remote Control that is not yet replicated on client
+08:49:59.2979 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:54:59.2952 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+08:59:59.3116 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:04:59.3071 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:09:59.3324 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:14:59.2911 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:15:28.3087 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+09:15:28.3087 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+09:15:29.9750 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+09:15:29.9750 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+09:15:31.6419 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+09:15:31.6419 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+09:19:59.2933 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:24:59.2943 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:29:59.2972 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:34:59.3119 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:39:59.3013 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:44:59.3101 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:45:26.8502 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:49:59.3057 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:49:59.3197 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:54:59.3111 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:54:59.3111 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:59:59.3163 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+09:59:59.3293 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:04:59.3175 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:04:59.3305 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:09:59.3210 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:09:59.3405 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:10:18.5981 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:10:18.5981 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:10:20.2655 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:10:20.2655 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:10:21.9321 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:10:21.9321 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:10:23.5987 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:10:23.5987 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:10:25.2652 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:10:25.2652 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:14:59.3226 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:14:59.3485 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:19:59.3322 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:19:59.3422 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:24:59.3458 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:24:59.3646 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:28:28.7920 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:28:28.7920 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:28:30.4582 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:28:30.4582 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:28:32.1234 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:28:32.1234 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:28:33.7912 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:28:33.7912 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:28:35.4578 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:28:35.4578 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:29:59.3575 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:29:59.3785 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:30:37.3090 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {18193CBDC9FFF17} Remote Control that is not yet replicated on client
+10:30:38.3365 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:34:59.3532 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:34:59.3743 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:39:59.3532 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:39:59.3652 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:44:59.3545 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:44:59.3735 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:46:27.7205 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:48:09.0169 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:48:09.0169 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:48:10.6844 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:48:10.6844 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:48:12.3510 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+10:48:12.3510 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+10:49:59.3503 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:49:59.3563 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:49:59.3563 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:54:59.3510 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:54:59.3620 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:54:59.3883 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:59:59.3751 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:59:59.3751 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+10:59:59.3901 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:04:59.3846 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:04:59.3971 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:04:59.3971 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:09:59.3995 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:09:59.4045 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:09:59.4045 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:10:20.9657 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+11:10:20.9657 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+11:10:22.6330 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+11:10:22.6330 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+11:10:24.2989 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+11:10:24.2989 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+11:10:25.9652 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+11:10:25.9652 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+11:13:48.2726 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:13:48.9435 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:14:24.0166 [INFO]   Torch.Managers.MultiplayerManagerBase: deamons (76561198043888294) Disconnected.
+11:14:59.3931 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:14:59.3931 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:14:59.4065 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:19:59.3854 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:24:59.3897 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:29:59.3852 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:34:59.3932 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:39:59.4012 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:44:59.3906 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:49:59.3894 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:54:59.3996 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+11:59:59.3910 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:04:59.3945 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:09:59.3996 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:14:59.4224 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:19:59.4201 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:24:59.4042 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:29:59.4316 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:34:59.4153 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:39:59.4019 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:44:59.4186 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:49:59.4384 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:54:59.4122 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+12:59:59.4282 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:04:59.4183 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:09:59.4206 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:14:59.4362 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:19:59.4310 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:24:59.4163 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:29:59.4171 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:34:59.4226 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:39:59.4156 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:44:59.4168 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:49:59.4254 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:54:59.4183 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+13:59:59.4191 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:04:59.4264 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:09:59.4277 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:14:59.4212 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:19:59.4249 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:24:59.4294 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:29:59.4572 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:34:59.4323 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:39:59.4326 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:44:59.4356 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:49:59.4377 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:54:59.4354 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+14:59:59.4338 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:04:59.4399 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:09:59.4395 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:14:59.4439 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:19:59.4439 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:24:59.4383 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:29:59.4405 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:34:59.4403 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:39:59.4404 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:44:59.4406 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:49:59.4441 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:54:59.4408 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+15:59:59.4461 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:04:59.4446 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:09:59.4544 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:14:59.4497 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:19:59.4503 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:24:59.4603 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:29:59.4545 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:34:59.4589 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:39:59.4665 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:44:59.4645 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:49:59.4625 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:54:59.4585 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+16:59:59.4588 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:04:59.4630 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:09:59.4634 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:14:59.4630 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:19:59.4630 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:24:59.4650 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:29:59.4662 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:34:59.4598 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:39:59.4597 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:44:59.4628 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:49:59.4638 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:54:59.4666 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+17:59:59.4914 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:04:59.4726 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:09:59.4646 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:14:59.4716 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:19:59.4697 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:24:59.4672 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:29:59.4682 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:34:59.4698 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:39:59.4715 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:44:59.4832 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:49:59.4822 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:54:59.4861 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+18:59:59.4846 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:04:59.5158 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:09:59.4887 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:14:59.5010 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:19:59.5117 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:24:59.5094 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:29:59.5083 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:34:59.5104 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:39:59.5083 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:44:54.6594 [INFO]   Torch: Stopping server.
+19:44:54.6594 [WARN]   Torch: Failed to wait for the game to be stopped
+19:44:54.6594 [INFO]   Torch: Server stopped.
+19:44:54.6854 [INFO]   Torch.Session.TorchSessionManager: Unloading torch session for Protocol 51 Star System
+19:44:54.6854 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Removed authentication intercept
+19:44:54.7483 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+19:44:57.1877 [INFO]   Torch.Session.TorchSessionManager: Unloaded torch session for Protocol 51 Star System
+19:45:32.2951 [WARN]   InstanceManager: Checkpoint cache is stale, not saving dedicated config.
+19:47:37.2317 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+19:47:37.2317 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:47:37.3171 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+19:47:37.3171 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+19:47:37.3171 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+19:47:37.3241 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+19:47:37.3241 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+19:47:37.3241 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+19:47:37.3241 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+19:47:37.3241 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+19:47:37.3456 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+19:47:37.3456 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+19:47:37.3456 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:47:37.3456 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+19:47:37.4160 [INFO]   Torch.Patches.PromotePatch: patching promote
+19:47:37.4160 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+19:47:37.4160 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+19:47:37.4410 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+19:47:37.4711 [INFO]   Torch: Initializing server
+19:47:37.6761 [INFO]   Torch: RELEASE
+19:47:37.6761 [INFO]   Torch: Torch Version: v1.3.1.234-master
+19:47:37.6761 [INFO]   Torch: Game Version: 1.202.119
+19:47:37.6761 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.234, Culture=neutral, PublicKeyToken=null
+19:47:37.6761 [INFO]   Torch: Executing directory: C:\SEServer\
+19:47:37.6761 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+19:47:37.6865 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+19:47:37.6865 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+19:47:37.6865 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+19:47:38.0945 [WARN]   Torch.Managers.UpdateManager: Updating Torch from version v1.3.1.234-master to version v1.3.1.236-master
+19:47:38.1537 [INFO]   Torch.VRageGame: Loading Dedicated Config
+19:47:38.1812 [INFO]   Torch.VRageGame: Initializing network services
+19:47:38.1913 [INFO]   Torch.VRageGame: Initializing services
+19:47:38.1913 [INFO]   Torch.VRageGame: Services initialized
+19:47:38.2123 [INFO]   Torch.VRageGame: Setting up serializers
+19:47:38.5790 [WARN]   Torch.Managers.UpdateManager: Torch version v1.3.1.236-master has been installed.  Restarting...
+19:47:43.3444 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+19:47:43.3444 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+19:47:43.3942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+19:47:43.4132 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+19:47:43.4132 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+19:47:43.4132 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:47:43.4132 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+19:47:43.4292 [INFO]   Torch.Patches.PromotePatch: patching promote
+19:47:43.4292 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+19:47:43.4292 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+19:47:43.4462 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+19:47:43.4633 [INFO]   Torch: Initializing server
+19:47:43.5781 [INFO]   Torch: RELEASE
+19:47:43.5781 [INFO]   Torch: Torch Version: v1.3.1.236-master
+19:47:43.5781 [INFO]   Torch: Game Version: 1.202.119
+19:47:43.5781 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+19:47:43.5781 [INFO]   Torch: Executing directory: C:\SEServer\
+19:47:43.5781 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+19:47:43.5781 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+19:47:43.5781 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+19:47:43.5781 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+19:47:43.6373 [INFO]   Torch.VRageGame: Loading Dedicated Config
+19:47:43.6603 [INFO]   Torch.VRageGame: Initializing network services
+19:47:43.6603 [INFO]   Torch.VRageGame: Initializing services
+19:47:43.6688 [INFO]   Torch.VRageGame: Services initialized
+19:47:43.6838 [INFO]   Torch.VRageGame: Setting up serializers
+19:47:44.0817 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+19:47:44.5456 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+19:47:47.0354 [INFO]   ModListControl: Instance loaded.
+19:47:47.0354 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+19:47:47.0354 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+19:47:47.0454 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+19:47:47.0454 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+19:47:47.0645 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+19:47:47.0645 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+19:47:47.0645 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+19:47:47.0645 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:47:47.0645 [INFO]   Torch: Starting server.
+19:47:47.8056 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:47:47.9492 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:47:49.5799 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:47:49.5799 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:47:49.5799 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:47:49.5799 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:47:49.5929 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+19:50:17.1924 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight
+19:50:17.1924 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight_Centered
+19:50:17.5542 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Cockpit/LWTS_SmallBlockCockpitMetal
+19:50:17.6327 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Assembler/LWTS_LargeAssemblerSimpleT5
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT2
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT3
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT4
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT5
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT6
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT7
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT2
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT3
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT4
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT5
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT6
+19:50:17.6640 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT7
+19:50:17.6796 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2
+19:50:17.6796 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3
+19:50:17.6796 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4
+19:50:17.6796 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5
+19:50:17.7108 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT2
+19:50:17.7198 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT3
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier2
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier3
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier4
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier5
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT2
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT3
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT4
+19:50:17.7894 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT5
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier2
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier3
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier4
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier5
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier6
+19:50:17.8050 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier7
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier2
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier3
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier4
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier5
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier6
+19:50:17.8201 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier7
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier2
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier3
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier4
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier5
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT2
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT3
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT4
+19:50:17.8681 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT5
+19:50:17.8838 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Refinery/LWTS_LargeRefineryT5
+19:50:17.8838 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT2
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT3
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT4
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT5
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5
+19:50:17.8994 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT2
+19:50:17.9150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT3
+19:50:17.9150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT4
+19:50:17.9150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT5
+19:50:17.9150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT2
+19:50:17.9150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT3
+19:50:17.9200 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT4
+19:50:17.9200 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT5
+19:50:17.9467 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallThrustT5_GOLD
+19:50:17.9467 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallThrustT5_GOLD
+19:50:18.4655 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30
+19:50:18.4812 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30_sm
+19:50:18.4812 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot
+19:50:18.4812 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot_sm
+19:50:18.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock
+19:50:18.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock
+19:50:18.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock_Armored_Full
+19:50:18.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock_Armored_Full
+19:50:18.5124 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2
+19:50:18.5286 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2
+19:50:18.5286 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2_Armored_Half
+19:50:18.5286 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2_Armored_Half
+19:50:18.5599 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Conveyor/Maintenance_Door_Large
+19:50:20.9808 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+19:50:20.9808 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT2 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT3 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT4 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT5 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT2 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT3 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT4 is not in the same block-variant group
+19:50:20.9808 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT5 is not in the same block-variant group
+19:50:24.0470 [INFO]   Torch.Session.TorchSessionManager: Starting new torch session for Protocol 51 Star System
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/EngineerPlushieScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/SabiroidPlushieScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_GoldCoatScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_CandyCaneScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT6Scrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT7Scrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT6Scrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT7Scrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/Field_ModulatorsScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MESThrustScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ProprietaryTechScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/InhibitorChipScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AdminPlateScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CombatBotMaterialScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CrewBotMaterialScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_RepairBotMaterialScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_ScavengerBotMaterialScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/CompressorAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallThrustAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeThrustAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeHydrogenThrustAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallHydrogenThrustAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeAtmosphericThrustAssertScrap" is missing.
+19:50:24.9904 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallAtmosphericThrustAssertScrap" is missing.
+19:50:28.3447 [WARN]   Keen:    Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+19:50:30.3198 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:50:30.3198 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:50:30.9070 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:50:30.9070 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:50:31.0059 [WARN]   Keen: Sound on different thread , StopSound
+19:50:31.2407 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:50:31.2407 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:50:31.9953 [WARN]   Keen: Sound on different thread , StopSound
+19:50:33.3190 [WARN]   Keen: Sound on different thread , StopSound
+19:50:33.3820 [WARN]   Keen:    SurvivalReborn: Character definition for  is null!
+19:50:33.3820 [WARN]   Keen:    SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:50:51.7086 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Inserted authentication intercept
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'whatsmyip'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'help'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'longhelp'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'ver'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'plugins'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'stop'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'restart'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'notify'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'restart.cancel'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'stop.cancel'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'save'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'uptime'
+19:50:51.7086 [INFO]   Torch.Session.TorchSessionManager: Loaded torch session for Protocol 51 Star System
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.on'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.off'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.add'
+19:50:51.7086 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.remove'
+19:50:55.5837 [INFO]   Torch: Starting server watchdog.
+19:50:55.5993 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+19:50:56.2355 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+19:53:41.7231 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:53:41.7231 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:53:41.9122 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:53:41.9122 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:53:43.5627 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:53:43.5627 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:53:43.7044 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+19:53:43.7044 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:08:33.8763 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:08:33.8763 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:08:35.5274 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:08:35.5274 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:08:37.1966 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:08:37.1966 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:13:44.5918 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:17:47.2134 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:22:47.2081 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:27:47.2338 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:32:47.2238 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:37:47.2582 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:40:35.5862 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:35.5862 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:37.2523 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:37.2523 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:38.9245 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:38.9245 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:40.5919 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:40.5919 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:42.2565 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:42.2565 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:43.9115 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:43.9115 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:40:45.5759 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:40:45.5759 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:42:47.2712 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:47:47.2702 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:52:47.2758 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+20:56:05.8818 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:56:05.8818 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:56:07.5640 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:56:07.5640 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:56:13.3440 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:56:13.3440 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:56:13.4540 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:56:13.4540 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:56:14.4605 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+20:56:14.4605 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+20:56:14.5709 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:56:14.5709 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+20:57:47.2795 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:02:47.2884 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:07:47.3017 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:12:47.3001 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:17:47.3001 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:22:47.3134 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:23:23.6388 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:23:23.6388 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:23:23.7340 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:23:23.7340 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:27:47.3005 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:28:06.6520 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561199253002098 from 68.47.60.158
+21:28:06.6676 [INFO]   Torch.Managers.MultiplayerManagerBase: Player xXHolicsXx joined (76561199253002098)
+21:29:06.6368 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:29:06.6368 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:29:08.3023 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:29:08.3023 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:30:36.7678 [INFO]   Chat: [Global:0] xXHolicsXx: back at it again
+21:32:47.3336 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:33:35.5874 [INFO]   Chat: [Global:0] xXHolicsXx: I feel like my progress has been stagnant for the past few days
+21:37:47.3143 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:38:13.0032 [INFO]   Torch.Managers.MultiplayerManagerBase: Pyro (76561198143574867) Disconnected.
+21:38:54.8457 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...867] (76561198143574867) Disconnected.
+21:42:47.3233 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:47:47.3400 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:52:47.3298 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+21:57:47.3566 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:01:37.3996 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:01:37.3996 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:01:39.0694 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:01:39.0694 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:01:40.7508 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:01:40.7508 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:01:42.4140 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:01:42.4140 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:02:47.3470 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:05:06.9012 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:07:47.3641 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:12:47.5744 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:17:47.3625 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:18:28.8102 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:18:28.8102 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:18:30.4873 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:18:30.4873 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:22:47.3903 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:27:47.3947 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:32:47.4052 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:35:17.9918 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:35:33.9129 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:36:14.1758 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:14.1758 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:36:19.1827 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:19.1827 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:36:20.8568 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:20.8568 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:36:22.5171 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:22.5171 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:36:23.2705 [WARN]   Keen: Validation of sync value ID 1 failed.
+22:36:25.8448 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:25.8448 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:36:39.1849 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:36:39.1849 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:37:05.8522 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:37:05.8522 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:37:29.1852 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:37:29.1852 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:37:47.4060 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:37:47.4216 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:38:01.0028 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:38:01.0028 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:38:12.3236 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:38:16.0087 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:38:16.0087 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:38:49.3416 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:38:49.3416 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:39:10.9997 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:39:10.9997 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:39:18.7369 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:40:52.1266 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:42:47.4188 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:42:47.4188 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:43:52.9894 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:43:52.9894 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:43:54.6548 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:43:54.6548 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:43:56.3190 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:43:56.3190 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:43:57.9866 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:43:57.9866 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:47:47.4135 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:47:47.4135 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:52:47.4514 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:52:47.4514 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:57:47.4616 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+22:57:47.4616 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:02:47.4730 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:02:47.4730 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:04:59.5349 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:07:47.4832 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:07:47.4832 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:07:47.4988 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:08:10.2262 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:10.2262 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:11.8948 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:11.8948 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:13.5631 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:13.5631 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:15.2340 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:15.2340 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:16.8994 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:16.8994 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:18.5513 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:18.5513 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:20.2349 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:20.2349 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:12:47.5087 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:12:47.5087 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:12:47.5087 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:17:48.6287 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:17:48.6287 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:17:48.6444 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:19:31.2899 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:19:31.2899 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:19:31.3579 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+23:19:31.3579 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+23:19:46.8846 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:19:46.8846 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:19:46.9472 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+23:19:46.9472 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+23:22:48.6257 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:22:48.6412 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:22:48.6412 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:24:03.2305 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:03.2305 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:04.8972 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:04.8972 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:06.5566 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:06.5566 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:24:08.2382 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:24:08.2382 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:27:48.6422 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:27:48.6422 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:27:48.6422 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:32:48.6555 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:32:48.6555 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:32:48.6711 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:37:48.6660 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:37:48.6732 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:37:48.6732 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:40:03.8850 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:03.8850 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:05.5634 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:05.5634 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:07.2300 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:07.2300 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:08.8976 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:08.8976 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:10.5403 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:10.5403 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:12.2233 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:12.2233 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:40:13.8815 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:40:13.8815 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:42:48.6839 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:42:48.6839 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:42:48.6839 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:47:48.6824 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:47:48.6981 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:47:48.6981 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:47:52.4395 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:47:52.4395 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:47:54.1206 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:47:54.1206 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:48:43.8458 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:52:48.7045 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:52:48.7045 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:52:48.7045 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:52:57.5230 [WARN]   Keen: Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:53:12.7054 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:53:12.7054 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:53:16.0381 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:53:16.0381 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:57:48.7026 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:57:48.7026 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed
+23:57:48.7183 [WARN]   Keen:    Not saving ModStorageComponent GUID: 00fcf301-6fbe-44f2-99c9-350880af3621, not claimed

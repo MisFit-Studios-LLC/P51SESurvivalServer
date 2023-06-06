@@ -1,0 +1,13 @@
+06-05-23_19-06-11-964 - Logging Started
+06-05-23_19-06-36-022 - New Threat Detected:(NPC-CCF) Tear of the Sun (MyCubeGrid, 103960137785718520)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.2313912 - isFocus:False
+
+06-05-23_19-06-36-181 - New Threat Detected:(NPC-CCF) Tear of the Sun (MyCubeGrid, 103960137785718520)
+ - by: Small Grid 5758 (MyCubeGrid, 82534948404945758)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.3727813 - isFocus:False
+
+06-05-23_19-06-36-535 - New Threat Detected:(NPC-ACS) JXS Chasqui 01 (MyCubeGrid, 118371414701426930)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:10.43605 - isFocus:False
+

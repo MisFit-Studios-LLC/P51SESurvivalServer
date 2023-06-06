@@ -1,0 +1,120 @@
+
+
+[2023-05-28 22:08:24] Failed to read store 'install' from 'C:\SEServer\config\config.vdf.tmp'
+[2023-05-28 22:08:24] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-05-28 22:08:25] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:08:29] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-05-28 22:08:29] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:09:00] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:09:30] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:10:00] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:10:30] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:11:00] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:11:30] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:12:00] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:12:30] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-28 22:13:00] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-05-29 18:07:52] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-05-29 18:07:52] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-05-29 18:07:58] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+
+
+[2023-05-30 02:28:35] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-05-30 02:28:35] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-05-30 02:28:36] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:09:01] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:09:09] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:09:30] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:09:38] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:09:59] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:10:01] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:10:13] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:10:34] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:10:43] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:11:04] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:11:12] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:11:33] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:12:01] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:12:22] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:12:53] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:13:14] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:13:16] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:13:40] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:14:01] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:15:02] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:15:23] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:16:03] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:17:04] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:17:25] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:19:05] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:19:09] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-05-30 17:23:09] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-06-01 03:00:00] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-01 03:00:00] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-01 03:00:02] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-01 03:00:10] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+
+
+[2023-06-01 19:47:48] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-01 19:47:48] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-01 19:47:49] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-01 19:47:54] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-02 14:14:04] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-06-02 14:27:20] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-02 14:27:20] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-02 14:27:21] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-06-05 18:46:55] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:46:55] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+
+
+[2023-06-05 18:47:11] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:47:11] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+
+
+[2023-06-05 18:47:26] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:47:26] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+
+
+[2023-06-05 18:49:38] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:49:38] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+
+
+[2023-06-05 18:51:40] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:51:40] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+
+
+[2023-06-05 18:55:27] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 18:55:27] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-05 18:55:28] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-05 18:55:33] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+
+
+[2023-06-05 19:05:18] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 19:05:18] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-05 19:05:19] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-05 19:05:21] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-06-05 19:19:11] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 19:19:11] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-05 19:19:11] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-05 19:19:15] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+
+
+[2023-06-05 21:10:25] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 21:10:25] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-05 21:10:28] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+
+
+[2023-06-05 21:16:38] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully
+[2023-06-05 21:16:38] Failed to read store 'userlocal' from 'C:\SEServer\config\localconfig.vdf.tmp'
+[2023-06-05 21:16:40] Flushed store 'install' to 'C:\SEServer\config\config.vdf'
+[2023-06-05 21:16:43] Loaded store 'install' from 'C:\SEServer\config\config.vdf' successfully

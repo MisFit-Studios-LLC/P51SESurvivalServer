@@ -1,0 +1,542 @@
+060523-21:17:27:1568    CommonCore: SuperEarlySetup    Waking up.  Is Server: True
+060523-21:17:44:3926    CommonCore: LateSetup    Fully online.
+060523-21:17:44:4006    CommonCore: CommonCore - Basic Game Information    
+
+Information Export Begin
+═══════════════════════════════════════════
+
+Game Settings
+═══════════════════════════════════════════
+    Adaptive Sim Enabled: True
+    Cargo Ships Enabled: False
+    Stop Grids Period (minutes): 15
+    Encounters Enabled: False
+    Economy Enabled: True
+    Economy Ticks (seconds): 1200
+    Bounty Contracts Enabled: True
+    Drones Enabled: True
+    Scripts Enabled: True
+    Asteroid Density: 0.35
+    Weather Enabled: True
+    Online Mode: PUBLIC
+    Game Mode: Survival
+    Spiders Enabled: False
+    Wolves Enabled: False
+    Sync Distance: 10000
+    View Distance: 15000
+    Player Inventory Size Multiplier: 3
+    Grid Inventory Size Multiplier: 1
+    Total Pirate PCU: 50000
+    Total Player PCU: 100000
+
+Installed Mods
+═══════════════════════════════════════════
+    [Name (Id)] Assertive Combat Systems (Steam:1902970975) [Is a dependency] False
+    [Name (Id)] NPC Programming Extender (Steam:1400364273) [Is a dependency] False
+    [Name (Id)] NPC Defense Shields Provider (Steam:2043339470) [Is a dependency] False
+    [Name (Id)] NPC Weapon Upgrades (Steam:1555044803) [Is a dependency] False
+    [Name (Id)] Victims of Clang (Steam:2598692154) [Is a dependency] False
+    [Name (Id)] Refill Station (Steam:2752888260) [Is a dependency] False
+    [Name (Id)] Sneaky Sounds - Quieter Tools (Steam:1662953858) [Is a dependency] False
+    [Name (Id)] Defense Shields - v2.0(38) (Steam:1365616918) [Is a dependency] False
+    [Name (Id)] Stone Duster (Steam:1222032427) [Is a dependency] False
+    [Name (Id)] Aerodynamic Physics (Steam:571920453) [Is a dependency] False
+    [Name (Id)] FSZ - Faction Safe Zones ~Updated 12/23/19~ (Steam:1507368483) [Is a dependency] False
+    [Name (Id)] [QoL] Production Quota (Steam:2304715504) [Is a dependency] False
+    [Name (Id)] Dynamic Wheel Friction (Steam:2829589020) [Is a dependency] False
+    [Name (Id)] EDP - Jefferies Tubes (Steam:2965690182) [Is a dependency] False
+    [Name (Id)] NorthWind Heavy Equipment (Steam:2846577007) [Is a dependency] False
+    [Name (Id)] Block Restrictions (Steam:2053202808) [Is a dependency] False
+    [Name (Id)] Barrett M107A1 Anti-materiel precision rifle (New Scope Update!) (Updated To 1.198+!) (Steam:2071647642) [Is a dependency] False
+    [Name (Id)] Realistic holographic sight on vanilla rifles (Steam:1736735806) [Is a dependency] False
+    [Name (Id)] Camera Panning - rotate camera view (+reset 1st person character view) (Steam:806331071) [Is a dependency] False
+    [Name (Id)] Binoculars (Steam:2777644246) [Is a dependency] False
+    [Name (Id)] Gauge's Grid Garage (Steam:1893742731) [Is a dependency] False
+    [Name (Id)] AutoRun - Klime (Steam:1878844801) [Is a dependency] False
+    [Name (Id)] Small Wheel Bucket Excavator (Steam:2879142132) [Is a dependency] False
+    [Name (Id)] AQD - Concrete (Steam:2298956701) [Is a dependency] False
+    [Name (Id)] Scope Framework (Steam:2754014019) [Is a dependency] False
+    [Name (Id)] [QoL] Seismic Surveying (Steam:2821219378) [Is a dependency] False
+    [Name (Id)] ACS Assertive Bunkers (Steam:2473174197) [Is a dependency] False
+    [Name (Id)] Corruption PvE Combat (Steam:914369510) [Is a dependency] False
+    [Name (Id)] Pravda Heavy Industries (Steam:2852753555) [Is a dependency] False
+    [Name (Id)] Orks: The Great WAAAGH! (Steam:1793333265) [Is a dependency] False
+    [Name (Id)] Reavers: Terror of the Verse (Steam:525460808) [Is a dependency] False
+    [Name (Id)] Planet Creature Spawner (Steam:2371761016) [Is a dependency] False
+    [Name (Id)] MES Lost Colony Encounters + Frostbite (Steam:2617194602) [Is a dependency] False
+    [Name (Id)] CULT Remains (Steam:2169237583) [Is a dependency] False
+    [Name (Id)] Better Respawn Pod Earth Only (Steam:2776745184) [Is a dependency] False
+    [Name (Id)] Landing Wheels (Steam:2930794173) [Is a dependency] False
+    [Name (Id)] KOLT Command Consoles Revamped (Steam:2936367770) [Is a dependency] False
+    [Name (Id)] Jump Alert (Steam:2946330043) [Is a dependency] False
+    [Name (Id)] AwwScrap: I Found Your Crap! (Steam:2590528047) [Is a dependency] False
+    [Name (Id)] AwwScrap (Steam:1542310718) [Is a dependency] False
+    [Name (Id)] [v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (Steam:691529112) [Is a dependency] False
+    [Name (Id)] Rotate skybox with the Sun (Steam:2830474647) [Is a dependency] False
+    [Name (Id)] Gravity Collector - pulls and collects floating objects (Steam:402858936) [Is a dependency] False
+    [Name (Id)] BuildInfo (extra block+terminal info, air leak finder) (Steam:514062285) [Is a dependency] False
+    [Name (Id)] Seams Fixed (Map Tile Edge + Misaligned Lake Fix) (Steam:2961563719) [Is a dependency] False
+    [Name (Id)] [QoL] Mechanical Keybinds (Steam:2267007067) [Is a dependency] False
+    [Name (Id)] [Mexpex] Death FX - Sabiroids (Steam:2861683220) [Is a dependency] False
+    [Name (Id)] [Mexpex] Death FX - Framework 1.2 (Steam:2861680741) [Is a dependency] False
+    [Name (Id)] [Mexpex] Death FX - Engineers (Steam:2861684799) [Is a dependency] False
+    [Name (Id)] Zardos Connector Passageway & More (Steam:2783691448) [Is a dependency] False
+    [Name (Id)] Weapon Scanner (Steam:2702657782) [Is a dependency] False
+    [Name (Id)] Upgradable O2/H2 Generator (Steam:2118214855) [Is a dependency] False
+    [Name (Id)] Transporter (1.201) Works in Most Wanted (Steam:2071992722) [Is a dependency] False
+    [Name (Id)] TouchScreenAPI (Steam:2668820525) [Is a dependency] False
+    [Name (Id)] The Grenade Mod (Steam:2861285936) [Is a dependency] False
+    [Name (Id)] Text HUD API (Steam:758597413) [Is a dependency] False
+    [Name (Id)] Survival Reborn: Spacewalk (Steam:2836145064) [Is a dependency] False
+    [Name (Id)] Small Spiders (Steam:2178783350) [Is a dependency] False
+    [Name (Id)] Skybox - Lightshow (Steam:2914050178) [Is a dependency] False
+    [Name (Id)] RTS (Steam:2961726679) [Is a dependency] False
+    [Name (Id)] Robot Raider Pods (Steam:2598691307) [Is a dependency] False
+    [Name (Id)] Rich HUD Master (Steam:1965654081) [Is a dependency] False
+    [Name (Id)] Respawn Cost (Steam:2810197232) [Is a dependency] False
+    [Name (Id)] ResourceNodes (Steam:2493091475) [Is a dependency] False
+    [Name (Id)] Projector Highlighter (Steam:2947081810) [Is a dependency] False
+    [Name (Id)] Projections To Assembler (Steam:1289485324) [Is a dependency] False
+    [Name (Id)] Precision Placement (Steam:2927234626) [Is a dependency] False
+    [Name (Id)] Populated Worlds Creatures Ai Enabled NPCs (Steam:2747715235) [Is a dependency] False
+    [Name (Id)] Populated Worlds Ai Enabled NPCs (Steam:2621488886) [Is a dependency] False
+    [Name (Id)] Piston Head Tools (Steam:2194248159) [Is a dependency] False
+    [Name (Id)] Pipelines (Steam:2499720849) [Is a dependency] False
+    [Name (Id)] Perpetually Perturbed Pirates (Steam:1992435623) [Is a dependency] False
+    [Name (Id)] Modular Encounters Systems (Steam:1521905890) [Is a dependency] False
+    [Name (Id)] Material Scanner (Steam:2727504018) [Is a dependency] False
+    [Name (Id)] MA Spotlight pack (Steam:1881158066) [Is a dependency] False
+    [Name (Id)] InFlightButtons - Klime (Steam:1874524300) [Is a dependency] False
+    [Name (Id)] HUD Compass (Steam:1469072169) [Is a dependency] False
+    [Name (Id)] HoverEngine (compatible with the WaterMod from Jakaria) (Steam:2299281406) [Is a dependency] False
+    [Name (Id)] Heavy Gas (Steam:2921890257) [Is a dependency] False
+    [Name (Id)] Frontier Economy (Adds money and Trade) (Steam:504209260) [Is a dependency] False
+    [Name (Id)] Electric Network Info - Touch App (Steam:2917216762) [Is a dependency] False
+    [Name (Id)] Display Cases (Steam:2799659022) [Is a dependency] False
+    [Name (Id)] Darkish Nights (Steam:2966753242) [Is a dependency] False
+    [Name (Id)] Crew Enabled (Steam:2803081060) [Is a dependency] False
+    [Name (Id)] Conveyor Maintenance Ducts (Steam:1605982958) [Is a dependency] False
+    [Name (Id)] Colorful Icons (Steam:801185519) [Is a dependency] False
+    [Name (Id)] Cargo Scanner (Steam:2696023344) [Is a dependency] False
+    [Name (Id)] Button Pad - Touch App (Steam:2933676834) [Is a dependency] False
+    [Name (Id)] Bring Back Cyberhounds (Steam:945655546) [Is a dependency] False
+    [Name (Id)] Bot_spawner (Steam:2336089504) [Is a dependency] False
+    [Name (Id)] AiEnabled v1.5 (Steam:2596208372) [Is a dependency] False
+    [Name (Id)] AE NPC Dummies - Interactable NPC Blocks v. 0.6 (Steam:2289675817) [Is a dependency] False
+    [Name (Id)] Scarce Resources (Steam:831739660) [Is a dependency] False
+    [Name (Id)] Deep Scarce Resources (Steam:1216416537) [Is a dependency] False
+    [Name (Id)] Seismic surveying landing gear (Steam:2819263781) [Is a dependency] True
+    [Name (Id)] Definition Extension API (Steam:2756894170) [Is a dependency] True
+    [Name (Id)] Shower Light (Steam:2841920953) [Is a dependency] True
+    [Name (Id)] In Depth LCDs (Steam:2839553181) [Is a dependency] True
+    [Name (Id)] Assertive Loot (Steam:2391318591) [Is a dependency] True
+
+Stored Identities
+═══════════════════════════════════════════
+    [Id] 144115188075860615 [Display Name] Gamer Kid 007                       [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856200 [Display Name] Nicklealias                         [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859652 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859653 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859654 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856321 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856322 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856323 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856385 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856386 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856387 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856388 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856389 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856390 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856391 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856392 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856393 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856394 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856395 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856396 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856397 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856398 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856399 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856400 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856401 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856402 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856403 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856404 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856405 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856406 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856407 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856408 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856409 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856410 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856411 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856412 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856413 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856414 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856415 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856416 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856417 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856418 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856419 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856420 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856421 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856422 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856423 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856474 [Display Name] xXHolicsXx                          [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858725 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075861047 [Display Name] Exile                               [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075862178 [Display Name] titanfan_74                         [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075863299 [Display Name] Julie                               [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075863321 [Display Name] Murda                               [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858859 [Display Name] BlacKK                              [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859998 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075862236 [Display Name] Decipher                            [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856712 [Display Name] Pyro                                [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860097 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860098 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860099 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860152 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860153 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860154 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860155 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860156 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860157 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860158 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860159 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860160 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860161 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860162 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860163 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860164 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860165 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860166 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860167 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860168 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860169 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860170 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860171 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860172 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860173 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860174 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860175 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860176 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860177 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860178 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860179 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860180 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860181 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860182 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860183 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860184 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860185 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860186 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860187 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860188 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860189 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860190 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860191 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860192 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860193 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860194 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860195 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860196 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860197 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860198 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860199 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860200 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075860201 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856886 [Display Name] Xardalas                            [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858015 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858016 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858017 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075858018 [Display Name] spectre4evil                        [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075862513 [Display Name] The Town Drunk                      [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075863645 [Display Name] Terrus                              [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859220 [Display Name] I hate this game                    [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075855894 [Display Name] Space Pirates                       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855896 [Display Name] The Great Tarantula                 [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855897 [Display Name] Raider Commander                    [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855898 [Display Name] The Hungry                          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855899 [Display Name] The Wanderer                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855900 [Display Name] The Tinkerer                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855901 [Display Name] The Martyr                          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855902 [Display Name] The Tailor                          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855903 [Display Name] The Soldier                         [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855904 [Display Name] The Infiltrator                     [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855905 [Display Name] The Legionnaire                     [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855906 [Display Name] The Obsidianborn                    [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855907 [Display Name] Flamesoul                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855908 [Display Name] Azure's Gift                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855909 [Display Name] The Rusted                          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855910 [Display Name] The Architect                       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855911 [Display Name] The Modifier                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855912 [Display Name] The Alpha                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855913 [Display Name] Short Circuit                       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855914 [Display Name] Iron Hide                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855915 [Display Name] The Mechanic                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855916 [Display Name] Optimus                             [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855917 [Display Name] The Coder                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855918 [Display Name] Reboot                              [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855919 [Display Name] Scrap                               [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855920 [Display Name] The Analyst                         [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855921 [Display Name] The Hacker                          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075859273 [Display Name] Nick                                [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075855922 [Display Name] Tin                                 [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855923 [Display Name] The Map Maker                       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855924 [Display Name] Fiber                               [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855925 [Display Name] The General                         [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855926 [Display Name] The Brute                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855927 [Display Name] The Experiment                      [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855928 [Display Name] Ratchet                             [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855929 [Display Name] Socket                              [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855930 [Display Name] Cylinder                            [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855931 [Display Name] Telescope                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855932 [Display Name] Steener                             [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075857057 [Display Name] EHBox                               [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075855973 [Display Name] Silverbane                          [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075855974 [Display Name] The Director                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855975 [Display Name] The Chairman                        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855976 [Display Name] Contractors                         [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855977 [Display Name] Exiled Engineer                     [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855978 [Display Name] The Figurehead                      [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855979 [Display Name] Gork and Mork                       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855980 [Display Name] Miranda Survivors                   [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855981 [Display Name] The Board                           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855982 [Display Name] The Enlightened                     [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855983 [Display Name] Thumbs                              [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855984 [Display Name] Specialized Excavators CEO          [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855985 [Display Name] Star Drilling Consortium CEO        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855986 [Display Name] Galactic Drillers CEO               [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855987 [Display Name] First Class Drilling Consortium CEO [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855988 [Display Name] Intergalactic Sappers CEO           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855989 [Display Name] Enlightened Sappers CEO             [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855990 [Display Name] Supreme Cartel CEO                  [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855991 [Display Name] Imperial Alliance CEO               [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855992 [Display Name] Sovereign Cartel CEO                [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855993 [Display Name] Imperial Traffickers CEO            [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855994 [Display Name] Sacred Heavy Industry CEO           [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855995 [Display Name] Secret Industry CEO                 [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855996 [Display Name] Intergalactic Shipbuilding CEO      [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855997 [Display Name] Specialized Constructors CEO        [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075855998 [Display Name] Interstellar Constructors CEO       [Is Dead] True [SteamId > 0] False
+    [Id] 144115188075860514 [Display Name] piggles_19                          [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075857179 [Display Name]                                     [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075856099 [Display Name] Binkabobo                           [Is Dead] True [SteamId > 0] True
+    [Id] 144115188075859462 [Display Name] deamons                             [Is Dead] True [SteamId > 0] True
+
+Factions
+═══════════════════════════════════════════
+    [Tag] SPRT    [ID] 273060811546874192 [Name] Space Pirates                 
+    [Tag] SPID    [ID] 270184222006364636 [Name] Space spiders                 
+    [Tag] RAIDER  [ID] 226479273835736261 [Name] Raiders                       
+    [Tag] INFST   [ID] 275816724389911878 [Name] Infestation                   
+    [Tag] NOMAD   [ID] 261923771741606618 [Name] Nomads                        
+    [Tag] BINC    [ID] 245267358326354349 [Name] Bots Incorporated             
+    [Tag] SCDS    [ID] 231028637334967828 [Name] Suicide Squad                 
+    [Tag] OTFI    [ID] 267220894901551777 [Name] Outfitters Inc                
+    [Tag] UNIT    [ID] 246269573578578613 [Name] The Unit                      
+    [Tag] BLBT    [ID] 265216026921950218 [Name] Black Bots                    
+    [Tag] LEGN    [ID] 279925330001761013 [Name] Legion                        
+    [Tag] OBSD    [ID] 260835352568908894 [Name] Obsidian                      
+    [Tag] FLWR    [ID] 282903491443366076 [Name] Flames of Wrath               
+    [Tag] AZRE    [ID] 253595051027468460 [Name] Azure                         
+    [Tag] RSBC    [ID] 241210824008417684 [Name] Rust Bucket                   
+    [Tag] ENGR    [ID] 277924864436014968 [Name] Engineers Inc                 
+    [Tag] MDFR    [ID] 265338580476631998 [Name] Assimilators                  
+    [Tag] ALPB    [ID] 268224983427595173 [Name] Alpha Bots                    
+    [Tag] DMGD    [ID] 241281968874083912 [Name] The Damaged                   
+    [Tag] BTTL    [ID] 285655449482165439 [Name] Battle Bots                   
+    [Tag] MCHB    [ID] 242078849082846517 [Name] Mech Bots                     
+    [Tag] PRME    [ID] 217244654499012243 [Name] The Prime                     
+    [Tag] PREN    [ID] 265921224487110999 [Name] Perceptive Encoding           
+    [Tag] SENT    [ID] 271204589133020097 [Name] The Sentient                  
+    [Tag] JKHP    [ID] 287519770697518404 [Name] Junk Heap                     
+    [Tag] RCDR    [ID] 282773983370840825 [Name] Recon Droids                  
+    [Tag] OPER    [ID] 240409388141248249 [Name] The Operators                 
+    [Tag] MTLM    [ID] 271429076969696572 [Name] Metal Mates                   
+    [Tag] CRTG    [ID] 276052713902963034 [Name] Cartographers                 
+    [Tag] FIBR    [ID] 222965781441383308 [Name] Fiber Optics                  
+    [Tag] PCKP    [ID] 268578461836364239 [Name] The Peacekeepers              
+    [Tag] FGHT    [ID] 283810318051367798 [Name] Fighters Incorporated         
+    [Tag] FUTR    [ID] 249347407860693957 [Name] Future Bots                   
+    [Tag] CLBT    [ID] 235857590125917481 [Name] Clang Bots                    
+    [Tag] BLDR    [ID] 242807611712493973 [Name] Builders Inc                  
+    [Tag] CLTR    [ID] 280011194404196159 [Name] The Collectors                
+    [Tag] OBSR    [ID] 288126947813308314 [Name] The Observers                 
+    [Tag] IMBER   [ID] 235809665356602818 [Name] Imber Corporation             
+    [Tag] PARALLAX [ID] 218539059801349723 [Name] Parallax Concepts             
+    [Tag] INCON   [ID] 248687422973480706 [Name] Independent Contractor        
+    [Tag] CORRUPT [ID] 266285159319997236 [Name] The Corrupt                   
+    [Tag] PRAVDA  [ID] 242977237347027918 [Name] Pravda Heavy Industries       
+    [Tag] ORKS    [ID] 287706722855875944 [Name] Orks                          
+    [Tag] REAVER  [ID] 244098564260072880 [Name] Reavers                       
+    [Tag] TRADE   [ID] 255925116481129641 [Name] Trade Operators Coalition     
+    [Tag] CULT    [ID] 223904366722494763 [Name] The Cult                      
+    [Tag] ASSERT  [ID] 226583181264497071 [Name] Assert Inc                    
+    [Tag] SPEX    [ID] 228423084169107002 [Name] Specialized Excavators        
+    [Tag] STDC    [ID] 218982498159720018 [Name] Star Drilling Consortium      
+    [Tag] GCDR    [ID] 280319503090053510 [Name] Galactic Drillers             
+    [Tag] FCDC    [ID] 259142811632319374 [Name] First Class Drilling Consortium
+    [Tag] IGSR    [ID] 271793491589212953 [Name] Intergalactic Sappers         
+    [Tag] ENSR    [ID] 235993950613508249 [Name] Enlightened Sappers           
+    [Tag] SMCT    [ID] 243185349929199485 [Name] Supreme Cartel                
+    [Tag] IMAL    [ID] 236482427875219216 [Name] Imperial Alliance             
+    [Tag] SOCT    [ID] 228674882909512186 [Name] Sovereign Cartel              
+    [Tag] IMTK    [ID] 274385529670774391 [Name] Imperial Traffickers          
+    [Tag] SAHI    [ID] 224872501633449818 [Name] Sacred Heavy Industry         
+    [Tag] SCIN    [ID] 285238182729608592 [Name] Secret Industry               
+    [Tag] IGSB    [ID] 250221390323540182 [Name] Intergalactic Shipbuilding    
+    [Tag] SPCS    [ID] 235331001522374620 [Name] Specialized Constructors      
+    [Tag] ISCS    [ID] 247473135863668006 [Name] Interstellar Constructors     
+    [Tag] BOP     [ID] 271115867468814982 [Name] Birds Of Prey                 
+    [Tag] OTA     [ID] 276048289989138540 [Name] Otaku Academy                 
+    [Tag] ilp     [ID] 221006133931968295 [Name] i like pie                    
+    [Tag] X.C     [ID] 235352557872241168 [Name] Xidrandi Collective           
+    [Tag] Box     [ID] 222365854627654242 [Name] _Box                          
+    [Tag] MEH     [ID] 279640416068086632 [Name] Manic Engineering Hacks       
+    [Tag] UGH     [ID] 234227559930281640 [Name] Tired of dying                
+    [Tag] LNY     [ID] 284751204071384688 [Name] Its Lonley Out Here           
+    [Tag] CSA     [ID] 229347585207637819 [Name] canadian space agency         
+    [Tag] TVA     [ID] 287193846279115965 [Name] The Vast Anomoly              
+    [Tag] Drk     [ID] 217041784543781388 [Name] Town Drunk                    
+
+Information Export End
+═══════════════════════════════════════════
+
+060523-21:17:44:4016    CommonCore: CommonCore - Factions    
+
+Factions Report - Begin
+═══════════════════════════════════════════
+Lawful Factions
+
+Enforcement Factions
+
+Pirate Factions
+    SPRT
+    SPID
+
+Vanilla Trader Factions
+    INFST
+    IMBER
+    PARALLAX
+    INCON
+    TRADE
+    SPEX
+    STDC
+    GCDR
+    FCDC
+    IGSR
+    ENSR
+    SMCT
+    IMAL
+    SOCT
+    IMTK
+    SAHI
+    SCIN
+    IGSB
+    SPCS
+    ISCS
+
+Non-EEM NPC Factions
+    RAIDER
+    NOMAD
+    BINC
+    SCDS
+    OTFI
+    UNIT
+    BLBT
+    LEGN
+    OBSD
+    FLWR
+    AZRE
+    RSBC
+    ENGR
+    MDFR
+    ALPB
+    DMGD
+    BTTL
+    MCHB
+    PRME
+    PREN
+    SENT
+    JKHP
+    RCDR
+    OPER
+    MTLM
+    CRTG
+    FIBR
+    PCKP
+    FGHT
+    FUTR
+    CLBT
+    BLDR
+    CLTR
+    OBSR
+    CORRUPT
+    PRAVDA
+    ORKS
+    REAVER
+    CULT
+    ASSERT
+
+All NPC Factions
+    SPRT
+    SPID
+    RAIDER
+    NOMAD
+    BINC
+    SCDS
+    OTFI
+    UNIT
+    BLBT
+    LEGN
+    OBSD
+    FLWR
+    AZRE
+    RSBC
+    ENGR
+    MDFR
+    ALPB
+    DMGD
+    BTTL
+    MCHB
+    PRME
+    PREN
+    SENT
+    JKHP
+    RCDR
+    OPER
+    MTLM
+    CRTG
+    FIBR
+    PCKP
+    FGHT
+    FUTR
+    CLBT
+    BLDR
+    CLTR
+    OBSR
+    CORRUPT
+    PRAVDA
+    ORKS
+    REAVER
+    CULT
+    ASSERT
+
+Player Factions
+    BOP
+    OTA
+    ilp
+    X.C
+    Box
+    MEH
+    UGH
+    LNY
+    CSA
+    TVA
+    Drk
+
+Player Pirate Factions
+    None
+═══════════════════════════════════════════
+Factions Report - End
+
+060623-12:16:39:5730    CommonCore: Unload    Retired.

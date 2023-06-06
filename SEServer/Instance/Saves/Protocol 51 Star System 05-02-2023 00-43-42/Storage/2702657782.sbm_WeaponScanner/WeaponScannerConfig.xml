@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Logging>false</Logging>
+  <MinimumRange>0.2</MinimumRange>
+  <MaximumRange>2</MaximumRange>
+  <MinimumDetectionProbability>0.7</MinimumDetectionProbability>
+  <MaximumDetectionprobability>0.99</MaximumDetectionprobability>
+  <NormalPowerUsage>3.5</NormalPowerUsage>
+  <WorkPowerUsage>35</WorkPowerUsage>
+  <WorkDuration>3</WorkDuration>
+  <CooldownDuration>5</CooldownDuration>
+  <DetectUnpoweredWeapons>false</DetectUnpoweredWeapons>
+  <DetectableItems>
+    <DetectableWeapon>
+      <ItemType>LargeMissileTurret</ItemType>
+      <DetectionModifier>1</DetectionModifier>
+    </DetectableWeapon>
+    <DetectableWeapon>
+      <ItemType>LargeGatlingTurret</ItemType>
+      <DetectionModifier>1</DetectionModifier>
+    </DetectableWeapon>
+    <DetectableWeapon>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <DetectionModifier>1</DetectionModifier>
+    </DetectableWeapon>
+    <DetectableWeapon>
+      <ItemType>InteriorTurret</ItemType>
+      <DetectionModifier>0.3</DetectionModifier>
+    </DetectableWeapon>
+  </DetectableItems>
+</Configuration>

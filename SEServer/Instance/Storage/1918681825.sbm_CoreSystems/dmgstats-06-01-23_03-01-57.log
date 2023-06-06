@@ -1,0 +1,18 @@
+WeaponName, Quantity, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+Basic Rifle, 2, 396, 396, 0, 0, 0
+Basic Rifle, 1, 50, 50, 0, 0, 0
+Basic Rifle, 19, 16768, 16648, 0, 120, 0
+Basic Rifle, 2, 2858, 2858, 0, 0, 0
+MCRN PDC, 12, 4358064, 3515433, 0, 842631, 0
+MCRN PDC, 1, 21000, 0, 0, 21000, 0
+RightRetractPDC, 6, 1306409, 1147109, 0, 159300, 0
+LeftRetractPDC, 2, 389177, 322577, 0, 66600, 0
+TopRetractPDC, 7, 717133, 479233, 0, 237900, 0
+Small Gatling Gun, 1, 43020, 0, 0, 43020, 0
+Small Gatling Turret, 3, 231635, 121069, 0, 110566, 0
+Interior Turret, 26, 165414, 140212, 0, 25128, 74
+Autocannon, 5, 417883, 356636, 0, 61247, 0
+Autocannon Turret, 1, 173909, 173909, 0, 0, 0
+Large Assault Cannon Turret, 5, 453711, 129711, 0, 324000, 0
+Assault Cannon, 2, 193177, 157177, 0, 36000, 0
+Artillery Turret, 3, 1284808, 1148808, 0, 136000, 0

@@ -1,0 +1,388 @@
+05-30-23_02-29-35-709 - Logging Started
+05-30-23_02-29-35-831 - Basic_Rocket is NOT enabled for client prediction
+05-30-23_02-29-35-832 - Rocket_Frag is NOT enabled for client prediction
+05-30-23_02-29-35-836 - Advanced_Rocket_Launch is NOT enabled for client prediction
+05-30-23_02-29-35-836 - Advanced_Rocket is NOT enabled for client prediction
+05-30-23_02-29-35-836 - Rocket_Frag is NOT enabled for client prediction
+05-30-23_02-29-35-840 - FlareBase is NOT enabled for client prediction
+05-30-23_02-29-35-840 - FlareAmmo is NOT enabled for client prediction
+05-30-23_02-29-35-841 - Shotgun is NOT enabled for client prediction
+05-30-23_02-29-35-841 - Buckshot_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-844 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-846 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-846 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-846 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-860 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-860 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-864 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-864 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-866 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-866 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-868 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-868 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-872 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-872 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-875 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-875 - NDeU_Ammo is NOT enabled for client prediction
+05-30-23_02-29-35-876 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-877 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-877 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-878 - 25mm NATO is NOT enabled for client prediction
+05-30-23_02-29-35-879 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-879 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-880 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-882 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-883 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-884 - 200mm Missile is NOT enabled for client prediction
+05-30-23_02-29-35-885 - MR-50A is NOT enabled for client prediction
+05-30-23_02-29-35-885 - 5.56x45mm is NOT enabled for client prediction
+05-30-23_02-29-35-886 - Autocannon Shell is NOT enabled for client prediction
+05-30-23_02-29-35-886 - Autocannon Shell does not qualify for fixed weapon client reload verification
+05-30-23_02-29-35-887 - Autocannon Shell is NOT enabled for client prediction
+05-30-23_02-29-35-896 - Assault Cannon Shell is NOT enabled for client prediction
+05-30-23_02-29-35-898 - Assault Cannon Shell is NOT enabled for client prediction
+05-30-23_02-29-35-903 - Artillery Shell is NOT enabled for client prediction
+05-30-23_02-29-49-914 - WC Version: 26
+05-30-23_02-29-55-677 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_02-29-55-677 - Incompatible weapons: LWTS_LargeMissileTurretT5, LWTS_LargeMissileTurretT3, LWTS_LargeMissileTurretT4, LWTS_LargeGatlingTurretT3, LWTS_LargeGatlingTurretT2, LWTS_LargeMissileTurretT2, LWTS_SmallGatlingTurretT3, smallBlockMissileLauncherT3, LWTS_LargeGatlingTurretT4, SmallGatlingGunT3, 
+05-30-23_02-36-17-401 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_02-36-17-401 - Incompatible weapons: LWTS_LargeGatlingTurretT3, 
+05-30-23_02-43-26-155 - creating new storage for: loading:True - isMe:True - 100402554562457881[100402554562457881] - RapidFireAutomaticRifleItem
+05-30-23_02-43-29-364 - retrived storage for: loading:False - 100402554562457881[100402554562457881] - RapidFireAutomaticRifleItem
+05-30-23_02-43-31-315 - retrived storage for: loading:True - 82658204045807478[82658204045807478] - RapidFireAutomaticRifleItem
+05-30-23_02-43-32-081 - retrived storage for: loading:False - 82658204045807478[82658204045807478] - RapidFireAutomaticRifleItem
+05-30-23_02-43-34-132 - retrived storage for: loading:True - 137329952812049059[137329952812049059] - RapidFireAutomaticRifleItem
+05-30-23_02-44-37-845 - retrived storage for: loading:False - 137329952812049059[137329952812049059] - RapidFireAutomaticRifleItem
+05-30-23_02-52-37-908 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_02-52-37-908 - Incompatible weapons: LWTS_LargeGatlingTurretT5, 
+05-30-23_03-08-48-379 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_03-08-48-380 - Incompatible weapons: LWTS_LargeMissileTurretT3, LWTS_LargeMissileTurretT4, 
+05-30-23_03-24-48-730 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_03-24-48-730 - Incompatible weapons: LWTS_LargeGatlingTurretT2, 
+05-30-23_12-45-16-639 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_12-45-16-639 - Incompatible weapons: LWTS_LargeMissileTurretT5, LWTS_LargeGatlingTurretT2, 
+05-30-23_12-58-27-065 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_12-58-27-065 - Incompatible weapons: LWTS_LargeMissileTurretT4, 
+05-30-23_13-00-55-258 - creating new storage for: loading:True - isMe:True - 82452854209630348[82452854209630348] - FullAutoPistolItem
+05-30-23_13-00-55-323 - retrived storage for: loading:False - 82452854209630348[82452854209630348] - FullAutoPistolItem
+05-30-23_13-00-55-324 - retrived storage for: loading:False - 82452854209630348[82452854209630348] - FullAutoPistolItem
+05-30-23_13-02-35-966 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_13-02-35-966 - Incompatible weapons: smallBlockMissileLauncherT5, SmallGatlingGunT2, smallBlockMissileLauncherT3, 
+05-30-23_13-02-40-250 - creating new storage for: loading:True - isMe:True - 126598033755177809[126598033755177809] - SemiAutoPistolItem
+05-30-23_13-02-40-312 - retrived storage for: loading:False - 126598033755177809[126598033755177809] - SemiAutoPistolItem
+05-30-23_13-02-40-312 - retrived storage for: loading:False - 126598033755177809[126598033755177809] - SemiAutoPistolItem
+05-30-23_13-04-13-170 - retrived storage for: loading:True - 0[121281887722885139] - SemiAutoPistolItem
+05-30-23_13-04-13-220 - retrived storage for: loading:False - 0[121281887722885139] - SemiAutoPistolItem
+05-30-23_13-04-13-220 - ammoStorage skipping: SemiAutoPistolItem[0] not active entity: SemiAutoPistolItem[121281887722885139]
+05-30-23_13-14-37-544 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_13-14-37-544 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_LargeMissileTurretT5, LWTS_LargeGatlingTurretT3, LWTS_LargeGatlingTurretT4, 
+05-30-23_13-59-08-871 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_13-59-08-871 - Incompatible weapons: LWTS_SmallMissileTurretT4, SmallGatlingGunT3, LWTS_SmallGatlingTurretT4, smallBlockMissileLauncherT4, 
+05-30-23_14-04-32-260 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_14-04-32-260 - Incompatible weapons: LWTS_SmallGatlingTurretT2, SmallGatlingGunT5, LWTS_SmallMissileTurretT4, SmallGatlingGunT4, 
+05-30-23_14-44-39-910 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_14-44-39-910 - Incompatible weapons: LWTS_LargeMissileTurretT3, 
+05-30-23_15-31-51-116 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_15-31-51-116 - Incompatible weapons: LWTS_LargeGatlingTurretT5, 
+05-30-23_15-48-11-522 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_15-48-11-522 - Incompatible weapons: LWTS_LargeGatlingTurretT3, 
+05-30-23_15-55-43-182 - creating new storage for: loading:True - isMe:True - 92397020665849471[92397020665849471] - UltimateAutomaticRifleItem
+05-30-23_15-55-44-818 - creating new storage for: loading:True - isMe:True - 108455388950110848[108455388950110848] - UltimateAutomaticRifleItem
+05-30-23_15-55-45-165 - retrived storage for: loading:False - 92397020665849471[92397020665849471] - UltimateAutomaticRifleItem
+05-30-23_15-55-47-432 - retrived storage for: loading:False - 108455388950110848[108455388950110848] - UltimateAutomaticRifleItem
+05-30-23_17-02-53-831 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_17-02-53-831 - Incompatible weapons: LWTS_LargeGatlingTurretT2, 
+05-30-23_17-05-10-305 - creating new storage for: loading:True - isMe:True - 111623131940748768[111623131940748768] - AutomaticRifleItem
+05-30-23_17-05-13-214 - retrived storage for: loading:False - 111623131940748768[111623131940748768] - AutomaticRifleItem
+05-30-23_17-19-04-304 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_17-19-04-304 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-30-23_17-32-44-593 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_17-32-44-593 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-30-23_17-53-38-313 - creating new storage for: loading:True - isMe:True - 114792039596124562[114792039596124562] - PreciseAutomaticRifleItem
+05-30-23_17-53-44-294 - retrived storage for: loading:False - 114792039596124562[114792039596124562] - PreciseAutomaticRifleItem
+05-30-23_18-01-15-326 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_18-01-15-326 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT5, 
+05-30-23_18-16-50-802 - creating new storage for: loading:True - isMe:True - 82408826177401335[82408826177401335] - RapidFireAutomaticRifleItem
+05-30-23_18-16-50-864 - retrived storage for: loading:False - 82408826177401335[82408826177401335] - RapidFireAutomaticRifleItem
+05-30-23_18-16-50-864 - retrived storage for: loading:False - 82408826177401335[82408826177401335] - RapidFireAutomaticRifleItem
+05-30-23_18-16-52-464 - creating new storage for: loading:True - isMe:True - 136777140664790691[136777140664790691] - RapidFireAutomaticRifleItem
+05-30-23_18-16-52-548 - retrived storage for: loading:False - 136777140664790691[136777140664790691] - RapidFireAutomaticRifleItem
+05-30-23_18-16-52-548 - retrived storage for: loading:False - 136777140664790691[136777140664790691] - RapidFireAutomaticRifleItem
+05-30-23_18-16-54-148 - creating new storage for: loading:True - isMe:True - 135751746657874652[135751746657874652] - AutomaticRifleItem
+05-30-23_18-16-54-231 - retrived storage for: loading:False - 135751746657874652[135751746657874652] - AutomaticRifleItem
+05-30-23_18-16-54-232 - retrived storage for: loading:False - 135751746657874652[135751746657874652] - AutomaticRifleItem
+05-30-23_18-33-36-609 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_18-33-36-609 - Incompatible weapons: LWTS_LargeGatlingTurretT3, 
+05-30-23_18-56-47-550 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_18-56-47-550 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-30-23_18-57-25-800 - creating new storage for: loading:True - isMe:True - 110236566979218040[110236566979218040] - RapidFireAutomaticRifleItem
+05-30-23_18-57-35-198 - retrived storage for: loading:False - 110236566979218040[110236566979218040] - RapidFireAutomaticRifleItem
+05-30-23_18-57-36-674 - retrived storage for: loading:True - 0[108008672277092788] - RapidFireAutomaticRifleItem
+05-30-23_18-57-37-418 - retrived storage for: loading:True - 0[121693864320746842] - RapidFireAutomaticRifleItem
+05-30-23_18-57-37-920 - retrived storage for: loading:True - 0[92394886916000841] - AutomaticRifleItem
+05-30-23_18-58-37-662 - retrived storage for: loading:False - 0[92394886916000841] - AutomaticRifleItem
+05-30-23_18-58-37-662 - ammoStorage skipping: AutomaticRifleItem[0] not active entity: AutomaticRifleItem[92394886916000841]
+05-30-23_18-58-37-662 - retrived storage for: loading:False - 0[121693864320746842] - RapidFireAutomaticRifleItem
+05-30-23_18-58-37-662 - ammoStorage skipping: RapidFireAutomaticRifleItem[0] not active entity: RapidFireAutomaticRifleItem[121693864320746842]
+05-30-23_18-58-37-663 - retrived storage for: loading:False - 0[108008672277092788] - RapidFireAutomaticRifleItem
+05-30-23_18-58-37-663 - ammoStorage skipping: RapidFireAutomaticRifleItem[0] not active entity: RapidFireAutomaticRifleItem[108008672277092788]
+05-30-23_19-37-58-869 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_19-37-58-869 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_LargeMissileTurretT3, 
+05-30-23_19-54-59-381 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_19-54-59-381 - Incompatible weapons: smallBlockMissileLauncherT2, LWTS_SmallGatlingTurretT2, SmallGatlingGunT4, 
+05-30-23_20-10-59-720 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_20-10-59-720 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-30-23_20-26-40-057 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_20-26-40-057 - Incompatible weapons: KKTS_LargeMissileLauncherT4, SmallGatlingGunT4, smallBlockMissileLauncherT3, SmallGatlingGunT5, 
+05-30-23_20-41-11-329 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_20-41-11-329 - Incompatible weapons: SmallGatlingGunT5, LWTS_LargeGatlingTurretT3, LWTS_LargeGatlingTurretT5, 
+05-30-23_20-46-55-288 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_20-46-55-288 - Incompatible weapons: SmallGatlingGunT2, SmallGatlingGunT5, 
+05-30-23_21-42-44-312 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_21-42-44-312 - Incompatible weapons: LWTS_LargeGatlingTurretT2, 
+05-30-23_21-56-05-200 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_21-56-05-200 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeGatlingTurretT5, 
+05-30-23_22-25-47-059 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_22-25-47-059 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT3, 
+05-30-23_22-26-47-120 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_22-26-47-120 - Incompatible weapons: LWTS_LargeMissileTurretT4, 
+05-30-23_22-30-45-459 - creating new storage for: loading:True - isMe:True - 136513253726727039[136513253726727039] - FullAutoPistolItem
+05-30-23_22-30-45-518 - retrived storage for: loading:False - 136513253726727039[136513253726727039] - FullAutoPistolItem
+05-30-23_22-30-45-518 - retrived storage for: loading:False - 136513253726727039[136513253726727039] - FullAutoPistolItem
+05-30-23_22-39-08-045 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_22-39-08-046 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+05-30-23_22-41-16-095 - creating new storage for: loading:True - isMe:True - 134974047718866975[134974047718866975] - SemiAutoPistolItem
+05-30-23_22-41-16-158 - retrived storage for: loading:False - 134974047718866975[134974047718866975] - SemiAutoPistolItem
+05-30-23_22-41-16-158 - retrived storage for: loading:False - 134974047718866975[134974047718866975] - SemiAutoPistolItem
+05-30-23_22-41-19-431 - creating new storage for: loading:True - isMe:True - 108886486396716769[108886486396716769] - FullAutoPistolItem
+05-30-23_22-41-19-507 - retrived storage for: loading:False - 108886486396716769[108886486396716769] - FullAutoPistolItem
+05-30-23_22-41-19-507 - retrived storage for: loading:False - 108886486396716769[108886486396716769] - FullAutoPistolItem
+05-30-23_22-41-19-559 - retrived storage for: loading:True - 0[129249171386134878] - FullAutoPistolItem
+05-30-23_22-42-05-269 - retrived storage for: loading:True - 0[73001943319256212] - SemiAutoPistolItem
+05-30-23_22-42-23-314 - retrived storage for: loading:False - 0[129249171386134878] - FullAutoPistolItem
+05-30-23_22-42-23-314 - ammoStorage skipping: FullAutoPistolItem[0] not active entity: FullAutoPistolItem[129249171386134878]
+05-30-23_22-42-28-584 - retrived storage for: loading:False - 0[73001943319256212] - SemiAutoPistolItem
+05-30-23_22-42-28-584 - ammoStorage skipping: SemiAutoPistolItem[0] not active entity: SemiAutoPistolItem[73001943319256212]
+05-30-23_22-42-30-929 - retrived storage for: loading:True - 113245890136588237[113245890136588237] - SemiAutoPistolItem
+05-30-23_22-42-41-065 - retrived storage for: loading:False - 113245890136588237[113245890136588237] - SemiAutoPistolItem
+05-30-23_22-44-29-558 - creating new storage for: loading:True - isMe:True - 105440457536899043[105440457536899043] - RapidFireAutomaticRifleItem
+05-30-23_22-44-29-619 - retrived storage for: loading:False - 105440457536899043[105440457536899043] - RapidFireAutomaticRifleItem
+05-30-23_22-44-29-619 - retrived storage for: loading:False - 105440457536899043[105440457536899043] - RapidFireAutomaticRifleItem
+05-30-23_22-44-31-218 - creating new storage for: loading:True - isMe:True - 114555275605509796[114555275605509796] - AutomaticRifleItem
+05-30-23_22-44-31-309 - retrived storage for: loading:False - 114555275605509796[114555275605509796] - AutomaticRifleItem
+05-30-23_22-44-31-309 - retrived storage for: loading:False - 114555275605509796[114555275605509796] - AutomaticRifleItem
+05-30-23_22-45-42-888 - creating new storage for: loading:True - isMe:True - 141003357117960965[141003357117960965] - RapidFireAutomaticRifleItem
+05-30-23_22-45-42-947 - retrived storage for: loading:False - 141003357117960965[141003357117960965] - RapidFireAutomaticRifleItem
+05-30-23_22-45-42-948 - retrived storage for: loading:False - 141003357117960965[141003357117960965] - RapidFireAutomaticRifleItem
+05-30-23_22-45-44-560 - creating new storage for: loading:True - isMe:True - 102921588793853006[102921588793853006] - RapidFireAutomaticRifleItem
+05-30-23_22-45-44-631 - retrived storage for: loading:False - 102921588793853006[102921588793853006] - RapidFireAutomaticRifleItem
+05-30-23_22-45-44-631 - retrived storage for: loading:False - 102921588793853006[102921588793853006] - RapidFireAutomaticRifleItem
+05-30-23_22-52-41-554 - creating new storage for: loading:True - isMe:True - 105598750258283674[105598750258283674] - RapidFireAutomaticRifleItem
+05-30-23_22-52-43-224 - creating new storage for: loading:True - isMe:True - 138779393104022793[138779393104022793] - RapidFireAutomaticRifleItem
+05-30-23_22-52-44-913 - creating new storage for: loading:True - isMe:True - 138847431376624964[138847431376624964] - RapidFireAutomaticRifleItem
+05-30-23_22-52-46-572 - creating new storage for: loading:True - isMe:True - 141703863723845498[141703863723845498] - RapidFireAutomaticRifleItem
+05-30-23_22-53-47-108 - retrived storage for: loading:False - 138847431376624964[138847431376624964] - RapidFireAutomaticRifleItem
+05-30-23_22-53-48-109 - retrived storage for: loading:False - 141703863723845498[141703863723845498] - RapidFireAutomaticRifleItem
+05-30-23_22-53-50-608 - retrived storage for: loading:False - 105598750258283674[105598750258283674] - RapidFireAutomaticRifleItem
+05-30-23_22-53-52-358 - retrived storage for: loading:False - 138779393104022793[138779393104022793] - RapidFireAutomaticRifleItem
+05-30-23_23-07-02-240 - creating new storage for: loading:True - isMe:True - 95104345086326389[95104345086326389] - RapidFireAutomaticRifleItem
+05-30-23_23-07-03-906 - creating new storage for: loading:True - isMe:True - 82073477623376681[82073477623376681] - RapidFireAutomaticRifleItem
+05-30-23_23-07-05-585 - creating new storage for: loading:True - isMe:True - 98108729577285902[98108729577285902] - RapidFireAutomaticRifleItem
+05-30-23_23-07-07-262 - creating new storage for: loading:True - isMe:True - 86318880618722668[86318880618722668] - RapidFireAutomaticRifleItem
+05-30-23_23-07-47-601 - retrived storage for: loading:False - 95104345086326389[95104345086326389] - RapidFireAutomaticRifleItem
+05-30-23_23-08-34-678 - retrived storage for: loading:False - 82073477623376681[82073477623376681] - RapidFireAutomaticRifleItem
+05-30-23_23-08-53-143 - retrived storage for: loading:False - 98108729577285902[98108729577285902] - RapidFireAutomaticRifleItem
+05-30-23_23-09-07-974 - retrived storage for: loading:False - 86318880618722668[86318880618722668] - RapidFireAutomaticRifleItem
+05-30-23_23-09-49-320 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_23-09-49-321 - Incompatible weapons: LWTS_LargeGatlingTurretT3, 
+05-30-23_23-12-47-542 - creating new storage for: loading:True - isMe:True - 115845275118757633[115845275118757633] - BasicHandHeldLauncherItem
+05-30-23_23-13-39-794 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-30-23_23-13-39-794 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeGatlingTurretT5, 
+05-30-23_23-13-42-573 - retrived storage for: loading:False - 115845275118757633[115845275118757633] - BasicHandHeldLauncherItem
+05-30-23_23-13-42-573 - retrived storage for: loading:False - 115845275118757633[115845275118757633] - BasicHandHeldLauncherItem
+05-30-23_23-15-45-478 - retrived storage for: loading:True - 0[134353303677520163] - BasicHandHeldLauncherItem
+05-30-23_23-15-51-042 - retrived storage for: loading:False - 0[134353303677520163] - BasicHandHeldLauncherItem
+05-30-23_23-15-51-042 - ammoStorage skipping: BasicHandHeldLauncherItem[0] not active entity: BasicHandHeldLauncherItem[134353303677520163]
+05-31-23_18-44-10-692 - creating new storage for: loading:True - isMe:True - 103549615832669666[103549615832669666] - FullAutoPistolItem
+05-31-23_18-44-10-761 - retrived storage for: loading:False - 103549615832669666[103549615832669666] - FullAutoPistolItem
+05-31-23_18-44-10-761 - retrived storage for: loading:False - 103549615832669666[103549615832669666] - FullAutoPistolItem
+05-31-23_19-37-58-447 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_19-37-58-447 - Incompatible weapons: LWTS_LargeMissileTurretT3, 
+05-31-23_19-45-43-772 - creating new storage for: loading:True - isMe:True - 97384199872504879[97384199872504879] - RapidFireAutomaticRifleItem
+05-31-23_19-45-43-833 - retrived storage for: loading:False - 97384199872504879[97384199872504879] - RapidFireAutomaticRifleItem
+05-31-23_19-45-43-834 - retrived storage for: loading:False - 97384199872504879[97384199872504879] - RapidFireAutomaticRifleItem
+05-31-23_19-45-45-440 - creating new storage for: loading:True - isMe:True - 129557837374122516[129557837374122516] - AutomaticRifleItem
+05-31-23_19-45-45-522 - retrived storage for: loading:False - 129557837374122516[129557837374122516] - AutomaticRifleItem
+05-31-23_19-45-45-522 - retrived storage for: loading:False - 129557837374122516[129557837374122516] - AutomaticRifleItem
+05-31-23_19-50-19-638 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_19-50-19-638 - Incompatible weapons: LWTS_LargeGatlingTurretT5, LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT2, LWTS_LargeGatlingTurretT2, LWTS_LargeGatlingTurretT3, LWTS_LargeMissileTurretT3, LWTS_LargeMissileTurretT4, 
+05-31-23_19-59-24-440 - creating new storage for: loading:True - isMe:True - 77205540677610174[77205540677610174] - SemiAutoPistolItem
+05-31-23_19-59-26-109 - creating new storage for: loading:True - isMe:True - 89996279919067398[89996279919067398] - SemiAutoPistolItem
+05-31-23_19-59-27-790 - creating new storage for: loading:True - isMe:True - 125539276760721200[125539276760721200] - FullAutoPistolItem
+05-31-23_19-59-29-456 - creating new storage for: loading:True - isMe:True - 90833857816001519[90833857816001519] - AutomaticRifleItem
+05-31-23_19-59-29-544 - retrived storage for: loading:False - 77205540677610174[77205540677610174] - SemiAutoPistolItem
+05-31-23_19-59-30-713 - retrived storage for: loading:False - 89996279919067398[89996279919067398] - SemiAutoPistolItem
+05-31-23_19-59-34-877 - retrived storage for: loading:False - 125539276760721200[125539276760721200] - FullAutoPistolItem
+05-31-23_19-59-35-846 - retrived storage for: loading:False - 90833857816001519[90833857816001519] - AutomaticRifleItem
+05-31-23_20-02-21-025 - retrived storage for: loading:True - 82090258837533999[82090258837533999] - BasicHandHeldLauncherItem
+05-31-23_20-06-10-225 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_20-06-10-225 - Incompatible weapons: LWTS_LargeMissileTurretT3, 
+05-31-23_20-20-00-946 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_20-20-00-946 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-31-23_20-21-30-923 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_20-21-30-923 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-31-23_20-36-51-418 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_20-36-51-418 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+05-31-23_20-37-01-435 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_20-37-01-435 - Incompatible weapons: LWTS_LargeGatlingTurretT2, 
+05-31-23_20-45-19-683 - creating new storage for: loading:True - isMe:True - 103199799358477469[103199799358477469] - RapidFireAutomaticRifleItem
+05-31-23_20-45-36-297 - retrived storage for: loading:False - 103199799358477469[103199799358477469] - RapidFireAutomaticRifleItem
+05-31-23_20-45-41-283 - retrived storage for: loading:True - 112975178333548829[112975178333548829] - RapidFireAutomaticRifleItem
+05-31-23_20-46-05-831 - retrived storage for: loading:False - 112975178333548829[112975178333548829] - RapidFireAutomaticRifleItem
+05-31-23_20-47-15-799 - retrived storage for: loading:True - 122270459852626758[122270459852626758] - RapidFireAutomaticRifleItem
+05-31-23_20-47-24-147 - retrived storage for: loading:False - 122270459852626758[122270459852626758] - RapidFireAutomaticRifleItem
+05-31-23_20-47-24-147 - retrived storage for: loading:False - 122270459852626758[122270459852626758] - RapidFireAutomaticRifleItem
+05-31-23_20-47-29-516 - retrived storage for: loading:True - 0[100365530667658148] - RapidFireAutomaticRifleItem
+05-31-23_20-47-31-264 - retrived storage for: loading:False - 0[100365530667658148] - RapidFireAutomaticRifleItem
+05-31-23_20-47-31-264 - ammoStorage skipping: RapidFireAutomaticRifleItem[0] not active entity: RapidFireAutomaticRifleItem[100365530667658148]
+05-31-23_20-50-28-199 - retrived storage for: loading:True - 130102929678584313[130102929678584313] - RapidFireAutomaticRifleItem
+05-31-23_20-50-29-560 - retrived storage for: loading:False - 130102929678584313[130102929678584313] - RapidFireAutomaticRifleItem
+05-31-23_21-01-45-503 - retrived storage for: loading:True - 113288594303503049[113288594303503049] - RapidFireAutomaticRifleItem
+05-31-23_21-02-04-540 - retrived storage for: loading:False - 113288594303503049[113288594303503049] - RapidFireAutomaticRifleItem
+05-31-23_21-04-50-327 - retrived storage for: loading:True - 137656612988033657[137656612988033657] - RapidFireAutomaticRifleItem
+05-31-23_21-04-58-907 - retrived storage for: loading:False - 137656612988033657[137656612988033657] - RapidFireAutomaticRifleItem
+05-31-23_21-05-43-143 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_21-05-43-143 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_LargeGatlingTurretT3, LWTS_LargeMissileTurretT3, 
+05-31-23_21-06-13-661 - retrived storage for: loading:True - 97154834974163973[97154834974163973] - RapidFireAutomaticRifleItem
+05-31-23_21-21-17-064 - retrived storage for: loading:False - 97154834974163973[97154834974163973] - RapidFireAutomaticRifleItem
+05-31-23_21-33-38-373 - retrived storage for: loading:True - 105177855591102870[105177855591102870] - RapidFireAutomaticRifleItem
+05-31-23_21-33-43-999 - retrived storage for: loading:False - 105177855591102870[105177855591102870] - RapidFireAutomaticRifleItem
+05-31-23_21-33-44-352 - retrived storage for: loading:True - 85502852975407553[85502852975407553] - RapidFireAutomaticRifleItem
+05-31-23_21-34-20-949 - retrived storage for: loading:False - 85502852975407553[85502852975407553] - RapidFireAutomaticRifleItem
+05-31-23_21-34-48-701 - creating new storage for: loading:True - isMe:True - 143866557683668227[143866557683668227] - UltimateAutomaticRifleItem
+05-31-23_21-34-50-373 - creating new storage for: loading:True - isMe:True - 129870574550879291[129870574550879291] - UltimateAutomaticRifleItem
+05-31-23_21-34-53-717 - creating new storage for: loading:True - isMe:True - 94043731993799642[94043731993799642] - UltimateAutomaticRifleItem
+05-31-23_21-35-46-940 - retrived storage for: loading:False - 143866557683668227[143866557683668227] - UltimateAutomaticRifleItem
+05-31-23_21-36-37-318 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_21-36-37-318 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeGatlingTurretT5, 
+05-31-23_21-44-23-680 - retrived storage for: loading:True - 80585320006208790[80585320006208790] - RapidFireAutomaticRifleItem
+05-31-23_21-44-42-535 - retrived storage for: loading:False - 129870574550879291[129870574550879291] - UltimateAutomaticRifleItem
+05-31-23_21-44-52-512 - retrived storage for: loading:False - 80585320006208790[80585320006208790] - RapidFireAutomaticRifleItem
+05-31-23_21-44-52-512 - creating new storage for: loading:False - isMe:False - 129870574550879291[80585320006208790] - UltimateAutomaticRifleItem
+05-31-23_21-44-52-512 - ammoStorage skipping: UltimateAutomaticRifleItem[129870574550879291] not active entity: RapidFireAutomaticRifleItem[80585320006208790]
+05-31-23_21-48-37-927 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_21-48-37-927 - Incompatible weapons: LWTS_LargeMissileTurretT2, 
+05-31-23_21-52-17-992 - retrived storage for: loading:True - 133117643980375910[133117643980375910] - RapidFireAutomaticRifleItem
+05-31-23_21-52-20-509 - retrived storage for: loading:False - 133117643980375910[133117643980375910] - RapidFireAutomaticRifleItem
+05-31-23_21-52-48-054 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_21-52-48-054 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeGatlingTurretT5, LWTS_LargeMissileTurretT2, 
+05-31-23_21-55-34-593 - creating new storage for: loading:True - isMe:True - 118700395485245382[118700395485245382] - RapidFireAutomaticRifleItem
+05-31-23_21-55-34-653 - retrived storage for: loading:False - 118700395485245382[118700395485245382] - RapidFireAutomaticRifleItem
+05-31-23_21-55-34-653 - retrived storage for: loading:False - 118700395485245382[118700395485245382] - RapidFireAutomaticRifleItem
+05-31-23_21-55-36-252 - creating new storage for: loading:True - isMe:True - 80737855349068514[80737855349068514] - AutomaticRifleItem
+05-31-23_21-55-36-336 - retrived storage for: loading:False - 80737855349068514[80737855349068514] - AutomaticRifleItem
+05-31-23_21-55-36-336 - retrived storage for: loading:False - 80737855349068514[80737855349068514] - AutomaticRifleItem
+05-31-23_21-58-37-078 - retrived storage for: loading:False - 94043731993799642[94043731993799642] - UltimateAutomaticRifleItem
+05-31-23_21-59-11-405 - creating new storage for: loading:True - isMe:True - 87568496580082863[87568496580082863] - AutomaticRifleItem
+05-31-23_21-59-13-081 - creating new storage for: loading:True - isMe:True - 77433289422696376[77433289422696376] - AutomaticRifleItem
+05-31-23_21-59-14-756 - creating new storage for: loading:True - isMe:True - 93735301124707339[93735301124707339] - SemiAutoPistolItem
+05-31-23_21-59-16-403 - creating new storage for: loading:True - isMe:True - 99022346217095157[99022346217095157] - FullAutoPistolItem
+05-31-23_21-59-26-177 - retrived storage for: loading:False - 99022346217095157[99022346217095157] - FullAutoPistolItem
+05-31-23_21-59-30-244 - retrived storage for: loading:False - 93735301124707339[93735301124707339] - SemiAutoPistolItem
+05-31-23_21-59-37-001 - retrived storage for: loading:False - 77433289422696376[77433289422696376] - AutomaticRifleItem
+05-31-23_22-02-33-955 - p.Info.HitList.Sort failed: System.ArgumentException: Unable to sort because the IComparer.Compare() method returns inconsistent results. Either a value does not compare equal to itself, or one value repeatedly compared to another value yields different results. IComparer: 'System.Array+FunctorComparer`1[CoreSystems.Support.HitEntity]'.
+   at System.Collections.Generic.IntrospectiveSortUtilities.ThrowOrIgnoreBadComparer(Object comparer)
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(Comparison`1 comparison)
+   at CoreSystems.Projectiles.Projectiles.GenerateHitInfo(Projectile p) - weapon:MCRN PDC - ammo:25mm NATO - hitCount:17
+05-31-23_22-04-28-478 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-04-28-478 - Incompatible weapons: LWTS_LargeMissileTurretT4, LWTS_LargeGatlingTurretT5, LWTS_LargeGatlingTurretT2, 
+05-31-23_22-08-38-484 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-08-38-484 - Incompatible weapons: LWTS_LargeMissileTurretT3, 
+05-31-23_22-18-59-010 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-18-59-010 - Incompatible weapons: LWTS_LargeMissileTurretT5, KKTS_LargeMissileLauncherT4, 
+05-31-23_22-19-45-253 - ServerActiveControlUpdate: ai:False - targetingAi:False - masterAi:False - playerId:0(76561197993405115) - marked:False(False) - active:True - inTopMap:True - controlName:128942259732839719 (MyCockpit, 128942259732839719)
+05-31-23_22-19-47-504 - ServerActiveControlUpdate: ai:False - targetingAi:False - masterAi:False - playerId:0(76561197993405115) - marked:False(False) - active:False - inTopMap:True - controlName:128942259732839719 (MyCockpit, 128942259732839719)
+05-31-23_22-20-15-922 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-20-15-923 - Incompatible weapons: SmallGatlingGunT3, smallBlockMissileLauncherT5, 
+05-31-23_22-35-29-505 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-35-29-505 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_LargeMissileTurretT5, LWTS_LargeMissileTurretT2, 
+05-31-23_22-49-00-316 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-49-00-316 - Incompatible weapons: LWTS_LargeMissileTurretT3, LWTS_LargeGatlingTurretT2, 
+05-31-23_22-53-30-597 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_22-53-30-597 - Incompatible weapons: LWTS_LargeGatlingTurretT3, LWTS_LargeGatlingTurretT2, 
+05-31-23_23-06-51-111 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_23-06-51-111 - Incompatible weapons: LWTS_LargeGatlingTurretT5, LWTS_LargeGatlingTurretT2, LWTS_LargeMissileTurretT2, LWTS_LargeMissileTurretT3, 
+05-31-23_23-23-43-026 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_23-23-43-026 - Incompatible weapons: LWTS_LargeGatlingTurretT5, LWTS_LargeGatlingTurretT2, 
+05-31-23_23-27-11-061 - creating new storage for: loading:True - isMe:True - 114872621067927893[114872621067927893] - RapidFireAutomaticRifleItem
+05-31-23_23-27-12-750 - creating new storage for: loading:True - isMe:True - 100491888652719805[100491888652719805] - RapidFireAutomaticRifleItem
+05-31-23_23-27-14-398 - creating new storage for: loading:True - isMe:True - 105452815752606970[105452815752606970] - RapidFireAutomaticRifleItem
+05-31-23_23-27-16-070 - creating new storage for: loading:True - isMe:True - 101166340021292762[101166340021292762] - RapidFireAutomaticRifleItem
+05-31-23_23-27-49-624 - retrived storage for: loading:False - 101166340021292762[101166340021292762] - RapidFireAutomaticRifleItem
+05-31-23_23-27-59-893 - creating new storage for: loading:True - isMe:True - 86075234538475185[86075234538475185] - RapidFireAutomaticRifleItem
+05-31-23_23-28-11-190 - retrived storage for: loading:False - 86075234538475185[86075234538475185] - RapidFireAutomaticRifleItem
+05-31-23_23-28-12-326 - retrived storage for: loading:True - 88110715956579921[88110715956579921] - RapidFireAutomaticRifleItem
+05-31-23_23-28-13-915 - retrived storage for: loading:False - 114872621067927893[114872621067927893] - RapidFireAutomaticRifleItem
+05-31-23_23-28-15-617 - retrived storage for: loading:False - 100491888652719805[100491888652719805] - RapidFireAutomaticRifleItem
+05-31-23_23-28-17-366 - retrived storage for: loading:False - 105452815752606970[105452815752606970] - RapidFireAutomaticRifleItem
+05-31-23_23-28-45-870 - retrived storage for: loading:False - 88110715956579921[88110715956579921] - RapidFireAutomaticRifleItem
+05-31-23_23-28-45-870 - creating new storage for: loading:False - isMe:False - 100491888652719805[88110715956579921] - RapidFireAutomaticRifleItem
+05-31-23_23-28-45-870 - ammoStorage skipping: RapidFireAutomaticRifleItem[100491888652719805] not active entity: RapidFireAutomaticRifleItem[88110715956579921]
+05-31-23_23-28-45-870 - creating new storage for: loading:False - isMe:False - 114872621067927893[88110715956579921] - RapidFireAutomaticRifleItem
+05-31-23_23-28-45-870 - ammoStorage skipping: RapidFireAutomaticRifleItem[114872621067927893] not active entity: RapidFireAutomaticRifleItem[88110715956579921]
+05-31-23_23-32-18-276 - retrived storage for: loading:True - 0[78100350149436482] - FullAutoPistolItem
+05-31-23_23-32-18-326 - retrived storage for: loading:False - 0[78100350149436482] - FullAutoPistolItem
+05-31-23_23-32-18-326 - ammoStorage skipping: FullAutoPistolItem[0] not active entity: FullAutoPistolItem[78100350149436482]
+05-31-23_23-32-20-606 - retrived storage for: loading:True - 0[91250094060818189] - FullAutoPistolItem
+05-31-23_23-32-20-647 - retrived storage for: loading:False - 0[91250094060818189] - FullAutoPistolItem
+05-31-23_23-32-20-647 - ammoStorage skipping: FullAutoPistolItem[0] not active entity: FullAutoPistolItem[91250094060818189]
+05-31-23_23-32-37-475 - retrived storage for: loading:True - 122564047955801371[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-475 - retrived storage for: loading:True - 100491888652719805[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-475 - ammoStorage skipping: RapidFireAutomaticRifleItem[100491888652719805] not active entity: RapidFireAutomaticRifleItem[122564047955801371]
+05-31-23_23-32-37-475 - retrived storage for: loading:True - 114872621067927893[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-475 - ammoStorage skipping: RapidFireAutomaticRifleItem[114872621067927893] not active entity: RapidFireAutomaticRifleItem[122564047955801371]
+05-31-23_23-32-37-852 - retrived storage for: loading:False - 122564047955801371[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-852 - retrived storage for: loading:False - 100491888652719805[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-852 - ammoStorage skipping: RapidFireAutomaticRifleItem[100491888652719805] not active entity: RapidFireAutomaticRifleItem[122564047955801371]
+05-31-23_23-32-37-852 - retrived storage for: loading:False - 114872621067927893[122564047955801371] - RapidFireAutomaticRifleItem
+05-31-23_23-32-37-852 - ammoStorage skipping: RapidFireAutomaticRifleItem[114872621067927893] not active entity: RapidFireAutomaticRifleItem[122564047955801371]
+05-31-23_23-37-24-831 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_23-37-24-831 - Incompatible weapons: LWTS_LargeGatlingTurretT5, 
+05-31-23_23-51-34-867 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+05-31-23_23-51-34-867 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+06-01-23_00-30-28-173 - creating new storage for: loading:True - isMe:True - 82151201953962478[82151201953962478] - RapidFireAutomaticRifleItem
+06-01-23_00-30-29-847 - creating new storage for: loading:True - isMe:True - 104066521038541596[104066521038541596] - RapidFireAutomaticRifleItem
+06-01-23_00-30-31-518 - creating new storage for: loading:True - isMe:True - 91046877357258569[91046877357258569] - RapidFireAutomaticRifleItem
+06-01-23_00-30-33-173 - creating new storage for: loading:True - isMe:True - 108367187461100744[108367187461100744] - RapidFireAutomaticRifleItem
+06-01-23_00-30-55-633 - retrived storage for: loading:False - 91046877357258569[91046877357258569] - RapidFireAutomaticRifleItem
+06-01-23_00-30-57-312 - retrived storage for: loading:False - 82151201953962478[82151201953962478] - RapidFireAutomaticRifleItem
+06-01-23_00-30-59-064 - retrived storage for: loading:False - 104066521038541596[104066521038541596] - RapidFireAutomaticRifleItem
+06-01-23_00-31-57-366 - retrived storage for: loading:False - 108367187461100744[108367187461100744] - RapidFireAutomaticRifleItem
+06-01-23_00-33-45-196 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_00-33-45-196 - Incompatible weapons: LWTS_LargeMissileTurretT2, LWTS_LargeGatlingTurretT2, 
+06-01-23_00-50-15-210 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_00-50-15-210 - Incompatible weapons: LWTS_LargeGatlingTurretT3, LWTS_LargeGatlingTurretT5, 
+06-01-23_01-05-25-399 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_01-05-25-399 - Incompatible weapons: LWTS_SmallMissileTurretT2, 
+06-01-23_01-06-06-716 - creating new storage for: loading:True - isMe:True - 78976718155029378[78976718155029378] - UltimateAutomaticRifleItem
+06-01-23_01-06-50-004 - retrived storage for: loading:False - 78976718155029378[78976718155029378] - UltimateAutomaticRifleItem
+06-01-23_01-37-25-644 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_01-37-25-644 - Incompatible weapons: LWTS_LargeMissileTurretT2, LWTS_LargeGatlingTurretT4, 
+06-01-23_01-42-23-664 - creating new storage for: loading:True - isMe:True - 89811405931736139[89811405931736139] - RapidFireAutomaticRifleItem
+06-01-23_01-42-25-344 - creating new storage for: loading:True - isMe:True - 87462216312557454[87462216312557454] - RapidFireAutomaticRifleItem
+06-01-23_01-42-26-997 - creating new storage for: loading:True - isMe:True - 132321916134845208[132321916134845208] - UltimateAutomaticRifleItem
+06-01-23_01-42-28-662 - creating new storage for: loading:True - isMe:True - 137478149524990103[137478149524990103] - RapidFireAutomaticRifleItem
+06-01-23_01-45-51-165 - retrived storage for: loading:False - 132321916134845208[132321916134845208] - UltimateAutomaticRifleItem
+06-01-23_01-46-04-684 - retrived storage for: loading:False - 137478149524990103[137478149524990103] - RapidFireAutomaticRifleItem
+06-01-23_01-46-12-172 - retrived storage for: loading:False - 87462216312557454[87462216312557454] - RapidFireAutomaticRifleItem
+06-01-23_01-46-21-836 - retrived storage for: loading:False - 89811405931736139[89811405931736139] - RapidFireAutomaticRifleItem
+06-01-23_01-54-15-664 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_01-54-15-664 - Incompatible weapons: LWTS_LargeMissileTurretT4, LWTS_LargeGatlingTurretT3, 
+06-01-23_02-08-05-781 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_02-08-05-781 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT5, 
+06-01-23_02-38-05-908 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_02-38-05-908 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+06-01-23_02-50-49-687 - retrived storage for: loading:False - 87568496580082863[87568496580082863] - AutomaticRifleItem
+06-01-23_02-50-49-958 - Logging stopped.

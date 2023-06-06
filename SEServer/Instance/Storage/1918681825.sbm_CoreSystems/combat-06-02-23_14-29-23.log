@@ -1,0 +1,177 @@
+06-01-23_19-50-27-782 - Logging Started
+06-01-23_19-58-11-092 - New Threat Detected:Small Grid 3277 (MyCubeGrid, 92134321449093277)
+ - by: (NPC-ACS) Bubbly Bertha 01-AT1 (MyCubeGrid, 87141793471814734)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:2.592638 - isFocus:False
+
+06-01-23_20-08-35-040 - New Threat Detected: (MyCharacter, 99409460078092506)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-08-38-108 - New Threat Detected: (MyCharacter, 112578710341087979)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-27-44-550 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 76597503441345469)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-36-921 - New Threat Detected: (MyCharacter, 112670303754344773)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-40-921 - New Threat Detected: (MyCharacter, 76910589476786430)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-41-879 - New Threat Detected: (MyCharacter, 83058155594929417)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Interior Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-43-927 - New Threat Detected: (MyCharacter, 131777809300555141)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-45-920 - New Threat Detected: (MyCharacter, 111411236798410410)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-46-971 - New Threat Detected: (MyCharacter, 131784982861345454)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Interior Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-40-47-160 - New Threat Detected: (MyCharacter, 116204504235159881)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-56-06-358 - New Threat Detected: (MyCharacter, 81305340515740960)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_20-56-08-350 - New Threat Detected: (MyCharacter, 127789620173010685)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_21-29-08-869 - New Threat Detected: (MyCharacter, 91683548629992897)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_21-29-10-078 - New Threat Detected: (MyCharacter, 94384803153862963)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_21-48-56-532 - New Threat Detected:Small Grid 8490 (MyCubeGrid, 131585192576928490)
+ - by: (NPC-RVR) Thrasher (MyCubeGrid, 116740663958765960)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+06-01-23_21-49-36-363 - New Threat Detected:(NPC-RVR) Thrasher (MyCubeGrid, 116740663958765960)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:MCRN PDC [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.4473711 - isFocus:False
+
+06-01-23_21-49-40-802 - New Threat Detected:Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)
+ - by: (NPC-RVR) Thrasher (MyCubeGrid, 116740663958765960)Attacking Weapon:Large Missile Launcher [Weapon] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Relationship:Enemies - ThreatLevel:2.235281 - isFocus:True
+
+06-01-23_21-49-41-836 - New Threat Detected:Small Grid 5893 (MyCubeGrid, 98576482719455893)
+ - by: (NPC-RVR) Thrasher (MyCubeGrid, 116740663958765960)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Relationship:Enemies - ThreatLevel:0.17919 - isFocus:True
+
+06-01-23_21-49-47-115 - New Threat Detected:Small Grid 9168 (MyCubeGrid, 96971840215889168)
+ - by: (NPC-RVR) Thrasher (MyCubeGrid, 116740663958765960)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855980 - Faction:Reavers(244098564260072880) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+06-01-23_22-01-38-693 - New Threat Detected: (MyCharacter, 122975417444301512)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-01-40-750 - New Threat Detected: (MyCharacter, 73729060778237285)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-01-42-100 - New Threat Detected: (MyCharacter, 119125889581525728)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-01-46-097 - New Threat Detected: (MyCharacter, 130624574457388943)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-18-30-597 - New Threat Detected: (MyCharacter, 72539493955944634)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-18-31-932 - New Threat Detected: (MyCharacter, 74507016598195152)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-36-16-909 - New Threat Detected:Small Grid 5893 (MyCubeGrid, 98576482719455893)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:10 - isFocus:False
+
+06-01-23_22-36-23-992 - New Threat Detected: (MyCharacter, 126203897775504078)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-36-27-477 - New Threat Detected: (MyCharacter, 94605909090498358)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-36-46-276 - New Threat Detected: (MyCharacter, 139804138791246415)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-37-20-157 - New Threat Detected: (MyCharacter, 128847237886613529)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-37-32-612 - New Threat Detected: (MyCharacter, 144061196753658271)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_22-43-19-025 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 103335002683071737)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:MCRN PDC [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-24-04-963 - New Threat Detected: (MyCharacter, 100503052563873350)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-24-10-077 - New Threat Detected: (MyCharacter, 80601140656974702)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-24-34-500 - New Threat Detected: (MyCharacter, 91478433391215650)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-25-03-995 - New Threat Detected: (MyCharacter, 92994103932066485)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-26-47-273 - New Threat Detected: (MyCharacter, 125923821944071529)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-31-11-836 - New Threat Detected: (MyCharacter, 137334247986164701)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-50-19-348 - New Threat Detected:welde (MyCubeGrid, 97675093245312711)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:True - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Neutral - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-53-09-497 - New Threat Detected:welde (MyCubeGrid, 97675093245312711)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-54-16-027 - New Threat Detected:xXHolicsXx (MyCharacter, 77391322279978837)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01 (MyCubeGrid, 85248540884189386)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-01-23_23-57-04-546 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 131412392137231042)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:MCRN PDC [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+06-02-23_13-46-55-563 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 125089989414749494)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:MCRN PDC [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+

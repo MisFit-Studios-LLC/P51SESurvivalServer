@@ -1,0 +1,1442 @@
+[21:17:44.024] [T23] [DS=True] DEBUG | Log Started (v1.5.14)
+[21:17:44.025] [T23] [DS=True] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[21:17:48.145] [T23] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[21:28:21.474] [T23] [DS=True] ERROR | Exception in BotFactory.SeatBotDeferred: Object reference not set to an instance of an object.
+   at Sandbox.Game.Entities.MyCockpit.AttachPilot(MyCharacter pilot, Boolean storeOriginalPilotWorld, Boolean calledFromInit, Boolean merged)
+   at Sandbox.Game.Entities.MyCockpit.AttachPilotEvent(UseActionEnum actionEnum, Int64 characterID)
+   at VRage.Network.MyReplicationLayerBase.InvokeLocally[T1,T2,T3,T4,T5,T6,T7](CallSite`7 site, T1 arg1, T2 arg2, T3 arg3, T4 arg4, T5 arg5, T6 arg6, T7 arg7)
+   at VRage.Network.MyReplicationLayer.DispatchEvent[T1,T2,T3,T4,T5,T6,T7,T8](CallSite callSite, EndpointId recipient, Nullable`1 position, T1& arg1, T2& arg2, T3& arg3, T4& arg4, T5& arg5, T6& arg6, T7& arg7, T8& arg8)
+   at VRage.Network.MyReplicationLayerBase.RaiseEvent[T1,T2,T3,T4](T1 arg1, T4 arg4, Func`2 action, T2 arg2, T3 arg3, EndpointId endpointId, Nullable`1 position)
+   at Sandbox.Game.Entities.MyCockpit.RequestUse(UseActionEnum actionEnum, MyCharacter user)
+   at AiEnabled.Bots.BotFactory.SeatBotDeferred(IMyCharacter botChar, MyCockpit seat)
+[21:28:23.130] [T23] [DS=True] ERROR | Exception in BotFactory.SeatBotDeferred: Object reference not set to an instance of an object.
+   at Sandbox.Game.Entities.MyCockpit.AttachPilot(MyCharacter pilot, Boolean storeOriginalPilotWorld, Boolean calledFromInit, Boolean merged)
+   at Sandbox.Game.Entities.MyCockpit.AttachPilotEvent(UseActionEnum actionEnum, Int64 characterID)
+   at VRage.Network.MyReplicationLayerBase.InvokeLocally[T1,T2,T3,T4,T5,T6,T7](CallSite`7 site, T1 arg1, T2 arg2, T3 arg3, T4 arg4, T5 arg5, T6 arg6, T7 arg7)
+   at VRage.Network.MyReplicationLayer.DispatchEvent[T1,T2,T3,T4,T5,T6,T7,T8](CallSite callSite, EndpointId recipient, Nullable`1 position, T1& arg1, T2& arg2, T3& arg3, T4& arg4, T5& arg5, T6& arg6, T7& arg7, T8& arg8)
+   at VRage.Network.MyReplicationLayerBase.RaiseEvent[T1,T2,T3,T4](T1 arg1, T4 arg4, Func`2 action, T2 arg2, T3 arg3, EndpointId endpointId, Nullable`1 position)
+   at Sandbox.Game.Entities.MyCockpit.RequestUse(UseActionEnum actionEnum, MyCharacter user)
+   at AiEnabled.Bots.BotFactory.SeatBotDeferred(IMyCharacter botChar, MyCockpit seat)
+[21:28:32.582] [T23] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[23:11:05.096] [T23] [DS=True] DEBUG | Exceptions found during GrinderBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[23:25:53.050] [T23] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[00:00:40.848] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Cyberhound moved from [X:-18, Y:1, Z:-22] to [X:-5, Y:6, Z:-8]
+[00:01:05.442] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Cyberhound moved from [X:-6, Y:0, Z:-24] to [X:-6, Y:13, Z:-24]
+[00:01:17.191] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Cyberhound moved from [X:5, Y:-3, Z:-21] to [X:-5, Y:6, Z:-8]
+[00:06:54.192] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Cyberhound moved from [X:-14, Y:4, Z:21] to [X:-5, Y:6, Z:-8]
+[00:09:11.077] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Cyberhound moved from [X:13, Y:-4, Z:-13] to [X:-5, Y:6, Z:-8]
+[00:16:31.184] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: GRN moved from [X:13, Y:-3, Z:11] to [X:-5, Y:6, Z:-8]
+[00:19:19.336] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at VRage.Game.Models.MyQuantizedBvhResult.ProcessTriangle(Int32 triangleIndex)
+   at BulletXNA.BulletCollision.GImpactQuantizedBvh.RayQueryClosest(IndexedVector3& ray_dir, IndexedVector3& ray_origin, ProcessCollisionHandler handler)
+   at VRage.Game.Models.MyQuantizedBvhAdapter.GetIntersectionWithLine(IMyEntity entity, LineD& line, MatrixD& customInvMatrix, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyCubeBlock.GetIntersectionWithLine(LineD& line, Nullable`1& t, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:01:14.736] [T23] [DS=True] WARNING | Something attempted to spawn 'SE_astronautNoSuitFemale' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[01:03:58.070] [T23] [DS=True] WARNING | Something attempted to spawn 'Male Astronaut 6' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[01:25:51.405] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:26:24.740] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:27:04.831] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:28:29.833] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:28:54.831] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:08.166] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:09.831] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:29.832] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:33.165] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:33.165] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:39.832] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:41.499] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:29:43.166] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:30:01.499] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:30:44.833] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:30:48.166] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:30:56.498] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:31:14.832] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:31:39.834] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:31:51.499] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:32:01.620] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:32:23.287] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:32:34.953] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:32:48.287] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:32:49.953] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:33:14.953] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:33:31.621] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:34:43.287] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:35:41.622] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:36:03.289] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:36:41.622] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:37:33.288] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:37:39.954] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:38:31.842] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Zom moved from [X:13, Y:-3, Z:-11] to [X:-5, Y:6, Z:-8]
+[01:38:56.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:39:46.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:41:08.385] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:41:11.722] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:41:41.716] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:06.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:18.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:33.519] [T23] [DS=True] WARNING | VoxelGridMap (201).TeleportNearby: Unable to find placement for Zom (pos was [X:5, Y:-15, Z:15])
+[01:42:40.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:43.383] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:48.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:51.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:53.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:42:53.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:06.720] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:18.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:23.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:23.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:25.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:25.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:26.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:28.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:28.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:28.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:28.384] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:30.050] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.053] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:35.053] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:40.093] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:40.093] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:43.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:43.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:46.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:50.050] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:51.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:56.719] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:58.387] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:43:58.387] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:00.050] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:00.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:00.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:01.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:08.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:10.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:10.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:11.736] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:16.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:16.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:23.392] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:23.393] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:36.717] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:48.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:50.052] [T23] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:51.727] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:53.386] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:55.052] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:44:58.486] [T23] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: ZombieBot8985 moved from [X:-9, Y:1, Z:-31] to [X:-9, Y:1, Z:-18]
+[01:45:10.051] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:45:13.386] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:45:18.384] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:45:31.718] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:45:33.386] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[01:45:45.050] [T23] [DS=True] DEBUG | Exceptions found during ZombieBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[02:15:35.393] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:37.060] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:38.726] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:40.394] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:42.060] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:43.725] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:15:45.394] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:49:40.099] [T23] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[02:55:26.160] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[02:55:31.165] [T23] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[12:16:39.433] [T23] [DS=True] DEBUG | Unloading mod data. Registered = True
+[12:16:39.441] [T23] [DS=True] DEBUG | Mod unloaded successfully

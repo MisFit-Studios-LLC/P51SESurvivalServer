@@ -1,0 +1,18 @@
+17:30:50.6609 [DEBUG]  Keen: Log Started
+17:30:50.6609 [DEBUG]  Keen: Timezone (local - UTC): -5h
+17:30:50.6609 [INFO]   Keen: App Version: 01_202_068
+17:30:50.6738 [INFO]   Keen: Is official: True [NO][NIS][NAMP]
+17:30:50.6738 [DEBUG]  Keen: Branch / Sandbox: DedicatedServer
+17:30:50.6738 [INFO]   Keen: Environment.ProcessorCount: 32
+17:30:50.6993 [INFO]   Keen: Environment.OSVersion: Microsoft Windows 11 Home (Microsoft Windows NT 6.2.9200.0)
+17:30:50.6993 [INFO]   Keen: Environment.CommandLine: "C:\SEServer\Torch.Server.exe" 
+17:30:50.6993 [INFO]   Keen: Environment.Is64BitProcess: True
+17:30:50.6993 [INFO]   Keen: Environment.Is64BitOperatingSystem: True
+17:30:50.6993 [INFO]   Keen: Environment.Version: .NET Framework 4.8.9139.0
+17:30:50.6993 [INFO]   Keen: Environment.CurrentDirectory: C:\SEServer
+17:30:50.6993 [INFO]   Keen: CPU Info: 13th Gen Intel(R) Core(TM) i9-13980HX
+17:30:50.6993 [DEBUG]  Keen: IntPtr.Size: 8
+17:30:50.6993 [DEBUG]  Keen: Default Culture: 
+17:30:50.6993 [DEBUG]  Keen: Default UI Culture: 
+17:30:50.7142 [DEBUG]  Keen: Found processor count: 24
+17:30:50.7142 [DEBUG]  Keen: Using processor count: 16

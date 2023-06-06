@@ -1,0 +1,102 @@
+06-01-23_19-50-27-715 - Logging Started
+06-01-23_19-50-27-907 - Basic_Rocket is NOT enabled for client prediction
+06-01-23_19-50-27-907 - Rocket_Frag is NOT enabled for client prediction
+06-01-23_19-50-27-927 - Advanced_Rocket_Launch is NOT enabled for client prediction
+06-01-23_19-50-27-928 - Advanced_Rocket is NOT enabled for client prediction
+06-01-23_19-50-27-928 - Rocket_Frag is NOT enabled for client prediction
+06-01-23_19-50-27-929 - FlareBase is NOT enabled for client prediction
+06-01-23_19-50-27-929 - FlareAmmo is NOT enabled for client prediction
+06-01-23_19-50-27-929 - Shotgun is NOT enabled for client prediction
+06-01-23_19-50-27-929 - Buckshot_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-929 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-945 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-946 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-946 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-961 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-961 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-961 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-961 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-977 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-977 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-977 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-977 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-977 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-977 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-992 - NDeU_Ammo is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 25mm NATO is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-27-992 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-28-008 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-28-008 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-28-008 - 200mm Missile is NOT enabled for client prediction
+06-01-23_19-50-28-008 - MR-50A is NOT enabled for client prediction
+06-01-23_19-50-28-008 - 5.56x45mm is NOT enabled for client prediction
+06-01-23_19-50-28-008 - Autocannon Shell is NOT enabled for client prediction
+06-01-23_19-50-28-008 - Autocannon Shell does not qualify for fixed weapon client reload verification
+06-01-23_19-50-28-008 - Autocannon Shell is NOT enabled for client prediction
+06-01-23_19-50-28-039 - Assault Cannon Shell is NOT enabled for client prediction
+06-01-23_19-50-28-046 - Assault Cannon Shell is NOT enabled for client prediction
+06-01-23_19-50-28-080 - Artillery Shell is NOT enabled for client prediction
+06-01-23_19-50-48-248 - WC Version: 26
+06-01-23_19-50-57-162 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_19-50-57-162 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_SmallGatlingTurretT3, SmallGatlingGunT3, LWTS_LargeMissileTurretT2, 
+06-01-23_19-58-10-731 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_19-58-10-731 - Incompatible weapons: LWTS_LargeGatlingTurretT2, 
+06-01-23_20-13-43-334 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_20-13-43-334 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+06-01-23_20-43-34-480 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_20-43-34-480 - Incompatible weapons: LWTS_LargeMissileTurretT4, 
+06-01-23_20-57-14-591 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_20-57-14-591 - Incompatible weapons: LWTS_LargeMissileTurretT5, LWTS_LargeGatlingTurretT4, 
+06-01-23_21-34-15-570 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_21-34-15-570 - Incompatible weapons: LWTS_LargeGatlingTurretT2, LWTS_LargeGatlingTurretT3, 
+06-01-23_21-48-55-872 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_21-48-55-872 - Incompatible weapons: KKTS_LargeMissileLauncherT2, LWTS_LargeGatlingTurretT2, 
+06-01-23_22-05-06-241 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_22-05-06-241 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT2, 
+06-01-23_22-05-45-312 - CompRemove: Ai already null - PartState:Ready - Status:ReInit - LastRemoveFromScene:1
+06-01-23_22-35-17-835 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_22-35-17-835 - Incompatible weapons: LWTS_LargeGatlingTurretT4, 
+06-01-23_22-36-14-238 - creating new storage for: loading:True - isMe:True - 112034063631218586[112034063631218586] - SemiAutoPistolItem
+06-01-23_22-36-14-285 - retrived storage for: loading:False - 112034063631218586[112034063631218586] - SemiAutoPistolItem
+06-01-23_22-36-14-285 - retrived storage for: loading:False - 112034063631218586[112034063631218586] - SemiAutoPistolItem
+06-01-23_22-37-20-267 - retrived storage for: loading:True - 0[107499774964921294] - SemiAutoPistolItem
+06-01-23_22-39-16-818 - retrived storage for: loading:False - 0[107499774964921294] - SemiAutoPistolItem
+06-01-23_22-39-16-818 - ammoStorage skipping: SemiAutoPistolItem[0] not active entity: SemiAutoPistolItem[107499774964921294]
+06-01-23_22-39-21-002 - retrived storage for: loading:True - 106655344671932187[106655344671932187] - SemiAutoPistolItem
+06-01-23_22-41-29-036 - retrived storage for: loading:False - 106655344671932187[106655344671932187] - SemiAutoPistolItem
+06-01-23_22-43-53-036 - creating new storage for: loading:True - isMe:True - 142820876569881866[142820876569881866] - SemiAutoPistolItem
+06-01-23_22-43-54-688 - creating new storage for: loading:True - isMe:True - 89871280920918538[89871280920918538] - RapidFireAutomaticRifleItem
+06-01-23_22-43-56-366 - creating new storage for: loading:True - isMe:True - 79345833524474332[79345833524474332] - RapidFireAutomaticRifleItem
+06-01-23_22-43-58-017 - creating new storage for: loading:True - isMe:True - 86541346788129427[86541346788129427] - RapidFireAutomaticRifleItem
+06-01-23_22-50-18-432 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_22-50-18-432 - Incompatible weapons: LWTS_LargeGatlingTurretT3, 
+06-01-23_23-21-30-236 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_23-21-30-236 - Incompatible weapons: LWTS_LargeGatlingTurretT5, LWTS_LargeMissileTurretT3, 
+06-01-23_23-26-49-288 - retrived storage for: loading:False - 142820876569881866[142820876569881866] - SemiAutoPistolItem
+06-01-23_23-27-55-924 - retrived storage for: loading:False - 79345833524474332[79345833524474332] - RapidFireAutomaticRifleItem
+06-01-23_23-35-42-438 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_23-35-42-438 - Incompatible weapons: LWTS_LargeGatlingTurretT4, LWTS_LargeMissileTurretT2, 
+06-01-23_23-35-59-478 - retrived storage for: loading:False - 86541346788129427[86541346788129427] - RapidFireAutomaticRifleItem
+06-01-23_23-39-29-582 - retrived storage for: loading:False - 89871280920918538[89871280920918538] - RapidFireAutomaticRifleItem
+06-01-23_23-51-12-896 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-01-23_23-51-12-896 - Incompatible weapons: LWTS_LargeMissileTurretT3, LWTS_LargeGatlingTurretT4, 
+06-01-23_23-53-12-737 - creating new storage for: loading:True - isMe:True - 110422670274320962[110422670274320962] - FullAutoPistolItem
+06-01-23_23-53-12-799 - retrived storage for: loading:False - 110422670274320962[110422670274320962] - FullAutoPistolItem
+06-01-23_23-53-12-799 - retrived storage for: loading:False - 110422670274320962[110422670274320962] - FullAutoPistolItem
+06-01-23_23-53-16-061 - creating new storage for: loading:True - isMe:True - 140348263749823815[140348263749823815] - SemiAutoPistolItem
+06-01-23_23-53-16-156 - retrived storage for: loading:False - 140348263749823815[140348263749823815] - SemiAutoPistolItem
+06-01-23_23-53-16-156 - retrived storage for: loading:False - 140348263749823815[140348263749823815] - SemiAutoPistolItem
+06-02-23_00-21-13-752 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-02-23_00-21-13-752 - Incompatible weapons: LWTS_LargeMissileTurretT3, 
+06-02-23_13-47-33-046 - creating new storage for: loading:True - isMe:True - 108535040161406765[108535040161406765] - FullAutoPistolItem
+06-02-23_13-47-34-713 - creating new storage for: loading:True - isMe:True - 109083033756458850[109083033756458850] - FullAutoPistolItem
+06-02-23_13-47-36-376 - creating new storage for: loading:True - isMe:True - 79763819549405153[79763819549405153] - SemiAutoPistolItem
+06-02-23_13-47-38-046 - creating new storage for: loading:True - isMe:True - 96741330056199547[96741330056199547] - RapidFireAutomaticRifleItem
+06-02-23_14-23-16-577 - Running in unsupported mode, certain features and blocks will not work as intended and may crash or become non-functional
+06-02-23_14-23-16-578 - Incompatible weapons: LWTS_LargeGatlingTurretT3, LWTS_LargeMissileTurretT3, LWTS_LargeGatlingTurretT2, 

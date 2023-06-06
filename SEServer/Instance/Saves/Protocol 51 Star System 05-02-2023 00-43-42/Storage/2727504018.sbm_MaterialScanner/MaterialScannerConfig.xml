@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Logging>false</Logging>
+  <MinimumRange>0.05</MinimumRange>
+  <MaximumRange>0.5</MaximumRange>
+  <SmallGridRangeFactor>0.35</SmallGridRangeFactor>
+  <MinimumDetectionProbability>0.65</MinimumDetectionProbability>
+  <MaximumDetectionprobability>0.99</MaximumDetectionprobability>
+  <NormalPowerUsage>0.75</NormalPowerUsage>
+  <WorkPowerUsage>75</WorkPowerUsage>
+  <SmallGridPowerFactor>0.25</SmallGridPowerFactor>
+  <WorkDuration>15</WorkDuration>
+  <CooldownDuration>35</CooldownDuration>
+  <ComponentSelectionRows>9</ComponentSelectionRows>
+</Configuration>

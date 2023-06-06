@@ -1,0 +1,457 @@
+21:59:43.7210 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+21:59:43.7210 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+21:59:43.8398 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+21:59:43.8398 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+21:59:43.8398 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+21:59:43.8538 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+21:59:43.8538 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+21:59:43.8538 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+21:59:43.8538 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+21:59:43.8538 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+21:59:43.8715 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+21:59:43.8715 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+21:59:43.8715 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+21:59:43.8715 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+21:59:43.9016 [INFO]   Torch.Patches.PromotePatch: patching promote
+21:59:43.9016 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+21:59:43.9016 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+21:59:43.9257 [INFO]   Torch: Initializing server
+21:59:44.2517 [INFO]   Torch: RELEASE
+21:59:44.2517 [INFO]   Torch: Torch Version: v1.3.1.230-master
+21:59:44.2517 [INFO]   Torch: Game Version: 1.202.117
+21:59:44.2517 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.230, Culture=neutral, PublicKeyToken=null
+21:59:44.2517 [INFO]   Torch: Executing directory: C:\SEServer\
+21:59:44.2517 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+21:59:44.2627 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+21:59:44.2627 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+21:59:44.2627 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+21:59:44.5423 [INFO]   Torch.VRageGame: Loading Dedicated Config
+21:59:44.6064 [INFO]   Torch.VRageGame: Initializing network services
+21:59:44.6254 [INFO]   Torch.VRageGame: Initializing services
+21:59:44.6254 [INFO]   Torch.VRageGame: Services initialized
+21:59:44.6570 [INFO]   Torch.VRageGame: Setting up serializers
+21:59:45.6221 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+21:59:45.6221 [WARN]   InstanceManager: No worlds found in the current instance C:\SEServer\Instance.
+21:59:45.6221 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+21:59:46.4723 [WARN]   Torch.Managers.UpdateManager: Updating Torch from version v1.3.1.230-master to version v1.3.1.234-master
+21:59:49.6380 [WARN]   Torch.Managers.UpdateManager: Torch version v1.3.1.234-master has been installed. Please restart to apply update.
+22:01:52.4522 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+22:01:52.4522 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+22:01:52.5002 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+22:01:52.5189 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+22:01:52.5189 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+22:01:52.5189 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:01:52.5189 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+22:01:52.5449 [INFO]   Torch.Patches.PromotePatch: patching promote
+22:01:52.5449 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+22:01:52.5449 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+22:01:52.5669 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+22:01:52.5949 [INFO]   Torch: Initializing server
+22:01:52.7143 [INFO]   Torch: RELEASE
+22:01:52.7143 [INFO]   Torch: Torch Version: v1.3.1.234-master
+22:01:52.7143 [INFO]   Torch: Game Version: 1.202.117
+22:01:52.7143 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.234, Culture=neutral, PublicKeyToken=null
+22:01:52.7143 [INFO]   Torch: Executing directory: C:\SEServer\
+22:01:52.7143 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+22:01:52.7143 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+22:01:52.7143 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+22:01:52.7143 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+22:01:52.7630 [INFO]   Torch.VRageGame: Loading Dedicated Config
+22:01:52.7890 [INFO]   Torch.VRageGame: Initializing network services
+22:01:52.7960 [INFO]   Torch.VRageGame: Initializing services
+22:01:52.7960 [INFO]   Torch.VRageGame: Services initialized
+22:01:52.8081 [INFO]   Torch.VRageGame: Setting up serializers
+22:01:53.1985 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+22:01:53.7254 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+22:01:55.7245 [INFO]   ModListControl: Instance loaded.
+22:01:55.7245 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+22:01:56.4896 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:01:56.7618 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:03:13.5628 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:07:54.1474 [INFO]   InstanceManager: Saved dedicated config.
+22:07:54.5921 [INFO]   InstanceManager: Saved world config.
+22:07:54.8495 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:08:14.7531 [INFO]   InstanceManager: Saved dedicated config.
+22:08:14.8221 [INFO]   InstanceManager: Saved world config.
+22:08:15.6505 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:08:20.7026 [INFO]   InstanceManager: Saved dedicated config.
+22:08:20.7742 [INFO]   InstanceManager: Saved world config.
+22:08:20.7762 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:08:20.7762 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+22:08:20.7762 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+22:08:20.7762 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+22:08:20.7762 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+22:08:20.7762 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+22:08:20.7942 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:08:20.7942 [INFO]   Torch: Starting server.
+22:08:21.5412 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:08:25.2445 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:08:25.2445 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:08:25.2445 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:08:25.2445 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:08:25.2445 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+22:13:40.5253 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight
+22:13:40.5253 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_TerminalBlock/Small_Flap_Straight_Centered
+22:13:40.7440 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Cockpit/LWTS_SmallBlockCockpitMetal
+22:13:40.8069 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Assembler/LWTS_LargeAssemblerSimpleT5
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT2
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT3
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT4
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT5
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT6
+22:13:40.8219 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT7
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT2
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT3
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT4
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT5
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT6
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT7
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4
+22:13:40.8379 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5
+22:13:40.8689 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT2
+22:13:40.8689 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT3
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier2
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier3
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier4
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier5
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT2
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT3
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT4
+22:13:40.9159 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT5
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier2
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier3
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier4
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier5
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier6
+22:13:40.9319 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier7
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier2
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier3
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier4
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier5
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier6
+22:13:40.9469 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier7
+22:13:40.9790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier2
+22:13:40.9790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier3
+22:13:40.9790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier4
+22:13:40.9790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier5
+22:13:40.9790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT2
+22:13:40.9947 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT3
+22:13:40.9947 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT4
+22:13:40.9947 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT5
+22:13:40.9947 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Refinery/LWTS_LargeRefineryT5
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT2
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT3
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT4
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT5
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT2
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT3
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT4
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT5
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT2
+22:13:41.0102 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT3
+22:13:41.0252 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT4
+22:13:41.0252 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT5
+22:13:41.0412 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallThrustT5_GOLD
+22:13:41.0412 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallThrustT5_GOLD
+22:13:41.4165 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30
+22:13:41.4165 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30_sm
+22:13:41.4165 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot
+22:13:41.4165 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot_sm
+22:13:41.4315 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock_Armored_Full
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock_Armored_Full
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2_Armored_Half
+22:13:41.4475 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2_Armored_Half
+22:13:41.4635 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Conveyor/Maintenance_Door_Large
+22:13:43.0316 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+22:13:43.0316 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT2 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT3 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT4 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT5 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT2 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT3 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT4 is not in the same block-variant group
+22:13:43.0316 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT5 is not in the same block-variant group
+22:13:44.2823 [INFO]   Torch.Session.TorchSessionManager: Starting new torch session for Protocol 51 Star System
+22:13:44.8835 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/EngineerPlushieScrap" is missing.
+22:13:44.8835 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/SabiroidPlushieScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_GoldCoatScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_CandyCaneScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT6Scrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT7Scrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT6Scrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT7Scrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/Field_ModulatorsScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MESThrustScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ProprietaryTechScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/InhibitorChipScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AdminPlateScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CombatBotMaterialScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CrewBotMaterialScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_RepairBotMaterialScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_ScavengerBotMaterialScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/CompressorAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallThrustAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeThrustAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeHydrogenThrustAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallHydrogenThrustAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeAtmosphericThrustAssertScrap" is missing.
+22:13:44.8844 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallAtmosphericThrustAssertScrap" is missing.
+22:13:46.7133 [WARN]   Keen:    Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+22:13:47.5584 [WARN]   Keen: Sound on different thread , StopSound
+22:13:47.5724 [WARN]   Keen: Sound on different thread , StopSound
+22:13:48.0349 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:13:48.0349 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:13:48.1171 [WARN]   Keen: Sound on different thread , StopSound
+22:13:48.1631 [WARN]   Keen:    SurvivalReborn: Character definition for  is null!
+22:13:48.1631 [WARN]   Keen:    SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:13:48.1801 [WARN]   Keen: Sound on different thread , StopSound
+22:13:48.2396 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:13:48.2396 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:13:48.2776 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:13:48.2776 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:13:49.3578 [WARN]   Keen: Sound on different thread , StopSound
+22:13:49.3908 [WARN]   Keen: Sound on different thread , StopSound
+22:13:49.4643 [WARN]   Keen: Sound on different thread , StopSound
+22:13:49.4643 [WARN]   Keen: Sound on different thread , StopSound
+22:13:49.4643 [WARN]   Keen: Sound on different thread , StopSound
+22:13:49.4643 [WARN]   Keen: Sound on different thread , StopSound
+22:13:58.0501 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Inserted authentication intercept
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'whatsmyip'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'help'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'longhelp'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'ver'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'plugins'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'stop'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'restart'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'notify'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'restart.cancel'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'stop.cancel'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'save'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'uptime'
+22:13:58.0501 [INFO]   Torch.Session.TorchSessionManager: Loaded torch session for Protocol 51 Star System
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.on'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.off'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.add'
+22:13:58.0501 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.remove'
+22:14:00.4176 [INFO]   Torch: Starting server watchdog.
+22:14:00.4356 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561199253002098 from 172.28.16.1
+22:14:00.7916 [INFO]   Torch.Managers.MultiplayerManagerBase: Player xXHolicsXx joined (76561199253002098)
+22:15:34.6402 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:15:34.6402 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:15:34.6884 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:15:34.6884 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:15:36.4440 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:15:36.4440 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:15:36.4979 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:15:36.4979 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:18:15.9314 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561197993405115 from 209.122.61.34
+22:18:15.9484 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Steener joined (76561197993405115)
+22:24:30.2434 [INFO]   Chat: [Global:0] xXHolicsXx: Solid 1.0 sim compared to before the torch migration
+22:24:49.8469 [INFO]   Chat: [Global:0] xXHolicsXx: before, iot was .55 avg i think
+22:24:58.9137 [INFO]   Chat: [Global:0] xXHolicsXx: Oh hey Steener
+22:25:08.0796 [INFO]   Chat: [Global:0] Steener: I think he moved it onto a torch server...
+22:25:29.0465 [INFO]   Chat: [Global:0] xXHolicsXx: Yeah i hope this fixed the sim speed issues
+22:25:29.8961 [INFO]   Chat: [Global:0] Steener: He was mentioning that the torch server had to download the mods.
+22:25:40.0936 [INFO]   Chat: [Global:0] xXHolicsXx: idk what a trorch server is but i wonder if it's free
+22:26:17.0440 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198030953024 from 192.168.1.68
+22:26:17.0619 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Silverbane joined (76561198030953024)
+22:26:23.8438 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 75.172.115.103
+22:26:23.8609 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+22:28:09.7798 [INFO]   Chat: [Global:0] Silverbane: Heyyy guys!
+22:28:19.6960 [INFO]   Chat: [Global:0] xXHolicsXx: Steener bro can i GIVE you guys the stuff to make a robofactory and repair bots? I want you to see firsthand how they act
+22:28:21.1959 [INFO]   Chat: [Global:0] Steener: Hey
+22:28:27.8468 [INFO]   Chat: [Global:0] xXHolicsXx: Hey Silver
+22:29:43.2098 [INFO]   Chat: [Global:0] Silverbane: lol I might be able to make them smarted in configs not sure
+22:30:11.0740 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1A83F88A56D93BC} Remote Control BIG that is not yet replicated on client
+22:30:11.0740 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {148F626235F42CE} Remote Control that is not yet replicated on client
+22:30:11.3036 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {14E2447757C1467} Remote Control that is not yet replicated on client
+22:30:12.4370 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1A28BDA8998E86A} Remote Control 2 that is not yet replicated on client
+22:30:12.5539 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1794F8AB1A380C7} Remote Control that is not yet replicated on client
+22:30:12.6537 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {18B8DBC38464C85} Remote Control that is not yet replicated on client
+22:30:12.8515 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1D071ECDFAF6868} Remote Control that is not yet replicated on client
+22:30:13.9848 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1979384406A74F5} Remote Control that is not yet replicated on client
+22:30:14.1534 [WARN]   Keen: Trying to remove entity with name Default_Astronaut that is not yet replicated on client
+22:31:12.6458 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:31:12.6458 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:31:12.7104 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:31:12.7104 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:31:12.7433 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:31:12.7433 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:31:14.3121 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:31:14.3121 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:31:14.3773 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:31:14.3773 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:31:14.9265 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:31:14.9265 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:35:51.3762 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:35:51.3762 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:35:53.0432 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:35:53.0432 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:35:54.7117 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:35:54.7117 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:35:56.3767 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:35:56.3767 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:35:58.0431 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:35:58.0431 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:38:28.0440 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:38:28.0440 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:38:28.1252 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:38:28.1252 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:38:28.1252 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:38:28.1252 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:38:31.3765 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:38:31.3765 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:38:31.4420 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:38:31.4420 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856474
+22:38:31.4591 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:38:31.4591 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+22:39:16.4647 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:39:16.4647 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:39:27.6354 [WARN]   Keen: Trying to remove entity with name Default_Astronaut that is not yet replicated on client
+22:40:06.7291 [INFO]   Chat: [Global:0] Pyro: i got attacked while i was offline
+22:40:21.8795 [INFO]   Chat: [Global:0] Silverbane: no safezone?
+22:41:22.1817 [INFO]   Chat: [Global:0] Pyro: idk. 
+22:45:32.6501 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:45:32.6501 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:45:34.3195 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:45:34.3195 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:45:35.9825 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:45:35.9825 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:45:37.6489 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:45:37.6489 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:46:12.7980 [INFO]   Chat: [Global:0] Pyro: did u get attacked?
+22:47:50.5146 [INFO]   Chat: [Global:0] Silverbane: yes
+22:48:10.8512 [INFO]   Chat: [Global:0] Silverbane: Server seems to running much better -- but I am a bit confused by seeing NPCS still everywhere after I made those spawn changes
+22:48:48.1480 [INFO]   Chat: [Global:0] Pyro: its cause they dont have nanites on the server
+22:49:02.6507 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:02.6507 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:04.3159 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:04.3159 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:05.9832 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:05.9832 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:07.6494 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:07.6494 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:09.3163 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:09.3163 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:10.9833 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:10.9833 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:12.6520 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:12.6520 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:49:14.3166 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:49:14.3166 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:50:10.8489 [INFO]   Chat: [Global:0] Silverbane: lol true working on it
+22:52:22.6503 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:22.6503 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:52:24.3171 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:24.3171 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:52:25.9836 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:25.9836 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:52:27.6495 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:27.6495 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:52:29.3161 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:29.3161 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:52:30.9837 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:52:30.9837 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:01:22.6513 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:01:22.6513 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:01:24.3194 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:01:24.3194 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:01:25.9840 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:01:25.9840 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:01:27.6516 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:01:27.6516 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:32.7823 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:32.7823 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:08:34.4492 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:08:34.4492 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:11:28.6477 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1667B83A783C5FF} Fighter Remote Control that is not yet replicated on client
+23:15:48.2007 [INFO]   Chat: [Global:0] Silverbane: going to go design a welding ship
+23:15:55.7006 [INFO]   Chat: [Global:0] Silverbane: Gotta get my defenses up
+23:16:12.0391 [INFO]   Torch.Managers.MultiplayerManagerBase: Silverbane (76561198030953024) Disconnected.
+23:16:29.0844 [INFO]   Chat: [Global:0] xXHolicsXx: ok peace
+23:25:24.0244 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {14E2447757C1467} Remote Control that is not yet replicated on client
+23:25:24.1909 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1A28BDA8998E86A} Remote Control 2 that is not yet replicated on client
+23:25:24.5748 [WARN]   Keen: Trying to remove entity with name MyRemoteControl {1979384406A74F5} Remote Control that is not yet replicated on client
+23:25:26.3990 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:25:26.3990 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:29:11.3999 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:29:11.3999 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:29:13.0656 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:29:13.0656 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:29:14.7334 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:29:14.7334 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:29:16.4005 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:29:16.4005 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:30:18.1638 [INFO]   Chat: [Global:0] xXHolicsXx: can this fuckin build and repair bot gtf outta the way so i can build this drill
+23:30:30.4470 [INFO]   Chat: [Global:0] Pyro: kill it
+23:30:31.3810 [INFO]   Chat: [Global:0] Pyro: XD
+23:36:06.7472 [INFO]   Chat: [Global:0] xXHolicsXx: I juss pushed it outta da wey
+23:36:31.3145 [INFO]   Chat: [Global:0] Pyro: the drones seem to be good at helping with large walls
+23:36:37.5649 [INFO]   Chat: [Global:0] Pyro: as long as its one at a time
+23:41:34.7334 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:34.7334 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:36.4011 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:36.4011 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:38.0668 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:38.0668 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:39.7346 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:39.7346 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:41.3993 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:41.3993 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:43.0666 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:43.0666 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:44.7343 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:44.7343 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:46.4035 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:46.4035 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:48.0679 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:48.0679 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:49.7338 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:49.7338 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:51.4013 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:51.4013 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:53.0668 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:53.0668 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:54.7340 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:54.7340 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:56.4005 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:56.4005 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:58.0671 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:58.0671 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:41:59.7341 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:41:59.7341 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:42:17.9324 [INFO]   Chat: [Global:0] xXHolicsXx: where tf all these people attacking me come from
+23:42:41.8320 [INFO]   Chat: [Global:0] xXHolicsXx: wtf did they SHOOT me with???>?>?>
+23:42:47.7989 [INFO]   Chat: [Global:0] xXHolicsXx: holy crap
+23:49:55.4506 [INFO]   Torch.Managers.MultiplayerManagerBase: Steener (76561197993405115) Disconnected.
+23:50:37.0055 [INFO]   Torch.Managers.MultiplayerManagerBase: [007...115] (76561197993405115) Disconnected.
+23:57:45.1822 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:57:45.1822 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:57:46.8485 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:57:46.8485 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+23:57:48.5145 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+23:57:48.5145 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.

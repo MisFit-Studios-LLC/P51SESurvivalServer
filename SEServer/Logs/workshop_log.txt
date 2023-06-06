@@ -1,0 +1,1636 @@
+
+
+[2023-05-28 22:08:24] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-05-28 22:08:27] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-05-28 22:08:28] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-05-28 22:08:28] [AppID 244850] Unloaded installed workshop items
+[2023-05-28 22:08:28] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (0 installed, 0 needed)
+[2023-05-28 22:08:28] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-05-28 22:08:28] [AppID 244850] Download item 2966753242 requested by app
+[2023-05-28 22:08:28] [AppID 244850] Starting Workshop download job (requested item 2966753242 )
+[2023-05-28 22:08:28] [AppID 244850] Detected workshop change : changed cached item 2966753242, new manifest 7212728445042843583
+[2023-05-28 22:08:28] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:30] [AppID 244850] Download item 2966753242 result : OK
+[2023-05-28 22:08:30] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:30] [AppID 244850] Download item 2965690182 requested by app
+[2023-05-28 22:08:30] [AppID 244850] Starting Workshop download job (requested item 2965690182 )
+[2023-05-28 22:08:30] [AppID 244850] Detected workshop change : changed cached item 2965690182, new manifest 1268733307814574353
+[2023-05-28 22:08:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:36] [AppID 244850] Download item 2965690182 result : OK
+[2023-05-28 22:08:36] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:36] [AppID 244850] Download item 2964953711 requested by app
+[2023-05-28 22:08:36] [AppID 244850] Starting Workshop download job (requested item 2964953711 )
+[2023-05-28 22:08:36] [AppID 244850] Detected workshop change : changed cached item 2964953711, new manifest 7610433765914523289
+[2023-05-28 22:08:36] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:39] [AppID 244850] Download item 2964953711 result : OK
+[2023-05-28 22:08:39] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:39] [AppID 244850] Download item 2963507648 requested by app
+[2023-05-28 22:08:39] [AppID 244850] Starting Workshop download job (requested item 2963507648 )
+[2023-05-28 22:08:39] [AppID 244850] Detected workshop change : changed cached item 2963507648, new manifest 6805526445732071787
+[2023-05-28 22:08:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:43] [AppID 244850] Download item 2963507648 result : OK
+[2023-05-28 22:08:43] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:43] [AppID 244850] Download item 2961726679 requested by app
+[2023-05-28 22:08:43] [AppID 244850] Starting Workshop download job (requested item 2961726679 )
+[2023-05-28 22:08:43] [AppID 244850] Detected workshop change : changed cached item 2961726679, new manifest 5530052654295856522
+[2023-05-28 22:08:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:44] [AppID 244850] Download item 2961726679 result : OK
+[2023-05-28 22:08:44] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:44] [AppID 244850] Download item 2961563719 requested by app
+[2023-05-28 22:08:44] [AppID 244850] Starting Workshop download job (requested item 2961563719 )
+[2023-05-28 22:08:44] [AppID 244850] Detected workshop change : changed cached item 2961563719, new manifest 2590929559326121123
+[2023-05-28 22:08:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:51] [AppID 244850] Download item 2961563719 result : OK
+[2023-05-28 22:08:51] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:51] [AppID 244850] Download item 2947081810 requested by app
+[2023-05-28 22:08:51] [AppID 244850] Starting Workshop download job (requested item 2947081810 )
+[2023-05-28 22:08:51] [AppID 244850] Detected workshop change : changed cached item 2947081810, new manifest 2015334128375330936
+[2023-05-28 22:08:51] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:53] [AppID 244850] Download item 2947081810 result : OK
+[2023-05-28 22:08:53] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:53] [AppID 244850] Download item 2946330043 requested by app
+[2023-05-28 22:08:53] [AppID 244850] Starting Workshop download job (requested item 2946330043 )
+[2023-05-28 22:08:53] [AppID 244850] Detected workshop change : changed cached item 2946330043, new manifest 8341291891673749390
+[2023-05-28 22:08:53] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:08:55] [AppID 244850] Download item 2946330043 result : OK
+[2023-05-28 22:08:55] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:08:55] [AppID 244850] Download item 2936367770 requested by app
+[2023-05-28 22:08:55] [AppID 244850] Starting Workshop download job (requested item 2936367770 )
+[2023-05-28 22:08:55] [AppID 244850] Detected workshop change : changed cached item 2936367770, new manifest 2045025941669867875
+[2023-05-28 22:08:55] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:00] [AppID 244850] Download item 2936367770 result : OK
+[2023-05-28 22:09:00] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:00] [AppID 244850] Download item 2933676834 requested by app
+[2023-05-28 22:09:00] [AppID 244850] Starting Workshop download job (requested item 2933676834 )
+[2023-05-28 22:09:00] [AppID 244850] Detected workshop change : changed cached item 2933676834, new manifest 7534988923135952847
+[2023-05-28 22:09:00] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:01] [AppID 244850] Download item 2933676834 result : OK
+[2023-05-28 22:09:01] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:01] [AppID 244850] Download item 2930794173 requested by app
+[2023-05-28 22:09:01] [AppID 244850] Starting Workshop download job (requested item 2930794173 )
+[2023-05-28 22:09:01] [AppID 244850] Detected workshop change : changed cached item 2930794173, new manifest 1612834858191033480
+[2023-05-28 22:09:01] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:05] [AppID 244850] Download item 2930794173 result : OK
+[2023-05-28 22:09:05] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:05] [AppID 244850] Download item 2927234626 requested by app
+[2023-05-28 22:09:05] [AppID 244850] Starting Workshop download job (requested item 2927234626 )
+[2023-05-28 22:09:06] [AppID 244850] Detected workshop change : changed cached item 2927234626, new manifest 1597493409057770885
+[2023-05-28 22:09:06] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:07] [AppID 244850] Download item 2927234626 result : OK
+[2023-05-28 22:09:07] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:07] [AppID 244850] Download item 2921890257 requested by app
+[2023-05-28 22:09:07] [AppID 244850] Starting Workshop download job (requested item 2921890257 )
+[2023-05-28 22:09:07] [AppID 244850] Detected workshop change : changed cached item 2921890257, new manifest 7675291470520392543
+[2023-05-28 22:09:07] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:08] [AppID 244850] Download item 2921890257 result : OK
+[2023-05-28 22:09:08] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:08] [AppID 244850] Download item 2917216762 requested by app
+[2023-05-28 22:09:08] [AppID 244850] Starting Workshop download job (requested item 2917216762 )
+[2023-05-28 22:09:08] [AppID 244850] Detected workshop change : changed cached item 2917216762, new manifest 7753886185631424513
+[2023-05-28 22:09:08] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:10] [AppID 244850] Download item 2917216762 result : OK
+[2023-05-28 22:09:10] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:10] [AppID 244850] Download item 2914050178 requested by app
+[2023-05-28 22:09:10] [AppID 244850] Starting Workshop download job (requested item 2914050178 )
+[2023-05-28 22:09:10] [AppID 244850] Detected workshop change : changed cached item 2914050178, new manifest 3859793480138998775
+[2023-05-28 22:09:10] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:12] [AppID 244850] Download item 2914050178 result : OK
+[2023-05-28 22:09:12] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:12] [AppID 244850] Download item 2882369004 requested by app
+[2023-05-28 22:09:12] [AppID 244850] Starting Workshop download job (requested item 2882369004 )
+[2023-05-28 22:09:12] [AppID 244850] Detected workshop change : changed cached item 2882369004, new manifest 137844288693496772
+[2023-05-28 22:09:12] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:13] [AppID 244850] Download item 2882369004 result : OK
+[2023-05-28 22:09:13] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:13] [AppID 244850] Download item 2880317963 requested by app
+[2023-05-28 22:09:13] [AppID 244850] Starting Workshop download job (requested item 2880317963 )
+[2023-05-28 22:09:14] [AppID 244850] Detected workshop change : changed cached item 2880317963, new manifest 406500552683602042
+[2023-05-28 22:09:14] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:14] [AppID 244850] Download item 2880317963 result : OK
+[2023-05-28 22:09:14] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:14] [AppID 244850] Download item 2879142132 requested by app
+[2023-05-28 22:09:14] [AppID 244850] Starting Workshop download job (requested item 2879142132 )
+[2023-05-28 22:09:14] [AppID 244850] Detected workshop change : changed cached item 2879142132, new manifest 8428699123085500739
+[2023-05-28 22:09:14] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:16] [AppID 244850] Download item 2879142132 result : OK
+[2023-05-28 22:09:16] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:16] [AppID 244850] Download item 2871368434 requested by app
+[2023-05-28 22:09:16] [AppID 244850] Starting Workshop download job (requested item 2871368434 )
+[2023-05-28 22:09:16] [AppID 244850] Detected workshop change : changed cached item 2871368434, new manifest 8962524551557264078
+[2023-05-28 22:09:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:17] [AppID 244850] Download item 2871368434 result : OK
+[2023-05-28 22:09:17] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:17] [AppID 244850] Download item 2861684799 requested by app
+[2023-05-28 22:09:17] [AppID 244850] Starting Workshop download job (requested item 2861684799 )
+[2023-05-28 22:09:17] [AppID 244850] Detected workshop change : changed cached item 2861684799, new manifest 7141707238592641798
+[2023-05-28 22:09:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:19] [AppID 244850] Download item 2861684799 result : OK
+[2023-05-28 22:09:19] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:19] [AppID 244850] Download item 2861683220 requested by app
+[2023-05-28 22:09:19] [AppID 244850] Starting Workshop download job (requested item 2861683220 )
+[2023-05-28 22:09:19] [AppID 244850] Detected workshop change : changed cached item 2861683220, new manifest 9159945246004033927
+[2023-05-28 22:09:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:24] [AppID 244850] Download item 2861683220 result : OK
+[2023-05-28 22:09:24] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:24] [AppID 244850] Download item 2861680741 requested by app
+[2023-05-28 22:09:24] [AppID 244850] Starting Workshop download job (requested item 2861680741 )
+[2023-05-28 22:09:24] [AppID 244850] Detected workshop change : changed cached item 2861680741, new manifest 2986314513104028005
+[2023-05-28 22:09:24] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:26] [AppID 244850] Download item 2861680741 result : OK
+[2023-05-28 22:09:26] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:26] [AppID 244850] Download item 2861285936 requested by app
+[2023-05-28 22:09:26] [AppID 244850] Starting Workshop download job (requested item 2861285936 )
+[2023-05-28 22:09:26] [AppID 244850] Detected workshop change : changed cached item 2861285936, new manifest 3798377539877204449
+[2023-05-28 22:09:26] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:31] [AppID 244850] Download item 2861285936 result : OK
+[2023-05-28 22:09:31] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:31] [AppID 244850] Download item 2852753555 requested by app
+[2023-05-28 22:09:31] [AppID 244850] Starting Workshop download job (requested item 2852753555 )
+[2023-05-28 22:09:31] [AppID 244850] Detected workshop change : changed cached item 2852753555, new manifest 1361724883259987699
+[2023-05-28 22:09:31] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:32] [AppID 244850] Download item 2852753555 result : OK
+[2023-05-28 22:09:32] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:32] [AppID 244850] Download item 2846577007 requested by app
+[2023-05-28 22:09:32] [AppID 244850] Starting Workshop download job (requested item 2846577007 )
+[2023-05-28 22:09:32] [AppID 244850] Detected workshop change : changed cached item 2846577007, new manifest 279531675608630669
+[2023-05-28 22:09:32] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:37] [AppID 244850] Download item 2846577007 result : OK
+[2023-05-28 22:09:37] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:37] [AppID 244850] Download item 2841920953 requested by app
+[2023-05-28 22:09:37] [AppID 244850] Starting Workshop download job (requested item 2841920953 )
+[2023-05-28 22:09:37] [AppID 244850] Detected workshop change : changed cached item 2841920953, new manifest 3763551835488781720
+[2023-05-28 22:09:37] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:38] [AppID 244850] Download item 2841920953 result : OK
+[2023-05-28 22:09:38] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:38] [AppID 244850] Download item 2839553181 requested by app
+[2023-05-28 22:09:38] [AppID 244850] Starting Workshop download job (requested item 2839553181 )
+[2023-05-28 22:09:38] [AppID 244850] Detected workshop change : changed cached item 2839553181, new manifest 2006984376117089954
+[2023-05-28 22:09:38] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:39] [AppID 244850] Download item 2839553181 result : OK
+[2023-05-28 22:09:39] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:39] [AppID 244850] Download item 2836145064 requested by app
+[2023-05-28 22:09:39] [AppID 244850] Starting Workshop download job (requested item 2836145064 )
+[2023-05-28 22:09:39] [AppID 244850] Detected workshop change : changed cached item 2836145064, new manifest 8971515323195206479
+[2023-05-28 22:09:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:40] [AppID 244850] Download item 2836145064 result : OK
+[2023-05-28 22:09:40] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:40] [AppID 244850] Download item 2831593561 requested by app
+[2023-05-28 22:09:40] [AppID 244850] Starting Workshop download job (requested item 2831593561 )
+[2023-05-28 22:09:40] [AppID 244850] Detected workshop change : changed cached item 2831593561, new manifest 8658350026695644267
+[2023-05-28 22:09:40] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:43] [AppID 244850] Download item 2831593561 result : OK
+[2023-05-28 22:09:43] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:43] [AppID 244850] Download item 2830474647 requested by app
+[2023-05-28 22:09:43] [AppID 244850] Starting Workshop download job (requested item 2830474647 )
+[2023-05-28 22:09:43] [AppID 244850] Detected workshop change : changed cached item 2830474647, new manifest 1603661187284744929
+[2023-05-28 22:09:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:44] [AppID 244850] Download item 2830474647 result : OK
+[2023-05-28 22:09:44] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:44] [AppID 244850] Download item 2829589020 requested by app
+[2023-05-28 22:09:44] [AppID 244850] Starting Workshop download job (requested item 2829589020 )
+[2023-05-28 22:09:44] [AppID 244850] Detected workshop change : changed cached item 2829589020, new manifest 7961341270984571333
+[2023-05-28 22:09:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:45] [AppID 244850] Download item 2829589020 result : OK
+[2023-05-28 22:09:45] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:45] [AppID 244850] Download item 2821219378 requested by app
+[2023-05-28 22:09:45] [AppID 244850] Starting Workshop download job (requested item 2821219378 )
+[2023-05-28 22:09:45] [AppID 244850] Detected workshop change : changed cached item 2821219378, new manifest 8910577704058092852
+[2023-05-28 22:09:45] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:46] [AppID 244850] Download item 2821219378 result : OK
+[2023-05-28 22:09:46] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:46] [AppID 244850] Download item 2819263781 requested by app
+[2023-05-28 22:09:46] [AppID 244850] Starting Workshop download job (requested item 2819263781 )
+[2023-05-28 22:09:46] [AppID 244850] Detected workshop change : changed cached item 2819263781, new manifest 2147885437660974335
+[2023-05-28 22:09:46] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:48] [AppID 244850] Download item 2819263781 result : OK
+[2023-05-28 22:09:48] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:48] [AppID 244850] Download item 2810197232 requested by app
+[2023-05-28 22:09:48] [AppID 244850] Starting Workshop download job (requested item 2810197232 )
+[2023-05-28 22:09:48] [AppID 244850] Detected workshop change : changed cached item 2810197232, new manifest 7904262018341916390
+[2023-05-28 22:09:48] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:49] [AppID 244850] Download item 2810197232 result : OK
+[2023-05-28 22:09:49] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:49] [AppID 244850] Download item 2809500674 requested by app
+[2023-05-28 22:09:49] [AppID 244850] Starting Workshop download job (requested item 2809500674 )
+[2023-05-28 22:09:50] [AppID 244850] Detected workshop change : changed cached item 2809500674, new manifest 5876504107887017361
+[2023-05-28 22:09:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:51] [AppID 244850] Download item 2809500674 result : OK
+[2023-05-28 22:09:51] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:51] [AppID 244850] Download item 2804100557 requested by app
+[2023-05-28 22:09:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 22:09:51] [AppID 244850] Starting Workshop download job (requested item 2804100557 )
+[2023-05-28 22:09:51] [AppID 244850] Detected workshop change : changed cached item 2804100557, new manifest 1632232379367086234
+[2023-05-28 22:09:51] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:52] [AppID 244850] Download item 2804100557 result : OK
+[2023-05-28 22:09:52] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:52] [AppID 244850] Download item 2803081060 requested by app
+[2023-05-28 22:09:52] [AppID 244850] Starting Workshop download job (requested item 2803081060 )
+[2023-05-28 22:09:52] [AppID 244850] Detected workshop change : changed cached item 2803081060, new manifest 4128491893986738110
+[2023-05-28 22:09:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:54] [AppID 244850] Download item 2803081060 result : OK
+[2023-05-28 22:09:54] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:54] [AppID 244850] Download item 2799659022 requested by app
+[2023-05-28 22:09:54] [AppID 244850] Starting Workshop download job (requested item 2799659022 )
+[2023-05-28 22:09:54] [AppID 244850] Detected workshop change : changed cached item 2799659022, new manifest 5452724280065708957
+[2023-05-28 22:09:54] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:56] [AppID 244850] Download item 2799659022 result : OK
+[2023-05-28 22:09:56] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:56] [AppID 244850] Download item 2783691448 requested by app
+[2023-05-28 22:09:56] [AppID 244850] Starting Workshop download job (requested item 2783691448 )
+[2023-05-28 22:09:56] [AppID 244850] Detected workshop change : changed cached item 2783691448, new manifest 1935496067203675595
+[2023-05-28 22:09:56] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:09:58] [AppID 244850] Download item 2783691448 result : OK
+[2023-05-28 22:09:58] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:09:58] [AppID 244850] Download item 2777644246 requested by app
+[2023-05-28 22:09:58] [AppID 244850] Starting Workshop download job (requested item 2777644246 )
+[2023-05-28 22:09:58] [AppID 244850] Detected workshop change : changed cached item 2777644246, new manifest 8362527992779888361
+[2023-05-28 22:09:58] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:00] [AppID 244850] Download item 2777644246 result : OK
+[2023-05-28 22:10:00] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:00] [AppID 244850] Download item 2776745184 requested by app
+[2023-05-28 22:10:00] [AppID 244850] Starting Workshop download job (requested item 2776745184 )
+[2023-05-28 22:10:00] [AppID 244850] Detected workshop change : changed cached item 2776745184, new manifest 5305531532398779413
+[2023-05-28 22:10:00] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:02] [AppID 244850] Download item 2776745184 result : OK
+[2023-05-28 22:10:02] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:02] [AppID 244850] Download item 2756894170 requested by app
+[2023-05-28 22:10:02] [AppID 244850] Starting Workshop download job (requested item 2756894170 )
+[2023-05-28 22:10:02] [AppID 244850] Detected workshop change : changed cached item 2756894170, new manifest 8456739777831735677
+[2023-05-28 22:10:02] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:03] [AppID 244850] Download item 2756894170 result : OK
+[2023-05-28 22:10:03] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:03] [AppID 244850] Download item 2754014019 requested by app
+[2023-05-28 22:10:03] [AppID 244850] Starting Workshop download job (requested item 2754014019 )
+[2023-05-28 22:10:03] [AppID 244850] Detected workshop change : changed cached item 2754014019, new manifest 6336919021344352164
+[2023-05-28 22:10:03] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:04] [AppID 244850] Download item 2754014019 result : OK
+[2023-05-28 22:10:04] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:04] [AppID 244850] Download item 2752888260 requested by app
+[2023-05-28 22:10:04] [AppID 244850] Starting Workshop download job (requested item 2752888260 )
+[2023-05-28 22:10:05] [AppID 244850] Detected workshop change : changed cached item 2752888260, new manifest 2658182773829918654
+[2023-05-28 22:10:05] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:11] [AppID 244850] Download item 2752888260 result : OK
+[2023-05-28 22:10:11] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:11] [AppID 244850] Download item 2747715235 requested by app
+[2023-05-28 22:10:11] [AppID 244850] Starting Workshop download job (requested item 2747715235 )
+[2023-05-28 22:10:12] [AppID 244850] Detected workshop change : changed cached item 2747715235, new manifest 8568390342125254862
+[2023-05-28 22:10:12] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:16] [AppID 244850] Download item 2747715235 result : OK
+[2023-05-28 22:10:16] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:16] [AppID 244850] Download item 2727504018 requested by app
+[2023-05-28 22:10:16] [AppID 244850] Starting Workshop download job (requested item 2727504018 )
+[2023-05-28 22:10:16] [AppID 244850] Detected workshop change : changed cached item 2727504018, new manifest 7783533474664268746
+[2023-05-28 22:10:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:17] [AppID 244850] Download item 2727504018 result : OK
+[2023-05-28 22:10:17] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:17] [AppID 244850] Download item 2702657782 requested by app
+[2023-05-28 22:10:17] [AppID 244850] Starting Workshop download job (requested item 2702657782 )
+[2023-05-28 22:10:17] [AppID 244850] Detected workshop change : changed cached item 2702657782, new manifest 7075158849620183872
+[2023-05-28 22:10:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:18] [AppID 244850] Download item 2702657782 result : OK
+[2023-05-28 22:10:18] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:18] [AppID 244850] Download item 2696023344 requested by app
+[2023-05-28 22:10:18] [AppID 244850] Starting Workshop download job (requested item 2696023344 )
+[2023-05-28 22:10:19] [AppID 244850] Detected workshop change : changed cached item 2696023344, new manifest 2804588020305357883
+[2023-05-28 22:10:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:20] [AppID 244850] Download item 2696023344 result : OK
+[2023-05-28 22:10:20] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:20] [AppID 244850] Download item 2668820525 requested by app
+[2023-05-28 22:10:20] [AppID 244850] Starting Workshop download job (requested item 2668820525 )
+[2023-05-28 22:10:20] [AppID 244850] Detected workshop change : changed cached item 2668820525, new manifest 8204625803129156178
+[2023-05-28 22:10:20] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:21] [AppID 244850] Download item 2668820525 result : OK
+[2023-05-28 22:10:21] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:21] [AppID 244850] Download item 2621488886 requested by app
+[2023-05-28 22:10:21] [AppID 244850] Starting Workshop download job (requested item 2621488886 )
+[2023-05-28 22:10:21] [AppID 244850] Detected workshop change : changed cached item 2621488886, new manifest 3307687153069928015
+[2023-05-28 22:10:21] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:23] [AppID 244850] Download item 2621488886 result : OK
+[2023-05-28 22:10:23] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:23] [AppID 244850] Download item 2617194602 requested by app
+[2023-05-28 22:10:23] [AppID 244850] Starting Workshop download job (requested item 2617194602 )
+[2023-05-28 22:10:23] [AppID 244850] Detected workshop change : changed cached item 2617194602, new manifest 8128465003057456746
+[2023-05-28 22:10:23] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:24] [AppID 244850] Download item 2617194602 result : OK
+[2023-05-28 22:10:24] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:24] [AppID 244850] Download item 2598692154 requested by app
+[2023-05-28 22:10:24] [AppID 244850] Starting Workshop download job (requested item 2598692154 )
+[2023-05-28 22:10:24] [AppID 244850] Detected workshop change : changed cached item 2598692154, new manifest 5969388637500107334
+[2023-05-28 22:10:24] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:25] [AppID 244850] Download item 2598692154 result : OK
+[2023-05-28 22:10:25] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:25] [AppID 244850] Download item 2598691307 requested by app
+[2023-05-28 22:10:25] [AppID 244850] Starting Workshop download job (requested item 2598691307 )
+[2023-05-28 22:10:25] [AppID 244850] Detected workshop change : changed cached item 2598691307, new manifest 8320595253901544155
+[2023-05-28 22:10:25] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:28] [AppID 244850] Download item 2598691307 result : OK
+[2023-05-28 22:10:28] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:28] [AppID 244850] Download item 2596208372 requested by app
+[2023-05-28 22:10:28] [AppID 244850] Starting Workshop download job (requested item 2596208372 )
+[2023-05-28 22:10:28] [AppID 244850] Detected workshop change : changed cached item 2596208372, new manifest 6908200338835653277
+[2023-05-28 22:10:28] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:30] [AppID 244850] Download item 2596208372 result : OK
+[2023-05-28 22:10:30] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:30] [AppID 244850] Download item 2590528047 requested by app
+[2023-05-28 22:10:30] [AppID 244850] Starting Workshop download job (requested item 2590528047 )
+[2023-05-28 22:10:30] [AppID 244850] Detected workshop change : changed cached item 2590528047, new manifest 1895449669120236560
+[2023-05-28 22:10:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:31] [AppID 244850] Download item 2590528047 result : OK
+[2023-05-28 22:10:31] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:31] [AppID 244850] Download item 2559726372 requested by app
+[2023-05-28 22:10:31] [AppID 244850] Starting Workshop download job (requested item 2559726372 )
+[2023-05-28 22:10:31] [AppID 244850] Detected workshop change : changed cached item 2559726372, new manifest 4805291114571318278
+[2023-05-28 22:10:31] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:33] [AppID 244850] Download item 2559726372 result : OK
+[2023-05-28 22:10:33] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:33] [AppID 244850] Download item 2499720849 requested by app
+[2023-05-28 22:10:33] [AppID 244850] Starting Workshop download job (requested item 2499720849 )
+[2023-05-28 22:10:33] [AppID 244850] Detected workshop change : changed cached item 2499720849, new manifest 1982987492913711423
+[2023-05-28 22:10:33] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:34] [AppID 244850] Download item 2499720849 result : OK
+[2023-05-28 22:10:34] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:34] [AppID 244850] Download item 2493091475 requested by app
+[2023-05-28 22:10:34] [AppID 244850] Starting Workshop download job (requested item 2493091475 )
+[2023-05-28 22:10:34] [AppID 244850] Detected workshop change : changed cached item 2493091475, new manifest 1954096648405045272
+[2023-05-28 22:10:34] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:36] [AppID 244850] Download item 2493091475 result : OK
+[2023-05-28 22:10:36] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:36] [AppID 244850] Download item 2473174197 requested by app
+[2023-05-28 22:10:36] [AppID 244850] Starting Workshop download job (requested item 2473174197 )
+[2023-05-28 22:10:36] [AppID 244850] Detected workshop change : changed cached item 2473174197, new manifest 549379162313550068
+[2023-05-28 22:10:36] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:39] [AppID 244850] Download item 2473174197 result : OK
+[2023-05-28 22:10:39] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:39] [AppID 244850] Download item 2414738008 requested by app
+[2023-05-28 22:10:39] [AppID 244850] Starting Workshop download job (requested item 2414738008 )
+[2023-05-28 22:10:39] [AppID 244850] Detected workshop change : changed cached item 2414738008, new manifest 2407125694195773068
+[2023-05-28 22:10:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:42] [AppID 244850] Download item 2414738008 result : OK
+[2023-05-28 22:10:42] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:42] [AppID 244850] Download item 2414546174 requested by app
+[2023-05-28 22:10:42] [AppID 244850] Starting Workshop download job (requested item 2414546174 )
+[2023-05-28 22:10:42] [AppID 244850] Detected workshop change : changed cached item 2414546174, new manifest 6668191629482842908
+[2023-05-28 22:10:42] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:43] [AppID 244850] Download item 2414546174 result : OK
+[2023-05-28 22:10:43] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:43] [AppID 244850] Download item 2391318591 requested by app
+[2023-05-28 22:10:43] [AppID 244850] Starting Workshop download job (requested item 2391318591 )
+[2023-05-28 22:10:43] [AppID 244850] Detected workshop change : changed cached item 2391318591, new manifest 9009742289650452605
+[2023-05-28 22:10:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:45] [AppID 244850] Download item 2391318591 result : OK
+[2023-05-28 22:10:45] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:45] [AppID 244850] Download item 2371761016 requested by app
+[2023-05-28 22:10:45] [AppID 244850] Starting Workshop download job (requested item 2371761016 )
+[2023-05-28 22:10:45] [AppID 244850] Detected workshop change : changed cached item 2371761016, new manifest 7826895915733716932
+[2023-05-28 22:10:45] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:46] [AppID 244850] Download item 2371761016 result : OK
+[2023-05-28 22:10:46] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:46] [AppID 244850] Download item 2336089504 requested by app
+[2023-05-28 22:10:46] [AppID 244850] Starting Workshop download job (requested item 2336089504 )
+[2023-05-28 22:10:46] [AppID 244850] Detected workshop change : changed cached item 2336089504, new manifest 7867134325292469880
+[2023-05-28 22:10:46] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:51] [AppID 244850] Download item 2336089504 result : OK
+[2023-05-28 22:10:51] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:51] [AppID 244850] Download item 2304715504 requested by app
+[2023-05-28 22:10:51] [AppID 244850] Starting Workshop download job (requested item 2304715504 )
+[2023-05-28 22:10:51] [AppID 244850] Detected workshop change : changed cached item 2304715504, new manifest 3762664227659127050
+[2023-05-28 22:10:51] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:53] [AppID 244850] Download item 2304715504 result : OK
+[2023-05-28 22:10:53] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:53] [AppID 244850] Download item 2299281406 requested by app
+[2023-05-28 22:10:53] [AppID 244850] Starting Workshop download job (requested item 2299281406 )
+[2023-05-28 22:10:53] [AppID 244850] Detected workshop change : changed cached item 2299281406, new manifest 3575445552621162803
+[2023-05-28 22:10:53] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:55] [AppID 244850] Download item 2299281406 result : OK
+[2023-05-28 22:10:55] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:55] [AppID 244850] Download item 2298956701 requested by app
+[2023-05-28 22:10:55] [AppID 244850] Starting Workshop download job (requested item 2298956701 )
+[2023-05-28 22:10:55] [AppID 244850] Detected workshop change : changed cached item 2298956701, new manifest 5381217596731313670
+[2023-05-28 22:10:55] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:56] [AppID 244850] Download item 2298956701 result : OK
+[2023-05-28 22:10:56] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:56] [AppID 244850] Download item 2289675817 requested by app
+[2023-05-28 22:10:56] [AppID 244850] Starting Workshop download job (requested item 2289675817 )
+[2023-05-28 22:10:56] [AppID 244850] Detected workshop change : changed cached item 2289675817, new manifest 4591411477579226840
+[2023-05-28 22:10:56] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:10:59] [AppID 244850] Download item 2289675817 result : OK
+[2023-05-28 22:10:59] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:10:59] [AppID 244850] Download item 2267007067 requested by app
+[2023-05-28 22:10:59] [AppID 244850] Starting Workshop download job (requested item 2267007067 )
+[2023-05-28 22:10:59] [AppID 244850] Detected workshop change : changed cached item 2267007067, new manifest 8840405565385769908
+[2023-05-28 22:10:59] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:00] [AppID 244850] Download item 2267007067 result : OK
+[2023-05-28 22:11:00] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:00] [AppID 244850] Download item 2202391036 requested by app
+[2023-05-28 22:11:00] [AppID 244850] Starting Workshop download job (requested item 2202391036 )
+[2023-05-28 22:11:00] [AppID 244850] Detected workshop change : changed cached item 2202391036, new manifest 5244272997794787973
+[2023-05-28 22:11:00] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:05] [AppID 244850] Download item 2202391036 result : OK
+[2023-05-28 22:11:05] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:05] [AppID 244850] Download item 2194248159 requested by app
+[2023-05-28 22:11:05] [AppID 244850] Starting Workshop download job (requested item 2194248159 )
+[2023-05-28 22:11:05] [AppID 244850] Detected workshop change : changed cached item 2194248159, new manifest 7155634378592128866
+[2023-05-28 22:11:05] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:06] [AppID 244850] Download item 2194248159 result : OK
+[2023-05-28 22:11:06] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:06] [AppID 244850] Download item 2178783350 requested by app
+[2023-05-28 22:11:06] [AppID 244850] Starting Workshop download job (requested item 2178783350 )
+[2023-05-28 22:11:06] [AppID 244850] Detected workshop change : changed cached item 2178783350, new manifest 5157718592875830447
+[2023-05-28 22:11:06] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:08] [AppID 244850] Download item 2178783350 result : OK
+[2023-05-28 22:11:08] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:08] [AppID 244850] Download item 2169237583 requested by app
+[2023-05-28 22:11:08] [AppID 244850] Starting Workshop download job (requested item 2169237583 )
+[2023-05-28 22:11:08] [AppID 244850] Detected workshop change : changed cached item 2169237583, new manifest 7092422080501823733
+[2023-05-28 22:11:08] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:10] [AppID 244850] Download item 2169237583 result : OK
+[2023-05-28 22:11:10] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:10] [AppID 244850] Download item 2142164453 requested by app
+[2023-05-28 22:11:10] [AppID 244850] Starting Workshop download job (requested item 2142164453 )
+[2023-05-28 22:11:10] [AppID 244850] Detected workshop change : changed cached item 2142164453, new manifest 6888782771611469220
+[2023-05-28 22:11:10] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:11] [AppID 244850] Download item 2142164453 result : OK
+[2023-05-28 22:11:11] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:11] [AppID 244850] Download item 2118214855 requested by app
+[2023-05-28 22:11:11] [AppID 244850] Starting Workshop download job (requested item 2118214855 )
+[2023-05-28 22:11:11] [AppID 244850] Detected workshop change : changed cached item 2118214855, new manifest 6966831069363739389
+[2023-05-28 22:11:11] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:12] [AppID 244850] Download item 2118214855 result : OK
+[2023-05-28 22:11:12] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:12] [AppID 244850] Download item 2071992722 requested by app
+[2023-05-28 22:11:12] [AppID 244850] Starting Workshop download job (requested item 2071992722 )
+[2023-05-28 22:11:12] [AppID 244850] Detected workshop change : changed cached item 2071992722, new manifest 8032213507268110100
+[2023-05-28 22:11:12] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:13] [AppID 244850] Download item 2071992722 result : OK
+[2023-05-28 22:11:13] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:13] [AppID 244850] Download item 2071647642 requested by app
+[2023-05-28 22:11:13] [AppID 244850] Starting Workshop download job (requested item 2071647642 )
+[2023-05-28 22:11:13] [AppID 244850] Detected workshop change : changed cached item 2071647642, new manifest 4249169942819575213
+[2023-05-28 22:11:13] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:15] [AppID 244850] Download item 2071647642 result : OK
+[2023-05-28 22:11:15] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:15] [AppID 244850] Download item 2053202808 requested by app
+[2023-05-28 22:11:15] [AppID 244850] Starting Workshop download job (requested item 2053202808 )
+[2023-05-28 22:11:15] [AppID 244850] Detected workshop change : changed cached item 2053202808, new manifest 2429148789820740117
+[2023-05-28 22:11:15] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:16] [AppID 244850] Download item 2053202808 result : OK
+[2023-05-28 22:11:16] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:16] [AppID 244850] Download item 2043339470 requested by app
+[2023-05-28 22:11:16] [AppID 244850] Starting Workshop download job (requested item 2043339470 )
+[2023-05-28 22:11:16] [AppID 244850] Detected workshop change : changed cached item 2043339470, new manifest 6871723464473290298
+[2023-05-28 22:11:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:17] [AppID 244850] Download item 2043339470 result : OK
+[2023-05-28 22:11:17] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:17] [AppID 244850] Download item 2036872575 requested by app
+[2023-05-28 22:11:17] [AppID 244850] Starting Workshop download job (requested item 2036872575 )
+[2023-05-28 22:11:17] [AppID 244850] Detected workshop change : changed cached item 2036872575, new manifest 4604933689627729101
+[2023-05-28 22:11:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:19] [AppID 244850] Download item 2036872575 result : OK
+[2023-05-28 22:11:19] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:19] [AppID 244850] Download item 1992435623 requested by app
+[2023-05-28 22:11:19] [AppID 244850] Starting Workshop download job (requested item 1992435623 )
+[2023-05-28 22:11:20] [AppID 244850] Detected workshop change : changed cached item 1992435623, new manifest 5107310935823359564
+[2023-05-28 22:11:20] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:20] [AppID 244850] Download item 1992435623 result : OK
+[2023-05-28 22:11:20] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:20] [AppID 244850] Download item 1965654081 requested by app
+[2023-05-28 22:11:20] [AppID 244850] Starting Workshop download job (requested item 1965654081 )
+[2023-05-28 22:11:20] [AppID 244850] Detected workshop change : changed cached item 1965654081, new manifest 504536035648591219
+[2023-05-28 22:11:20] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:22] [AppID 244850] Download item 1965654081 result : OK
+[2023-05-28 22:11:22] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:22] [AppID 244850] Download item 1931509062 requested by app
+[2023-05-28 22:11:22] [AppID 244850] Starting Workshop download job (requested item 1931509062 )
+[2023-05-28 22:11:22] [AppID 244850] Detected workshop change : changed cached item 1931509062, new manifest 7225809624379436747
+[2023-05-28 22:11:22] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:24] [AppID 244850] Download item 1931509062 result : OK
+[2023-05-28 22:11:24] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:24] [AppID 244850] Download item 1918681825 requested by app
+[2023-05-28 22:11:24] [AppID 244850] Starting Workshop download job (requested item 1918681825 )
+[2023-05-28 22:11:24] [AppID 244850] Detected workshop change : changed cached item 1918681825, new manifest 4593527485805294218
+[2023-05-28 22:11:24] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:26] [AppID 244850] Download item 1918681825 result : OK
+[2023-05-28 22:11:26] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:26] [AppID 244850] Download item 1902970975 requested by app
+[2023-05-28 22:11:26] [AppID 244850] Starting Workshop download job (requested item 1902970975 )
+[2023-05-28 22:11:27] [AppID 244850] Detected workshop change : changed cached item 1902970975, new manifest 6492868424073436907
+[2023-05-28 22:11:27] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:40] [AppID 244850] Download item 1902970975 result : OK
+[2023-05-28 22:11:40] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:40] [AppID 244850] Download item 1893742731 requested by app
+[2023-05-28 22:11:40] [AppID 244850] Starting Workshop download job (requested item 1893742731 )
+[2023-05-28 22:11:40] [AppID 244850] Detected workshop change : changed cached item 1893742731, new manifest 1747547978143920789
+[2023-05-28 22:11:40] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:43] [AppID 244850] Download item 1893742731 result : OK
+[2023-05-28 22:11:43] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:43] [AppID 244850] Download item 1881158066 requested by app
+[2023-05-28 22:11:43] [AppID 244850] Starting Workshop download job (requested item 1881158066 )
+[2023-05-28 22:11:43] [AppID 244850] Detected workshop change : changed cached item 1881158066, new manifest 8061309605134525322
+[2023-05-28 22:11:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:45] [AppID 244850] Download item 1881158066 result : OK
+[2023-05-28 22:11:45] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:45] [AppID 244850] Download item 1878844801 requested by app
+[2023-05-28 22:11:45] [AppID 244850] Starting Workshop download job (requested item 1878844801 )
+[2023-05-28 22:11:46] [AppID 244850] Detected workshop change : changed cached item 1878844801, new manifest 4226161601551060646
+[2023-05-28 22:11:46] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:47] [AppID 244850] Download item 1878844801 result : OK
+[2023-05-28 22:11:47] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:47] [AppID 244850] Download item 1874524300 requested by app
+[2023-05-28 22:11:47] [AppID 244850] Starting Workshop download job (requested item 1874524300 )
+[2023-05-28 22:11:47] [AppID 244850] Detected workshop change : changed cached item 1874524300, new manifest 46099182028935995
+[2023-05-28 22:11:47] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:48] [AppID 244850] Download item 1874524300 result : OK
+[2023-05-28 22:11:48] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:48] [AppID 244850] Download item 1793333265 requested by app
+[2023-05-28 22:11:48] [AppID 244850] Starting Workshop download job (requested item 1793333265 )
+[2023-05-28 22:11:48] [AppID 244850] Detected workshop change : changed cached item 1793333265, new manifest 6242620181201255264
+[2023-05-28 22:11:48] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:50] [AppID 244850] Download item 1793333265 result : OK
+[2023-05-28 22:11:50] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:50] [AppID 244850] Download item 1736735806 requested by app
+[2023-05-28 22:11:50] [AppID 244850] Starting Workshop download job (requested item 1736735806 )
+[2023-05-28 22:11:50] [AppID 244850] Detected workshop change : changed cached item 1736735806, new manifest 1669264665141835345
+[2023-05-28 22:11:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:51] [AppID 244850] Download item 1736735806 result : OK
+[2023-05-28 22:11:51] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:51] [AppID 244850] Download item 1662953858 requested by app
+[2023-05-28 22:11:51] [AppID 244850] Starting Workshop download job (requested item 1662953858 )
+[2023-05-28 22:11:52] [AppID 244850] Detected workshop change : changed cached item 1662953858, new manifest 2644080640606258881
+[2023-05-28 22:11:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:55] [AppID 244850] Download item 1662953858 result : OK
+[2023-05-28 22:11:55] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:55] [AppID 244850] Download item 1605982958 requested by app
+[2023-05-28 22:11:55] [AppID 244850] Starting Workshop download job (requested item 1605982958 )
+[2023-05-28 22:11:55] [AppID 244850] Detected workshop change : changed cached item 1605982958, new manifest 6312663699105784336
+[2023-05-28 22:11:55] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:58] [AppID 244850] Download item 1605982958 result : OK
+[2023-05-28 22:11:58] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:58] [AppID 244850] Download item 1555044803 requested by app
+[2023-05-28 22:11:58] [AppID 244850] Starting Workshop download job (requested item 1555044803 )
+[2023-05-28 22:11:58] [AppID 244850] Detected workshop change : changed cached item 1555044803, new manifest 1674785637324696576
+[2023-05-28 22:11:58] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:11:59] [AppID 244850] Download item 1555044803 result : OK
+[2023-05-28 22:11:59] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:11:59] [AppID 244850] Download item 1542310718 requested by app
+[2023-05-28 22:11:59] [AppID 244850] Starting Workshop download job (requested item 1542310718 )
+[2023-05-28 22:11:59] [AppID 244850] Detected workshop change : changed cached item 1542310718, new manifest 3102302228360404390
+[2023-05-28 22:11:59] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:02] [AppID 244850] Download item 1542310718 result : OK
+[2023-05-28 22:12:02] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:02] [AppID 244850] Download item 1521905890 requested by app
+[2023-05-28 22:12:02] [AppID 244850] Starting Workshop download job (requested item 1521905890 )
+[2023-05-28 22:12:02] [AppID 244850] Detected workshop change : changed cached item 1521905890, new manifest 7545320240234739359
+[2023-05-28 22:12:02] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:04] [AppID 244850] Download item 1521905890 result : OK
+[2023-05-28 22:12:04] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:04] [AppID 244850] Download item 1507368483 requested by app
+[2023-05-28 22:12:04] [AppID 244850] Starting Workshop download job (requested item 1507368483 )
+[2023-05-28 22:12:04] [AppID 244850] Detected workshop change : changed cached item 1507368483, new manifest 1524894700897902274
+[2023-05-28 22:12:04] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:06] [AppID 244850] Download item 1507368483 result : OK
+[2023-05-28 22:12:06] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:06] [AppID 244850] Download item 1469072169 requested by app
+[2023-05-28 22:12:06] [AppID 244850] Starting Workshop download job (requested item 1469072169 )
+[2023-05-28 22:12:06] [AppID 244850] Detected workshop change : changed cached item 1469072169, new manifest 4051823798293819621
+[2023-05-28 22:12:06] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:07] [AppID 244850] Download item 1469072169 result : OK
+[2023-05-28 22:12:07] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:07] [AppID 244850] Download item 1400364273 requested by app
+[2023-05-28 22:12:07] [AppID 244850] Starting Workshop download job (requested item 1400364273 )
+[2023-05-28 22:12:07] [AppID 244850] Detected workshop change : changed cached item 1400364273, new manifest 3538814216721525943
+[2023-05-28 22:12:07] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:09] [AppID 244850] Download item 1400364273 result : OK
+[2023-05-28 22:12:09] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:09] [AppID 244850] Download item 1365616918 requested by app
+[2023-05-28 22:12:09] [AppID 244850] Starting Workshop download job (requested item 1365616918 )
+[2023-05-28 22:12:09] [AppID 244850] Detected workshop change : changed cached item 1365616918, new manifest 5775225215319073883
+[2023-05-28 22:12:09] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:12] [AppID 244850] Download item 1365616918 result : OK
+[2023-05-28 22:12:12] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:12] [AppID 244850] Download item 1289485324 requested by app
+[2023-05-28 22:12:12] [AppID 244850] Starting Workshop download job (requested item 1289485324 )
+[2023-05-28 22:12:12] [AppID 244850] Detected workshop change : changed cached item 1289485324, new manifest 1672288354771619512
+[2023-05-28 22:12:12] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:13] [AppID 244850] Download item 1289485324 result : OK
+[2023-05-28 22:12:13] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:13] [AppID 244850] Download item 1222032427 requested by app
+[2023-05-28 22:12:13] [AppID 244850] Starting Workshop download job (requested item 1222032427 )
+[2023-05-28 22:12:14] [AppID 244850] Detected workshop change : changed cached item 1222032427, new handle 1848169030941204010 
+[2023-05-28 22:12:14] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:14] [AppID 244850] Download item 1222032427 result : OK
+[2023-05-28 22:12:14] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:14] [AppID 244850] Download item 1216416537 requested by app
+[2023-05-28 22:12:14] [AppID 244850] Starting Workshop download job (requested item 1216416537 )
+[2023-05-28 22:12:14] [AppID 244850] Detected workshop change : changed cached item 1216416537, new manifest 2632583954938313458
+[2023-05-28 22:12:14] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:15] [AppID 244850] Download item 1216416537 result : OK
+[2023-05-28 22:12:15] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:15] [AppID 244850] Download item 945655546 requested by app
+[2023-05-28 22:12:15] [AppID 244850] Starting Workshop download job (requested item 945655546 )
+[2023-05-28 22:12:16] [AppID 244850] Detected workshop change : changed cached item 945655546, new handle 1780635113163892849 
+[2023-05-28 22:12:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:16] [AppID 244850] Download item 945655546 result : OK
+[2023-05-28 22:12:16] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:16] [AppID 244850] Download item 914369510 requested by app
+[2023-05-28 22:12:16] [AppID 244850] Starting Workshop download job (requested item 914369510 )
+[2023-05-28 22:12:16] [AppID 244850] Detected workshop change : changed cached item 914369510, new manifest 7007639827666870766
+[2023-05-28 22:12:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:18] [AppID 244850] Download item 914369510 result : OK
+[2023-05-28 22:12:18] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:18] [AppID 244850] Download item 831739660 requested by app
+[2023-05-28 22:12:18] [AppID 244850] Starting Workshop download job (requested item 831739660 )
+[2023-05-28 22:12:19] [AppID 244850] Detected workshop change : changed cached item 831739660, new manifest 2411097060116180983
+[2023-05-28 22:12:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:21] [AppID 244850] Download item 831739660 result : OK
+[2023-05-28 22:12:21] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:21] [AppID 244850] Download item 806331071 requested by app
+[2023-05-28 22:12:21] [AppID 244850] Starting Workshop download job (requested item 806331071 )
+[2023-05-28 22:12:21] [AppID 244850] Detected workshop change : changed cached item 806331071, new manifest 3744824666854018662
+[2023-05-28 22:12:21] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:22] [AppID 244850] Download item 806331071 result : OK
+[2023-05-28 22:12:22] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:22] [AppID 244850] Download item 801185519 requested by app
+[2023-05-28 22:12:22] [AppID 244850] Starting Workshop download job (requested item 801185519 )
+[2023-05-28 22:12:22] [AppID 244850] Detected workshop change : changed cached item 801185519, new manifest 5339158725232290204
+[2023-05-28 22:12:22] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:27] [AppID 244850] Download item 801185519 result : OK
+[2023-05-28 22:12:27] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:27] [AppID 244850] Download item 800500312 requested by app
+[2023-05-28 22:12:27] [AppID 244850] Starting Workshop download job (requested item 800500312 )
+[2023-05-28 22:12:28] [AppID 244850] Detected workshop change : changed cached item 800500312, new manifest 958302055654956948
+[2023-05-28 22:12:28] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:29] [AppID 244850] Download item 800500312 result : OK
+[2023-05-28 22:12:29] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:29] [AppID 244850] Download item 758597413 requested by app
+[2023-05-28 22:12:29] [AppID 244850] Starting Workshop download job (requested item 758597413 )
+[2023-05-28 22:12:29] [AppID 244850] Detected workshop change : changed cached item 758597413, new manifest 8144833970592824204
+[2023-05-28 22:12:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:30] [AppID 244850] Download item 758597413 result : OK
+[2023-05-28 22:12:30] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:30] [AppID 244850] Download item 691529112 requested by app
+[2023-05-28 22:12:30] [AppID 244850] Starting Workshop download job (requested item 691529112 )
+[2023-05-28 22:12:30] [AppID 244850] Detected workshop change : changed cached item 691529112, new manifest 9074148371240577494
+[2023-05-28 22:12:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:43] [AppID 244850] Download item 691529112 result : OK
+[2023-05-28 22:12:43] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:43] [AppID 244850] Download item 571920453 requested by app
+[2023-05-28 22:12:43] [AppID 244850] Starting Workshop download job (requested item 571920453 )
+[2023-05-28 22:12:43] [AppID 244850] Detected workshop change : changed cached item 571920453, new manifest 8096102592628401944
+[2023-05-28 22:12:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:44] [AppID 244850] Download item 571920453 result : OK
+[2023-05-28 22:12:44] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:44] [AppID 244850] Download item 525460808 requested by app
+[2023-05-28 22:12:44] [AppID 244850] Starting Workshop download job (requested item 525460808 )
+[2023-05-28 22:12:44] [AppID 244850] Detected workshop change : changed cached item 525460808, new manifest 8497815585534297455
+[2023-05-28 22:12:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:45] [AppID 244850] Download item 525460808 result : OK
+[2023-05-28 22:12:45] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:45] [AppID 244850] Download item 514062285 requested by app
+[2023-05-28 22:12:45] [AppID 244850] Starting Workshop download job (requested item 514062285 )
+[2023-05-28 22:12:45] [AppID 244850] Detected workshop change : changed cached item 514062285, new manifest 19343849340306788
+[2023-05-28 22:12:45] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:50] [AppID 244850] Download item 514062285 result : OK
+[2023-05-28 22:12:50] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:50] [AppID 244850] Download item 504209260 requested by app
+[2023-05-28 22:12:50] [AppID 244850] Starting Workshop download job (requested item 504209260 )
+[2023-05-28 22:12:50] [AppID 244850] Detected workshop change : changed cached item 504209260, new manifest 6724811622887180086
+[2023-05-28 22:12:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:52] [AppID 244850] Download item 504209260 result : OK
+[2023-05-28 22:12:52] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:12:52] [AppID 244850] Download item 402858936 requested by app
+[2023-05-28 22:12:52] [AppID 244850] Starting Workshop download job (requested item 402858936 )
+[2023-05-28 22:12:52] [AppID 244850] Detected workshop change : changed cached item 402858936, new manifest 5996082353310452006
+[2023-05-28 22:12:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-28 22:12:53] [AppID 244850] Download item 402858936 result : OK
+[2023-05-28 22:12:53] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-28 22:24:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 22:39:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 22:54:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 23:09:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 23:24:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 23:39:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-28 23:55:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 00:10:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 00:25:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 00:40:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 00:55:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 01:10:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 01:25:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 01:40:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 01:55:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 02:10:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 02:25:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 02:40:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 02:55:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 03:10:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 03:25:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 03:40:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 03:55:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 04:10:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 04:25:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 04:40:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 04:55:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 05:10:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 05:25:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 05:40:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 05:55:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 06:10:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 06:25:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 06:40:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 06:55:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 07:10:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 07:25:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 07:40:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 07:55:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 08:10:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 08:25:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 08:40:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 08:55:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 09:10:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 09:25:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 09:40:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 09:55:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 10:10:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 10:25:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 10:40:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 10:55:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 11:10:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 11:25:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 11:40:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 11:55:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 12:10:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 12:25:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 12:40:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 12:55:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 13:11:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 13:26:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 13:41:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 13:56:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 14:11:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 14:26:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 14:41:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 14:56:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 15:11:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 15:26:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 15:41:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 15:56:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 16:11:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 16:26:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 16:41:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 16:56:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 17:11:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 17:26:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 17:41:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 17:56:21] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-05-29 18:07:52] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-05-29 18:07:55] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-05-29 18:07:56] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-05-29 18:07:57] [AppID 244850] Unloaded installed workshop items
+[2023-05-29 18:07:57] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-05-29 18:07:57] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-05-29 18:07:57] [AppID 244850] Download item 2880317963 requested by app
+[2023-05-29 18:07:57] [AppID 244850] Starting Workshop download job (requested item 2880317963 )
+[2023-05-29 18:07:58] [AppID 244850] Detected workshop change : changed cached item 2880317963, new manifest 4439536645970023145
+[2023-05-29 18:07:58] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-05-29 18:08:00] [AppID 244850] Download item 2880317963 result : OK
+[2023-05-29 18:08:00] [AppID 244850] Finished Workshop download job : No Error
+[2023-05-29 18:08:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 18:23:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 18:38:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 18:53:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 19:08:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 19:23:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 19:38:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 19:53:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 20:08:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 20:23:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 20:38:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 20:53:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 21:08:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 21:23:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 21:38:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 21:53:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 22:08:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 22:23:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 22:38:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 22:53:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 23:08:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 23:23:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 23:38:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-29 23:53:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 00:08:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 00:23:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 00:38:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 00:53:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 01:08:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 01:23:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 01:38:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 01:53:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 02:08:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 02:23:38] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-05-30 02:28:35] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-05-30 02:28:38] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-05-30 02:28:39] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-05-30 02:28:39] [AppID 244850] Unloaded installed workshop items
+[2023-05-30 02:28:39] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-05-30 02:28:39] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-05-30 02:28:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 02:43:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 02:58:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 03:13:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 03:28:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 03:43:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 03:58:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 04:13:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 04:28:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 04:43:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 04:58:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 05:13:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 05:28:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 05:43:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 05:58:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 06:13:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 06:28:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 06:43:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 06:59:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 07:14:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 07:29:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 07:44:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 07:59:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 08:14:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 08:29:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 08:44:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 08:59:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 09:14:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 09:29:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 09:44:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 09:59:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 10:14:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 10:29:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 10:44:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 10:59:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 11:14:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 11:29:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 11:44:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 11:59:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 12:14:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 12:29:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 12:44:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 12:59:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 13:14:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 13:29:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 13:44:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 13:59:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 14:14:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 14:29:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 14:44:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 14:59:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 15:14:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 15:29:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 15:44:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 15:59:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 16:14:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 16:29:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 16:44:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 16:59:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 17:23:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 17:38:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 17:53:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 18:08:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 18:23:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 18:38:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 18:53:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 19:08:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 19:23:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 19:38:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 19:53:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 20:08:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 20:23:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 20:38:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 20:53:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 21:08:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 21:23:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 21:38:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 21:53:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 22:08:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 22:23:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 22:38:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 22:53:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 23:08:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 23:23:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 23:38:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-30 23:53:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 00:08:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 00:23:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 00:38:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 00:53:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 01:08:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 01:23:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 01:38:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 01:53:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 02:08:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 02:23:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 02:38:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 02:53:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 03:08:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 03:23:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 03:38:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 03:53:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 04:09:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 04:24:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 04:39:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 04:54:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 05:09:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 05:24:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 05:39:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 05:54:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 06:09:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 06:24:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 06:39:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 06:54:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 07:09:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 07:24:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 07:39:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 07:54:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 08:09:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 08:24:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 08:39:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 08:54:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 09:09:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 09:24:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 09:39:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 09:54:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 10:09:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 10:24:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 10:39:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 10:54:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 11:09:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 11:24:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 11:39:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 11:54:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 12:09:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 12:24:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 12:39:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 12:54:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 13:09:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 13:24:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 13:39:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 13:54:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 14:09:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 14:24:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 14:39:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 14:54:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 15:09:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 15:24:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 15:39:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 15:54:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 16:09:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 16:24:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 16:39:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 16:54:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 17:10:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 17:25:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 17:40:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 17:55:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 18:10:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 18:25:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 18:40:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 18:55:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 19:10:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 19:25:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 19:40:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 19:55:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 20:10:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 20:25:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 20:40:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 20:55:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 21:10:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 21:25:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 21:40:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 21:55:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 22:10:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 22:25:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 22:40:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 22:55:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 23:10:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 23:25:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 23:40:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-05-31 23:55:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 00:10:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 00:25:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 00:40:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 00:55:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 01:10:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 01:25:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 01:40:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 01:55:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 02:10:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 02:25:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 02:40:44] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-01 03:00:00] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-01 03:00:06] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-06-01 03:00:07] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-06-01 03:00:08] [AppID 244850] Unloaded installed workshop items
+[2023-06-01 03:00:08] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-01 03:00:08] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-06-01 03:00:08] [AppID 244850] Download item 2809500674 requested by app
+[2023-06-01 03:00:08] [AppID 244850] Starting Workshop download job (requested item 2809500674 )
+[2023-06-01 03:00:09] [AppID 244850] Detected workshop change : changed cached item 2809500674, new manifest 7548233201331776225
+[2023-06-01 03:00:09] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-01 03:00:11] [AppID 244850] Download item 2809500674 result : OK
+[2023-06-01 03:00:11] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-01 03:00:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 03:15:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 03:30:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 03:45:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 04:00:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 04:15:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 04:30:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 04:45:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 05:00:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 05:15:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 05:30:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 05:45:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 06:00:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 06:15:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 06:30:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 06:45:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 07:00:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 07:15:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 07:30:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 07:45:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 08:00:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 08:15:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 08:30:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 08:45:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 09:00:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 09:15:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 09:30:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 09:45:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 10:00:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 10:15:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 10:30:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 10:45:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 11:00:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 11:15:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 11:30:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 11:45:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 12:00:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 12:15:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 12:30:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 12:45:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 13:00:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 13:15:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 13:30:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 13:46:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 14:01:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 14:16:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 14:31:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 14:46:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 15:01:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 15:16:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 15:31:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 15:46:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 16:01:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 16:16:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 16:31:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 16:46:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 17:01:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 17:16:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 17:31:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 17:46:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 18:01:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 18:16:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 18:31:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 18:46:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 19:01:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 19:16:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 19:31:27] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-01 19:47:48] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-01 19:47:53] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-06-01 19:47:53] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-06-01 19:47:53] [AppID 244850] Unloaded installed workshop items
+[2023-06-01 19:47:53] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-01 19:47:53] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-06-01 19:47:54] [AppID 244850] Download item 2880317963 requested by app
+[2023-06-01 19:47:54] [AppID 244850] Starting Workshop download job (requested item 2880317963 )
+[2023-06-01 19:47:54] [AppID 244850] Detected workshop change : changed cached item 2880317963, new manifest 6017563206467542328
+[2023-06-01 19:47:54] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-01 19:47:55] [AppID 244850] Download item 2880317963 result : OK
+[2023-06-01 19:47:55] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-01 19:47:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 20:02:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 20:17:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 20:32:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 20:48:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 21:03:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 21:18:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 21:33:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 21:48:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 22:03:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 22:18:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 22:33:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 22:48:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 23:03:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 23:18:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 23:33:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-01 23:48:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 00:03:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 00:18:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 00:33:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 00:48:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 01:03:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 01:18:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 01:33:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 01:48:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 02:03:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 02:18:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 02:33:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 02:48:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 03:03:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 03:18:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 03:33:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 03:48:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 04:03:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 04:18:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 04:33:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 04:48:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 05:03:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 05:18:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 05:33:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 05:48:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 06:03:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 06:18:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 06:33:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 06:48:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 07:03:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 07:18:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 07:33:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 07:48:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 08:03:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 08:18:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 08:33:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 08:48:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 09:03:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 09:18:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 09:34:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 09:49:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 10:04:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 10:19:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 10:34:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 10:49:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 11:04:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 11:19:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 11:34:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 11:49:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 12:04:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 12:19:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 12:34:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 12:49:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 13:04:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 13:19:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 13:34:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 13:49:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 14:14:04] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-02 14:27:20] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-02 14:27:24] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-06-02 14:27:24] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-06-02 14:27:24] [AppID 244850] Unloaded installed workshop items
+[2023-06-02 14:27:24] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-02 14:27:24] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-06-02 14:27:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 14:42:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 14:57:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 15:12:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 15:27:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 15:42:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 15:57:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 16:12:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 16:27:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 16:42:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 16:57:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 17:12:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 17:27:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 17:42:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 17:57:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 18:12:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 18:27:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 18:42:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 18:57:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 19:12:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 19:27:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 19:42:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 19:57:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 20:12:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 20:27:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 20:42:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 20:57:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 21:12:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 21:27:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 21:42:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 21:57:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 22:13:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 22:28:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 22:43:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 22:58:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 23:13:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 23:28:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 23:43:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-02 23:58:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 00:13:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 00:28:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 00:43:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 00:58:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 01:13:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 01:28:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 01:43:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 01:58:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 02:13:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 02:28:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 02:43:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 02:58:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 03:13:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 03:28:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 03:43:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 03:58:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 04:13:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 04:28:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 04:43:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 04:58:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 05:13:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 05:28:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 05:43:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 05:58:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 06:13:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 06:28:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 06:43:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 06:58:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 07:13:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 07:28:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 07:43:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 07:58:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 08:13:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 08:28:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 08:43:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 08:58:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 09:13:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 09:28:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 09:43:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 09:58:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 10:13:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 10:28:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 10:43:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 10:58:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 11:13:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 11:28:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 11:43:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 11:59:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 12:14:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 12:29:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 12:44:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 12:59:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 13:14:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 13:29:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 13:44:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 13:59:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 14:14:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 14:29:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 14:44:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 14:59:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 15:14:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 15:29:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 15:44:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 15:59:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 16:14:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 16:29:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 16:44:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 16:59:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 17:14:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 17:29:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 17:44:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 17:59:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 18:14:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 18:29:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 18:44:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 18:59:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 19:14:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 19:29:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 19:44:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 19:59:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 20:14:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 20:29:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 20:44:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 20:59:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 21:14:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 21:29:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 21:44:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 21:59:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 22:14:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 22:29:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 22:44:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 22:59:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 23:14:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 23:29:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 23:44:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-03 23:59:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 00:14:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 00:29:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 00:44:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 01:00:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 01:15:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 01:30:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 01:45:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 02:00:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 02:15:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 02:30:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 02:45:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 03:00:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 03:15:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 03:30:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 03:45:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 04:00:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 04:15:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 04:30:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 04:45:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 05:00:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 05:15:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 05:30:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 05:45:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 06:00:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 06:15:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 06:30:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 06:45:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 07:00:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 07:15:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 07:30:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 07:45:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 08:00:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 08:15:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 08:30:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 08:45:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 09:00:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 09:15:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 09:30:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 09:45:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 10:00:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 10:15:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 10:30:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 10:45:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 11:00:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 11:15:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 11:30:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 11:45:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 12:00:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 12:15:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 12:30:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 12:45:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 13:00:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 13:15:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 13:30:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 13:45:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 14:00:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 14:15:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 14:31:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 14:46:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 15:01:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 15:16:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 15:31:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 15:46:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 16:01:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 16:16:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 16:31:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 16:46:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 17:01:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 17:16:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 17:31:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 17:46:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 18:01:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 18:16:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 18:31:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 18:46:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 19:01:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 19:16:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 19:31:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 19:46:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 20:01:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 20:16:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 20:31:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 20:46:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 21:01:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 21:16:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 21:31:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 21:46:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 22:01:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 22:16:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 22:31:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 22:46:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 23:01:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 23:16:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 23:31:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-04 23:46:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 00:01:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 00:16:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 00:31:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 00:46:45] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 01:01:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 01:16:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 01:31:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 01:46:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 02:01:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 02:16:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 02:31:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 02:46:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 03:01:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 03:16:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 03:31:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 03:46:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 04:02:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 04:17:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 04:32:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 04:47:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 05:02:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 05:17:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 05:32:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 05:47:07] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 06:02:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 06:17:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 06:32:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 06:47:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 07:02:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 07:17:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 07:32:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 07:47:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 08:02:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 08:17:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 08:32:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 08:47:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 09:02:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 09:17:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 09:32:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 09:47:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 10:02:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 10:17:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 10:32:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 10:47:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 11:02:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 11:17:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 11:32:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 11:47:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 12:02:35] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-05 18:55:27] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-05 18:55:31] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-06-05 18:55:32] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-06-05 18:55:32] [AppID 244850] Unloaded installed workshop items
+[2023-06-05 18:55:32] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-05 18:55:32] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-06-05 18:55:32] [AppID 244850] Download item 2596208372 requested by app
+[2023-06-05 18:55:32] [AppID 244850] Starting Workshop download job (requested item 2596208372 )
+[2023-06-05 18:55:32] [AppID 244850] Detected workshop change : changed cached item 2596208372, new manifest 60998838872000515
+[2023-06-05 18:55:32] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 18:55:34] [AppID 244850] Download item 2596208372 result : OK
+[2023-06-05 18:55:34] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 18:55:34] [AppID 244850] Download item 2053202808 requested by app
+[2023-06-05 18:55:34] [AppID 244850] Starting Workshop download job (requested item 2053202808 )
+[2023-06-05 18:55:34] [AppID 244850] Detected workshop change : changed cached item 2053202808, new manifest 8169725341486838236
+[2023-06-05 18:55:34] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 18:55:35] [AppID 244850] Download item 2053202808 result : OK
+[2023-06-05 18:55:35] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 18:55:35] [AppID 244850] Download item 1918681825 requested by app
+[2023-06-05 18:55:35] [AppID 244850] Starting Workshop download job (requested item 1918681825 )
+[2023-06-05 18:55:35] [AppID 244850] Detected workshop change : changed cached item 1918681825, new manifest 297118098094525944
+[2023-06-05 18:55:35] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 18:55:36] [AppID 244850] Download item 1918681825 result : OK
+[2023-06-05 18:55:36] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 18:55:36] [AppID 244850] Download item 1365616918 requested by app
+[2023-06-05 18:55:36] [AppID 244850] Starting Workshop download job (requested item 1365616918 )
+[2023-06-05 18:55:36] [AppID 244850] Detected workshop change : changed cached item 1365616918, new manifest 4749012284731839423
+[2023-06-05 18:55:36] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 18:55:37] [AppID 244850] Download item 1365616918 result : OK
+[2023-06-05 18:55:37] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 18:55:37] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-05 19:05:18] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-05 19:05:21] [AppID 244850] GetDetails request 0x1 - batch (0-109 of 109) => not in cache, requesting from Steam
+[2023-06-05 19:05:22] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2023-06-05 19:05:22] [AppID 244850] Unloaded installed workshop items
+[2023-06-05 19:05:22] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-05 19:05:22] [AppID 244850] GetDetails request 0x3 - batch (0-116 of 116) => not in cache, requesting from Steam
+[2023-06-05 19:05:23] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-05 19:19:11] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-05 19:19:14] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2023-06-05 19:19:14] [AppID 244850] GetDetails request 0x2 - batch (0-5 of 5) => not in cache, requesting from Steam
+[2023-06-05 19:19:14] [AppID 244850] Unloaded installed workshop items
+[2023-06-05 19:19:14] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-05 19:19:14] [AppID 244850] GetDetails request 0x3 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2023-06-05 19:19:14] [AppID 244850] Download item 1365616918 requested by app
+[2023-06-05 19:19:14] [AppID 244850] Starting Workshop download job (requested item 1365616918 )
+[2023-06-05 19:19:14] [AppID 244850] Detected workshop change : changed cached item 1365616918, new manifest 8544430802548163890
+[2023-06-05 19:19:14] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 19:19:16] [AppID 244850] Download item 1365616918 result : OK
+[2023-06-05 19:19:16] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 19:19:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 19:34:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 19:49:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 20:04:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 20:19:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 20:34:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 20:49:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 21:04:24] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-05 21:10:25] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-05 21:10:30] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2023-06-05 21:10:31] [AppID 244850] GetDetails request 0x2 - batch (0-5 of 5) => not in cache, requesting from Steam
+[2023-06-05 21:10:31] [AppID 244850] Unloaded installed workshop items
+[2023-06-05 21:10:31] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-05 21:10:31] [AppID 244850] GetDetails request 0x3 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2023-06-05 21:10:32] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-05 21:16:38] [AppID 244850] Loaded workshop items in "C:\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-05 21:16:42] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2023-06-05 21:16:42] [AppID 244850] GetDetails request 0x2 - batch (0-5 of 5) => not in cache, requesting from Steam
+[2023-06-05 21:16:43] [AppID 244850] Unloaded installed workshop items
+[2023-06-05 21:16:43] [AppID 244850] Loaded workshop items in "C:\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-05 21:16:43] [AppID 244850] GetDetails request 0x3 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2023-06-05 21:16:43] [AppID 244850] Download item 1365616918 requested by app
+[2023-06-05 21:16:43] [AppID 244850] Starting Workshop download job (requested item 1365616918 )
+[2023-06-05 21:16:43] [AppID 244850] Detected workshop change : changed cached item 1365616918, new manifest 1061412258350626799
+[2023-06-05 21:16:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-05 21:16:46] [AppID 244850] Download item 1365616918 result : OK
+[2023-06-05 21:16:46] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-05 21:16:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 21:31:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 21:46:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 22:01:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 22:16:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 22:31:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 22:46:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 23:01:54] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 23:16:55] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 23:31:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-05 23:46:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 00:01:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 00:17:00] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 00:32:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 00:47:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 01:02:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 01:17:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 01:32:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 01:47:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 02:02:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 02:17:09] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 02:32:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 02:47:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 03:02:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 03:17:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 03:32:14] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 03:47:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 04:02:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 04:17:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 04:32:19] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 04:47:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 05:02:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 05:17:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 05:32:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 05:47:26] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 06:02:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 06:17:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 06:32:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 06:47:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 07:02:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 07:17:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 07:32:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 07:47:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 08:02:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 08:17:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 08:32:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 08:47:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 09:02:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 09:17:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 09:32:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 09:47:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 10:02:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 10:17:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 10:32:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 10:47:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 11:02:50] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 11:17:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 11:32:52] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 11:47:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 12:02:55] [AppID 244850] Updating workshop item details failed with Access Denied

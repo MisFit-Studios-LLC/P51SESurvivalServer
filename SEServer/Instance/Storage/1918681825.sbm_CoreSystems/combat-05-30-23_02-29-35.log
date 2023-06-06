@@ -1,0 +1,837 @@
+05-29-23_18-09-51-907 - Logging Started
+05-29-23_18-10-14-297 - New Threat Detected:(NPC-ACS) 'Humboldt' Exploration Ship 02-AT1 (MyCubeGrid, 120243142012817472)
+ - by: (NPC-CD) Border Patrol Drone (H) (MyCubeGrid, 117600056490097490)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:2.89117 - isFocus:False
+
+05-29-23_18-10-14-341 - New Threat Detected:(NPC-AI) Research Base #42 (MyCubeGrid, 127380697273233969)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.7423757 - isFocus:False
+
+05-29-23_18-10-14-415 - New Threat Detected:(NPC-CD) Border Patrol Drone (H) (MyCubeGrid, 117600056490097490)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 02-AT1 (MyCubeGrid, 120243142012817472)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.3458807 - isFocus:False
+
+05-29-23_18-10-38-279 - New Threat Detected:(NPC-ACS) Hornet Drone Mk2 (MyCubeGrid, 88028924063969206)
+ - by: (NPC-CCF) Graf (A) (MyCubeGrid, 97896597356774398)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:0.06550765 - isFocus:False
+
+05-29-23_18-12-47-385 - New Threat Detected:Small Grid 3211 (MyCubeGrid, 141980515527803211)
+ - by: (NPC-ACS) Iapetus 01-AT1 (MyCubeGrid, 106414943984150229)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:2.170551 - isFocus:False
+
+05-29-23_18-14-30-376 - New Threat Detected:Small Grid 8103 (MyCubeGrid, 91705099943488103)
+ - by: (NPC-CCF) Graf (A) (MyCubeGrid, 97896597356774398)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:10 - isFocus:True
+
+05-29-23_18-18-04-230 - New Threat Detected:(NPC-CD) Mk.V Patrol Drone (MyCubeGrid, 99783846581296261)
+ - by: (NPC-ACS) Mulgara Scout 01-AT2 (MyCubeGrid, 78561297856390721)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.02183588 - isFocus:True
+
+05-29-23_18-22-32-582 - New Threat Detected:welde (MyCubeGrid, 97675093245312711)
+ - by: (NPC-ACS) Iapetus 01-AT1 (MyCubeGrid, 106414943984150229)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-28-56-385 - New Threat Detected: (MyCharacter, 91803875388272991)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-28-56-400 - New Threat Detected: (MyCharacter, 139647981843577666)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-28-56-435 - New Threat Detected: (MyCharacter, 106801902134805972)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-28-56-656 - New Threat Detected: (MyCharacter, 117734670826349830)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-31-14-224 - New Threat Detected:(NPC-CCF) Solar Carrier (A) (MyCubeGrid, 106546221198355336)
+ - by: (NPC-ACS) Spaghetti Cruiser 01-AT1 (MyCubeGrid, 106915053720580639)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.2089839 - isFocus:False
+
+05-29-23_18-44-18-126 - New Threat Detected: (MyCharacter, 105013492286857979)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-18-147 - New Threat Detected: (MyCharacter, 100349359241003965)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-19-694 - New Threat Detected: (MyCharacter, 100045245541246929)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-22-625 - New Threat Detected: (MyCharacter, 100550575512330642)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-22-692 - New Threat Detected: (MyCharacter, 125325339189305486)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-24-728 - New Threat Detected: (MyCharacter, 129937771495226120)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-26-210 - New Threat Detected: (MyCharacter, 90559590566363541)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-28-261 - New Threat Detected: (MyCharacter, 128104441980654603)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-29-381 - New Threat Detected: (MyCharacter, 136066462923388009)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-31-176 - New Threat Detected: (MyCharacter, 93293259214174016)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-33-181 - New Threat Detected: (MyCharacter, 138293733170172444)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-44-34-559 - New Threat Detected: (MyCharacter, 128187980280222055)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-48-27-589 - New Threat Detected:(NPC-RVR) Invader (Space) (MyCubeGrid, 94191295920481700)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.487655 - isFocus:False
+
+05-29-23_18-49-35-405 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 111560599299548826)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-49-52-407 - New Threat Detected: (MyCharacter, 119789949410123144)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-49-52-440 - New Threat Detected: (MyCharacter, 101687212494571500)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-49-53-805 - New Threat Detected: (MyCharacter, 85662902555119496)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-49-54-854 - New Threat Detected: (MyCharacter, 91379008533328968)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_18-52-55-783 - New Threat Detected:(NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 132506006002888336)Attacking Weapon:Large Missile Turret [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.8263813 - isFocus:False
+
+05-29-23_18-56-29-901 - New Threat Detected:(NPC-ORK) Flyboss Carrier (MyCubeGrid, 132506006002888336)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:1.497242 - isFocus:False
+
+05-29-23_19-06-25-793 - New Threat Detected: (MyCharacter, 77875389067187671)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-06-27-667 - New Threat Detected: (MyCharacter, 75788694319990247)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-06-28-829 - New Threat Detected: (MyCharacter, 99483257107301507)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-06-28-860 - New Threat Detected: (MyCharacter, 97150381045572530)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-06-32-656 - New Threat Detected: (MyCharacter, 104023468939709373)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-06-33-944 - New Threat Detected: (MyCharacter, 121161674729280815)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-10-38-040 - New Threat Detected: (MyCharacter, 99516290119578682)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-28-13-128 - New Threat Detected: (MyCharacter, 123782578553817266)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-28-14-134 - New Threat Detected: (MyCharacter, 80117764100621208)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-28-16-178 - New Threat Detected: (MyCharacter, 105002485248064761)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-28-18-214 - New Threat Detected: (MyCharacter, 104258151098094783)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-28-19-278 - New Threat Detected: (MyCharacter, 75054713227836081)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-41-10-195 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-AT1 (MyCubeGrid, 131961049144710256)
+ - by: (NPC-CMF) Sweeper (A) (MyCubeGrid, 85294296351981683)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:3.777638 - isFocus:True
+
+05-29-23_19-41-27-631 - New Threat Detected:(NPC-CMF) Sweeper (A) (MyCubeGrid, 85294296351981683)
+ - by: (NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.2924612 - isFocus:False
+
+05-29-23_19-41-27-760 - New Threat Detected:(NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)
+ - by: (NPC-CMF) Sweeper (A) (MyCubeGrid, 85294296351981683)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:3.419258 - isFocus:True
+
+05-29-23_19-42-00-277 - New Threat Detected:(NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)
+ - by: (NPC-CD) Skiff Drone (MyCubeGrid, 132465026708859771)Attacking Weapon:LeftRetractPDC [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:3.37316 - isFocus:True
+
+05-29-23_19-42-00-842 - New Threat Detected:(NPC-CD) Skiff Drone (MyCubeGrid, 132465026708859771)
+ - by: (NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.2964579 - isFocus:False
+
+05-29-23_19-42-09-744 - New Threat Detected:Small Grid 9682 (MyCubeGrid, 77658596092889682)
+ - by: (NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-13-593 - New Threat Detected: (MyCharacter, 139359091958047245)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-15-567 - New Threat Detected: (MyCharacter, 111397219703648571)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-17-563 - New Threat Detected: (MyCharacter, 92815838389631561)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-17-660 - New Threat Detected: (MyCharacter, 82237352853688696)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-18-717 - New Threat Detected: (MyCharacter, 122825518271224646)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-19-910 - New Threat Detected: (MyCharacter, 113926856741528376)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-43-21-778 - New Threat Detected: (MyCharacter, 129744965840646704)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-46-21-760 - New Threat Detected: (MyCharacter, 84676047717713794)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-46-23-780 - New Threat Detected: (MyCharacter, 97047806461532851)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-56-40-389 - New Threat Detected:Small Grid 4516 (MyCubeGrid, 115304757569927728)
+ - by: (NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.161045 - isFocus:False
+
+05-29-23_19-56-59-438 - New Threat Detected:Silverbane (MyCharacter, 86205954054121320)
+ - by: (NPC-ACS) The Stingray 01-AT2 (MyCubeGrid, 83264750745005946)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_19-59-20-881 - New Threat Detected:(NPC-AI) Observation Outpost #23 (MyCubeGrid, 74101778217049807)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.7277386 - isFocus:True
+
+05-29-23_20-02-40-215 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 123315848399652742)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-02-53-714 - New Threat Detected: (MyCharacter, 140449051410059314)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-03-01-150 - New Threat Detected: (MyCharacter, 138578448732607844)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-03-10-498 - New Threat Detected: (MyCharacter, 74805450375383500)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-03-12-663 - New Threat Detected: (MyCharacter, 87821347505002847)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-04-11-733 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 123315848399652742)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-11-51-427 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 100180055984076667)
+ - by: Small Grid 3211 (MyCubeGrid, 141980515527803211)Attacking Weapon:Small Gatling Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-14-27-919 - New Threat Detected:Small Grid 3211 (MyCubeGrid, 141980515527803211)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.7897967 - isFocus:True
+
+05-29-23_20-14-30-519 - New Threat Detected:(NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)
+ - by: Small Grid 3211 (MyCubeGrid, 141980515527803211)Attacking Weapon:Small Gatling Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:1.266149 - isFocus:False
+
+05-29-23_20-15-58-071 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 135125995599451831)
+ - by: Small Grid 3211 (MyCubeGrid, 141980515527803211)Attacking Weapon:Small Gatling Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-16-39-838 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-AT1 (MyCubeGrid, 131961049144710256)
+ - by: Small Grid 3211 (MyCubeGrid, 141980515527803211)Attacking Weapon:Small Gatling Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:1.272502 - isFocus:False
+
+05-29-23_20-17-07-175 - New Threat Detected:(NPC-ACS) Wasp Drone Mk2 (MyCubeGrid, 112691593320676675)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.7945913 - isFocus:False
+
+05-29-23_20-17-24-973 - New Threat Detected:(NPC-ACS) Wasp Drone Mk2 (MyCubeGrid, 112691593320676675)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.06641995 - isFocus:False
+
+05-29-23_20-17-26-953 - New Threat Detected:(NPC-ACS) Manta Transporter 01-AT1 (MyCubeGrid, 130398188448176361)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.5458039 - isFocus:True
+
+05-29-23_20-17-53-429 - New Threat Detected:(NPC-ACS) Wasp Drone (MyCubeGrid, 84419027674906049)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-29-57-518 - New Threat Detected: (MyCharacter, 79075451593130545)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_20-29-59-801 - New Threat Detected: (MyCharacter, 99296519860091196)
+ - by: (NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855979 - Faction:Orks(287706722855875944) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_20-32-27-118 - New Threat Detected: (MyCharacter, 130664961579813618)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-55-53-731 - New Threat Detected:(NPC-CMF) Sweeper (A) (MyCubeGrid, 132413001027991195)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_20-56-10-171 - New Threat Detected:(NPC-CMF) Sweeper (A) (MyCubeGrid, 132413001027991195)
+ - by: (NPC-AI) Observation Outpost #23 (MyCubeGrid, 74101778217049807)Attacking Weapon:LeftRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_20-56-16-730 - New Threat Detected:(NPC-CD) Viper Drone (H) (MyCubeGrid, 120766519350927256)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.7945908 - isFocus:False
+
+05-29-23_21-38-28-019 - New Threat Detected:(NPC-CCF) Carrier Wave (A) (MyCubeGrid, 104169215139534377)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855973 - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:15.5965 - isFocus:False
+
+05-29-23_21-54-38-003 - New Threat Detected: (MyCharacter, 125748822016086288)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_21-54-40-004 - New Threat Detected: (MyCharacter, 142991466074918101)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_21-54-42-221 - New Threat Detected: (MyCharacter, 91048380679345085)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:MCRN PDC [Weapon] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Pyro(144115188075856712) - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-03-32-194 - New Threat Detected: (MyCharacter, 75187914008116010)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-17-21-327 - New Threat Detected:Small Grid 2721 (MyCubeGrid, 138771199594112721)
+ - by: (NPC-ACS) JXS Chasqui 02-AT2 (MyCubeGrid, 120179826615939984)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:10 - isFocus:True
+
+05-29-23_22-18-04-190 - New Threat Detected: (MyCharacter, 125092315519378566)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-19-19-440 - New Threat Detected: (MyCharacter, 116724934905114160)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-22-50-075 - New Threat Detected: (MyCharacter, 103444245300139108)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:144115188075855932 - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855932 - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-49-50-368 - New Threat Detected: (MyCharacter, 132680474404713726)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_22-58-03-936 - New Threat Detected: (MyCharacter, 143742428551780802)
+ - by: (NPC-AI) Operations Outpost #17 (MyCubeGrid, 139511044617557523)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-03-15-889 - New Threat Detected: (MyCharacter, 133947257984655360)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-05-00-091 - New Threat Detected: (MyCharacter, 79949571208783653)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-05-06-044 - New Threat Detected: (MyCharacter, 107117632388760894)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-05-24-383 - New Threat Detected: (MyCharacter, 75313263213175874)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-21-36-757 - New Threat Detected: (MyCharacter, 142889215096835969)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-21-37-616 - New Threat Detected: (MyCharacter, 110671432209930899)
+ - by: Static Grid 8140 (MyCubeGrid, 82609086583008140)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-29-23_23-23-54-699 - New Threat Detected:(NPC-ORK) Flyboss Carrier (MyCubeGrid, 128616057590663261)
+ - by: (NPC-CCF) Spirit of Light (B) (MyCubeGrid, 76219159003016234)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-31-47-211 - New Threat Detected: (MyCharacter, 133297367351784413)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-31-48-341 - New Threat Detected: (MyCharacter, 135816748778534820)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-31-50-620 - New Threat Detected: (MyCharacter, 136769116196654555)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-31-53-620 - New Threat Detected: (MyCharacter, 74115114382447197)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-32-57-758 - New Threat Detected: (MyCharacter, 103151576024342630)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-32-59-486 - New Threat Detected: (MyCharacter, 125871683268250804)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-33-01-478 - New Threat Detected: (MyCharacter, 126112110552939403)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-33-02-758 - New Threat Detected: (MyCharacter, 131187235792268039)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-37-366 - New Threat Detected: (MyCharacter, 95320153937196290)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-40-771 - New Threat Detected: (MyCharacter, 118754042244690408)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-42-804 - New Threat Detected: (MyCharacter, 110258724491130077)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-46-017 - New Threat Detected: (MyCharacter, 114148464125761027)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-46-235 - New Threat Detected: (MyCharacter, 141217328119510545)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-47-120 - New Threat Detected: (MyCharacter, 86089096241141464)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-49-023 - New Threat Detected: (MyCharacter, 76951094577459663)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-51-838 - New Threat Detected: (MyCharacter, 74505933699999438)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-52-794 - New Threat Detected: (MyCharacter, 72561207335970912)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-54-043 - New Threat Detected: (MyCharacter, 74116340431514324)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-57-272 - New Threat Detected: (MyCharacter, 138802197045150982)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-57-285 - New Threat Detected: (MyCharacter, 93202845748809250)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Interior Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-40-59-084 - New Threat Detected: (MyCharacter, 76944140995357328)
+ - by: Steener Base (MyCubeGrid, 73343309258647233)Attacking Weapon:Large Gatling Turret [Weapon] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Steener(144115188075855932) - Faction:Manic Engineering Hacks(279640416068086632) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-52-55-409 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 127390670777148386)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-53-09-559 - New Threat Detected: (MyCharacter, 108378082699243160)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-54-45-293 - New Threat Detected:Static Grid 3247 (MyCubeGrid, 109115661215793247)
+ - by: (NPC-ACS) Cargo Box 01-AT2 (MyCubeGrid, 133936016763171136)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.6976439 - isFocus:True
+
+05-29-23_23-54-46-009 - New Threat Detected:(NPC-ACS) Cargo Box 01-AT2 (MyCubeGrid, 133936016763171136)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:1.433396 - isFocus:False
+
+05-29-23_23-58-26-984 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 83440625300371346)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-59-35-043 - New Threat Detected: (MyCharacter, 107122996150828558)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-59-35-860 - New Threat Detected: (MyCharacter, 105253496212272857)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-59-37-860 - New Threat Detected: (MyCharacter, 113380810690265691)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-29-23_23-59-41-966 - New Threat Detected: (MyCharacter, 137378413332052792)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:144115188075856099 - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-01-22-759 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 106293431237192774)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-01-44-544 - New Threat Detected: (MyCharacter, 92566885104847470)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-01-44-744 - New Threat Detected: (MyCharacter, 121311366840728370)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-01-46-624 - New Threat Detected: (MyCharacter, 77405021957701406)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-01-46-692 - New Threat Detected: (MyCharacter, 73311968042758199)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-05-32-898 - New Threat Detected:(NPC-ACS) Comet-401 Exec-jet-AT2 (MyCubeGrid, 134827467339243525)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:1.237293 - isFocus:False
+
+05-30-23_00-10-00-239 - New Threat Detected: (MyCharacter, 133693643584462670)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-10-01-372 - New Threat Detected: (MyCharacter, 122188515983988258)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-16-39-656 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 106293431237192774)
+ - by: xXHolicsXx (MyCharacter, 140096491428950587)Attacking Weapon:Basic Rocket [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-30-23_00-23-32-755 - New Threat Detected: (MyCharacter, 125904442423513405)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-23-34-170 - New Threat Detected: (MyCharacter, 83361012215204228)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-23-42-388 - New Threat Detected: (MyCharacter, 134740654799840715)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-35-38-103 - New Threat Detected: (MyCharacter, 85009361135272899)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-35-40-098 - New Threat Detected: (MyCharacter, 97651538337739389)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-35-42-231 - New Threat Detected: (MyCharacter, 87167544618976523)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-38-09-211 - New Threat Detected: (MyCharacter, 133558910796311466)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-38-12-445 - New Threat Detected: (MyCharacter, 133772504063115812)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-38-14-446 - New Threat Detected: (MyCharacter, 100726447845774893)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-38-44-079 - New Threat Detected: (MyCharacter, 122573441994347748)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-44-16-117 - New Threat Detected: (MyCharacter, 119548990710442817)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-44-56-210 - New Threat Detected: (MyCharacter, 127370510994261576)
+ - by: (NPC-AI) Observation Outpost #23 (MyCubeGrid, 74101778217049807)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-30-23_00-49-35-434 - New Threat Detected:Small Grid 7202 (MyCubeGrid, 107996215683227202)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-49-37-934 - New Threat Detected:Small Grid 7330 (MyCubeGrid, 108421601328647330)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-30-081 - New Threat Detected: (MyCharacter, 108045142492741009)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-32-083 - New Threat Detected: (MyCharacter, 111339844164055428)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-35-499 - New Threat Detected: (MyCharacter, 102427537273631445)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-36-504 - New Threat Detected: (MyCharacter, 79536601309629639)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-38-632 - New Threat Detected: (MyCharacter, 90214089445298563)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:TopRetractPDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_00-55-40-615 - New Threat Detected: (MyCharacter, 92481022339792088)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-00-38-182 - New Threat Detected: (MyCharacter, 118068948617356824)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-04-59-455 - New Threat Detected:(NPC-ACS) Spire 01 (MyCubeGrid, 142007957809154345)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.8087956 - isFocus:False
+
+05-30-23_01-11-31-007 - New Threat Detected: (MyCharacter, 142652278870079455)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-11-32-211 - New Threat Detected: (MyCharacter, 125038108334493874)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-11-707 - New Threat Detected: (MyCharacter, 122403433134140589)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-14-227 - New Threat Detected: (MyCharacter, 116443258128007008)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-17-378 - New Threat Detected: (MyCharacter, 106975101730141577)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-19-376 - New Threat Detected: (MyCharacter, 130186066510468482)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-20-140 - New Threat Detected: (MyCharacter, 119666460414540847)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-18-32-290 - New Threat Detected: (MyCharacter, 94722488226244854)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-23-17-259 - New Threat Detected:(NPC-CCF) Alpha (B) (MyCubeGrid, 128345167488548718)
+ - by: Static Grid 3247 (MyCubeGrid, 109115661215793247)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Neutrals:False - Friends:False - Unowned:True
+[Ai] Owner:144115188075856712 - Faction:i like pie(221006133931968295) - Relationship:Enemies - ThreatLevel:0.7423757 - isFocus:False
+
+05-30-23_01-29-22-656 - New Threat Detected: (MyCharacter, 136574773220582569)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-24-658 - New Threat Detected: (MyCharacter, 114944077972808177)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-25-689 - New Threat Detected: (MyCharacter, 105787474053327645)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-28-008 - New Threat Detected: (MyCharacter, 91483080295861276)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-30-993 - New Threat Detected: (MyCharacter, 140025716032180284)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-34-206 - New Threat Detected: (MyCharacter, 105538990931367365)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-46-597 - New Threat Detected: (MyCharacter, 96525120578810563)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-52-520 - New Threat Detected: (MyCharacter, 124315585050504061)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-29-54-842 - New Threat Detected: (MyCharacter, 143691104459306791)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-30-50-433 - New Threat Detected: (MyCharacter, 127268729108893989)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Binkabobo(144115188075856099) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-33-23-806 - New Threat Detected: (MyCharacter, 72926948858768551)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-33-24-968 - New Threat Detected: (MyCharacter, 128202811126884344)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Binkabobo(144115188075856099) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-36-09-740 - New Threat Detected: (MyCharacter, 106215519832997475)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Interior Turret [Weapon] Owner:Binkabobo(144115188075856099) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-35-385 - New Threat Detected: (MyCharacter, 85861805526375681)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-37-401 - New Threat Detected: (MyCharacter, 72672421057270104)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-38-746 - New Threat Detected: (MyCharacter, 91262745295999667)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-40-818 - New Threat Detected: (MyCharacter, 119941358336503474)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-43-076 - New Threat Detected: (MyCharacter, 72688445869225561)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-44-162 - New Threat Detected: (MyCharacter, 74144910775737545)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_01-37-44-742 - New Threat Detected:(NPC-ACS) 'Humboldt' Exploration Ship 01-AT2 (MyCubeGrid, 105700152118583332)
+ - by: (NPC-CD) Skiff Drone (MyCubeGrid, 139664697167805328)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:3.719074 - isFocus:True
+
+05-30-23_01-37-45-009 - New Threat Detected:(NPC-CD) Skiff Drone (MyCubeGrid, 139664697167805328)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 01-AT2 (MyCubeGrid, 105700152118583332)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.2688841 - isFocus:True
+
+05-30-23_01-43-40-574 - New Threat Detected:Small Grid 8835 (MyCubeGrid, 87609696355008835)
+ - by: (NPC-CD) Skiff Drone (MyCubeGrid, 139664697167805328)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:0.7306578 - isFocus:True
+
+05-30-23_01-47-13-408 - New Threat Detected:Small Grid 2721 (MyCubeGrid, 138771199594112721)
+ - by: (NPC-ACS) Peon (MyCubeGrid, 95587897354089171)Attacking Weapon:RightRetractPDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:1.062008 - isFocus:True
+
+05-30-23_01-47-16-509 - New Threat Detected:(NPC-ACS) Gouramis-AT1 (MyCubeGrid, 137288849899229541)
+ - by: (NPC-CCF) Alpha (B) (MyCubeGrid, 97967991540941361)Attacking Weapon:TopRetractPDC [Weapon] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855982 - Faction:The Cult(223904366722494763) - Relationship:Enemies - ThreatLevel:2 - isFocus:True
+
+05-30-23_02-23-31-124 - New Threat Detected: (MyCharacter, 132066519619041171)
+ - by: (NPC-AI) Observation Outpost #23 (MyCubeGrid, 74101778217049807)Attacking Weapon:MCRN PDC [Weapon] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855983 - Faction:Assert Inc(226583181264497071) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+05-30-23_02-25-21-670 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 119176126668946154)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-25-47-564 - New Threat Detected:Small Grid 2562 (MyCubeGrid, 138692054853562562)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-25-48-871 - New Threat Detected:Small Grid 9188 (MyCubeGrid, 129838907997849188)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-25-49-119 - New Threat Detected:Small Grid 891 (MyCubeGrid, 74047724880650891)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-26-37-087 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 72625400836681276)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-26-51-181 - New Threat Detected: (MyCharacter, 78009761521919345)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-26-51-668 - New Threat Detected: (MyCharacter, 122935855445060005)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-26-54-165 - New Threat Detected: (MyCharacter, 143379329812572385)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-26-55-397 - New Threat Detected: (MyCharacter, 138975357397130158)
+ - by: Developed Base - Grid 4718 (MyCubeGrid, 88227399907165439)Attacking Weapon:Interior Turret [Weapon] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:xXHolicsXx(144115188075856474) - Faction:Otaku Academy(218099087129700207) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-27-35-218 - New Threat Detected:(NPC-RRP) Raider Pod (MyCubeGrid, 122608667835110008)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-28-05-200 - New Threat Detected:Small Grid 5361 (MyCubeGrid, 106345098328405361)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:MCRN PDC [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+05-30-23_02-28-09-531 - New Threat Detected:Small Grid 7434 (MyCubeGrid, 85071215441427434)
+ - by: BOP Earth Base (MyCubeGrid, 99056042086003134)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Silverbane(144115188075855973) - Faction:Birds Of Prey(271115867468814982) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+

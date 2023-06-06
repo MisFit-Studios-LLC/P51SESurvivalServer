@@ -1,0 +1,19 @@
+060523-21:17:27:1568    FoundYourCrapCore: SuperEarlySetup    Waking up.  Is Server: True
+060523-21:17:43:4209    FoundYourCrapCore: EarlySetup    
+
+---------- IFoundYourScrap Settings ----------
+
+    BasicGrinderReturnRate: 100   
+    EnhancedGrinderReturnRate: 100   
+    ProficientGrinderReturnRate: 100   
+    EliteGrinderReturnRate: 100   
+    ScrapBodyBagDecayInMinutes: 5     
+    ReturnComponentsFromUnownedGrids: False 
+    ReturnRateForUnownedGrids: 10    
+
+------------- End Settings Report -------------
+
+
+
+060523-21:17:44:4026    FoundYourCrapCore: LateSetup    Fully online.
+060623-12:16:39:5730    FoundYourCrapCore: Unload    Retired.

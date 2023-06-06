@@ -1,0 +1,4 @@
+GridName, MainOwner, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+(NPC-CD) Border Patrol Drone (H), , 94732, 94732, 0, 0, 0
+(NPC-ACS) Mosquito Drone, , 109541, 109541, 0, 0, 0
+(NPC-CD) Mk.II Ranger Drone (H), , 49926, 20828, 0, 29098, 0

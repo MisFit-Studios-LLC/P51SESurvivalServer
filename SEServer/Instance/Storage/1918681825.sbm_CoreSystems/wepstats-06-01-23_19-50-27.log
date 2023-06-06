@@ -1,0 +1,38 @@
+Name, MaxDist, MinDist, DevShotAngle, AimTolerance, AimLeadingPrediction, RotateRate, ElevateRate, IdlePower, RateOfFire, ReloadTime, HeatPerShot, MaxHeat, HeatSinkRate, ShotsInBurst, DelayAfterBurst, AmmoName
+Basic Rocket, 0, 0, 3, 0, Off, 0, 0, 0, 60, 245, 1, 70000, 9000000, 0, 0,    Basic_Rocket   Rocket_Frag
+Advanced Rocket, 0, 0, 3, 0, Off, 0, 0, 0, 60, 365, 1, 70000, 9000000, 0, 0,    Advanced_Rocket_Launch   Advanced_Rocket   Rocket_Frag
+Elite Pistol, 0, 0, 1, 0, Off, 0, 0, 0, 200, 84, 1, 70000, 9000000, 1, 10,    Pistol
+Full Auto Pistol, 0, 0, 4, 0, Off, 0, 0, 0, 1000, 108, 1, 70000, 9000000, 0, 0,    Pistol
+Semi Auto Pistol, 0, 0, 2, 0, Off, 0, 0, 0, 200, 84, 1, 70000, 9000000, 1, 6,    Pistol   FlareBase   FlareAmmo
+Basic Rifle, 0, 0, 1, 0, Off, 0, 0, 0, 240, 84, 1, 70000, 9000000, 1, 10,    Shotgun   Buckshot_Ammo
+Basic Rifle, 0, 0, 0.5, 0, Off, 0, 0, 0, 120, 144, 1, 70000, 9000000, 1, 30,    Rifle
+Basic Rifle, 0, 0, 3, 0, Off, 0, 0, 0, 800, 216, 1, 70000, 9000000, 1, 0,    RifleTrace   Rifle_NoTrace
+Basic Rifle, 0, 0, 1.5, 0, Off, 0, 0, 0, 600, 144, 1, 70000, 9000000, 3, 20,    Rifle
+MCRN PDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0.25, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+MCRN PDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0.25, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+RightRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+RightRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+LeftRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+LeftRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+TopRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+TopRetractPDC, 0, 0, 0.3, 4, Accurate, 0.05, 0.05, 0, 2600, 240, 3, 6000, 130, 0, 0,    25mm NATO   NDeU_Ammo
+Large Gatling Turret, 0, 0, 0.3, 4, Accurate, 0.04, 0.04, 0.01, 700, 240, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Gun, 0, 0, 0.3, 4, Off, 0, 0, 0.001, 700, 240, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Gun, 0, 0, 0.3, 4, Off, 0, 0, 0.001, 700, 240, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Turret, 0, 0, 0.3, 4, Accurate, 0.04, 0.04, 0.005, 700, 360, 0, 100, 0, 0, 0,    25mm NATO
+Large Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 120, 240, 0, 100, 0, 19, 0,    200mm Missile
+Large Missile Turret, 0, 0, 0.5, 4, Accurate, 0.03, 0.03, 0.01, 90, 240, 0, 100, 0, 0, 0,    200mm Missile
+Small Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 4, 60,    200mm Missile
+Small Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 4, 60,    200mm Missile
+Reloadable Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 4, 0,    200mm Missile
+Small Missile Turret, 0, 0, 0.5, 4, Accurate, 0.03, 0.03, 0.005, 90, 360, 0, 100, 0, 0, 0,    200mm Missile
+Interior Turret, 0, 0, 0.1, 1, Accurate, 0.04, 0.04, 0, 600, 180, 0, 100, 0, 0, 0,    MR-50A   5.56x45mm
+Autocannon, 0, 0, 0.15, 2, Off, 0, 0, 0.001, 150, 24, 0, 100, 0, 0, 0,    Autocannon Shell
+Autocannon Turret, 0, 0, 0.25, 2, Accurate, 0.03, 0.03, 0.005, 150, 24, 0, 100, 0, 0, 0,    Autocannon Shell
+Large Assault Cannon Turret, 0, 0, 0.35, 2, Accurate, 0.01, 0.01, 0.01, 180, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Assault Cannon, 0, 0, 0.2, 2, Off, 0, 0, 0.001, 200, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Small Assault Cannon Turret, 0, 0, 0.5, 2, Accurate, 0.02, 0.02, 0.005, 200, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Artillery, 0, 0, 0.15, 2, Off, 0, 0, 0.0025, 80, 720, 0, 100, 0, 0, 0,    Artillery Shell
+Artillery Turret, 0, 0, 0.3, 2, Advanced, 0.005, 0.005, 0.02, 80, 720, 0, 100, 0, 0, 0,    Artillery Shell
+Large Railgun, 0, 0, 0, 2, Off, 0, 0, 0.001, 20, 3600, 0, 100, 0, 0, 0,    Large Railgun Slug
+Small Railgun, 0, 0, 0, 2, Off, 0, 0, 0.0001, 20, 1200, 0, 100, 0, 0, 0,    Small Railgun Slug

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfPlayerStore xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerStore>
+    <IdentityID>144115188075856474</IdentityID>
+    <unlockedBlocks>
+      <SerializableDefinitionId Type="MyObjectBuilder_Thrust" Subtype="DummySmallBlockSmallAtmosphericThrustAssert" />
+      <SerializableDefinitionId Type="MyObjectBuilder_Thrust" Subtype="DummySmallBlockSmallAtmosphericThrustAssertSciFi" />
+    </unlockedBlocks>
+  </PlayerStore>
+</ArrayOfPlayerStore>

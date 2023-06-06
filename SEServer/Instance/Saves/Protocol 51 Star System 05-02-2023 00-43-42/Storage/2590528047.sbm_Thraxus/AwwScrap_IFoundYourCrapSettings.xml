@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<UserSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BasicGrinderReturnRate>100</BasicGrinderReturnRate>
+  <EnhancedGrinderReturnRate>100</EnhancedGrinderReturnRate>
+  <ProficientGrinderReturnRate>100</ProficientGrinderReturnRate>
+  <EliteGrinderReturnRate>100</EliteGrinderReturnRate>
+  <ScrapBodyBagDecayInMinutes>5</ScrapBodyBagDecayInMinutes>
+  <ReturnComponentsFromUnownedGrids>false</ReturnComponentsFromUnownedGrids>
+  <ReturnRateForUnownedGrids>10</ReturnRateForUnownedGrids>
+</UserSettings>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MessageConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SenderSteamId>0</SenderSteamId>
+  <Side>ClientSide</Side>
+  <GPSTargetRange>5</GPSTargetRange>
+  <MaximumRange>300000</MaximumRange>
+  <PowerPerKilometer>1</PowerPerKilometer>
+  <ValidTypes>
+    <int>0</int>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+    <int>4</int>
+    <int>5</int>
+    <int>6</int>
+  </ValidTypes>
+  <BeamEnemy>true</BeamEnemy>
+  <PlanetRange>150000</PlanetRange>
+  <Subtype>TransporterSingleLarge</Subtype>
+</MessageConfig>

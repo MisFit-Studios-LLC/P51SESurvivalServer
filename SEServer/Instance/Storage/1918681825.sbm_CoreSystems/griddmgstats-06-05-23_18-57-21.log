@@ -1,0 +1,107 @@
+GridName, MainOwner, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+, , 2684, 2540, 0, 144, 0
+, , 1836, 660, 0, 1176, 0
+, , 660, 660, 0, 0, 0
+, , 90, 90, 0, 0, 0
+(NPC-ACS) Wasp Drone, , 14545, 0, 0, 14545, 0
+(NPC-ACS) Mayfly Drone, , 48975, 0, 0, 48975, 0
+(NPC-ACS) Hornet Drone, , 32846, 0, 0, 32846, 0
+(NPC-ACS) Wasp Drone, , 24000, 0, 0, 24000, 0
+(NPC-ACS) Mayfly Drone, , 6000, 0, 0, 6000, 0
+, , 1020, 0, 0, 1020, 0
+, , 1620, 0, 0, 1620, 0
+, , 1920, 0, 0, 1920, 0
+, , 2190, 30, 0, 2160, 0
+, , 105, 105, 0, 0, 0
+(NPC-ACS) Cargo Star Mk I E, , 105771, 40146, 0, 65625, 0
+(NPC-ACS) Wasp Drone, , 900, 0, 0, 900, 0
+(NPC-ACS) Wasp Drone Mk2, , 186274, 3651, 0, 182623, 0
+(NPC-ACS) Mosquito Drone, , 11008, 0, 0, 11008, 0
+(NPC-ACS) Wasp Drone Mk2, , 253046, 2679, 0, 250367, 0
+(NPC-ACS) Hornet Drone Mk2, , 166895, 11403, 0, 155492, 0
+(NPC-ACS) Wasp Drone, , 13760, 0, 0, 13760, 0
+(NPC-ACS) Wasp Drone, , 57792, 0, 0, 57792, 0
+(NPC-ACS) Hornet Drone, , 163569, 502, 17267, 145800, 0
+(NPC-CMF) Sweeper (A), , 298849, 100933, 197916, 0, 0
+, , 3060, 40, 0, 3020, 0
+, , 2881, 15, 0, 2866, 0
+, , 10319, 575, 0, 9744, 0
+, , 7820, 380, 0, 7440, 0
+(NPC-ACS) Wasp Drone, , 172120, 1520, 0, 170600, 0
+Small Grid 9168, , 159300, 0, 0, 159300, 0
+xXHolicsXx, xXHolicsXx, 6188, 84, 0, 6104, 0
+(NPC-RVR) Slayer, , 28700, 4500, 0, 24200, 0
+Small Grid 5603, , 600, 0, 0, 600, 0
+FNG, xXHolicsXx, 2576957, 548957, 0, 2028000, 0
+(NPC-ACS) Mosquito Drone Mk2, , 16593, 2205, 0, 14388, 0
+(NPC-ACS) Carryall 01, , 8928, 4128, 0, 4800, 0
+(NPC-ACS) Hornet Drone, , 21661, 26, 16131, 5504, 0
+(NPC-ACS) Mayfly Drone, , 222644, 33312, 139796, 49536, 0
+(NPC-ACS) 'Bison' Troop Transport 01-T, , 51841, 51841, 0, 0, 0
+(NPC-RVR) Crimson, , 1255613, 481813, 0, 773800, 0
+(NPC-CCF) Carrier Wave (B), , 442132, 3816, 4800, 433516, 0
+(NPC-ACS) Cubiculus One, , 69350, 150, 0, 69200, 0
+(NPC-ACS) 'Humboldt' Exploration Ship 02, , 282000, 0, 0, 282000, 0
+(NPC-ACS) Manta Transporter 01, , 110955, 2655, 0, 108300, 0
+(NPC-ACS) Bubbly Bertha 01-AT2, , 361700, 0, 0, 361700, 0
+(NPC-ACS) TAC-02 Mantis-AT1, , 366187, 675, 0, 365512, 0
+(NPC-CCF) Beta (A), , 3975, 1275, 0, 2700, 0
+(NPC-RVR) Invader (Space), , 12300, 0, 0, 12300, 0
+(NPC-RVR) Berserker, , 84460, 2100, 0, 82360, 0
+(NPC-CD) Border Patrol Drone (H), , 13905, 13905, 0, 0, 0
+(NPC-CD) Protector Drone (H), , 47298, 23298, 0, 24000, 0
+, , 1800, 0, 0, 1800, 0
+, , 1050, 0, 0, 1050, 0
+Large Grid 7294, , 42300, 0, 0, 42300, 0
+(NPC-CD) Mk.IV Patrol Drone, , 15450, 150, 0, 15300, 0
+(NPC-CD) Fire Support Drone, , 1822, 322, 0, 1500, 0
+(NPC-CD) Fire Support Drone, , 1863, 1263, 0, 600, 0
+Small Grid 5082, , 717755, 505955, 0, 211800, 0
+(NPC-RVR) Devourer, , 3717455, 13800, 0, 3703655, 0
+(NPC-RVR) Cockroach, , 703130, 19949, 16144, 667037, 0
+The Town Drunk, The Town Drunk, 330, 330, 0, 0, 0
+(NPC-ACS) Hornet Drone, , 42061, 202, 0, 41859, 0
+Small Grid 3211, Pyro, 3931545, 1355159, 0, 2576386, 0
+(NPC-ACS) Manta Transporter 01-AT2, , 60000, 0, 0, 60000, 0
+, , 23016, 0, 0, 23016, 0
+, , 52187, 891, 0, 51296, 0
+, , 1735, 1735, 0, 0, 0
+, , 817, 817, 0, 0, 0
+Small Grid 9338, xXHolicsXx, 24000, 0, 0, 24000, 0
+(NPC-CD) Skiff Drone, , 9116, 9116, 0, 0, 0
+, , 3417, 210, 0, 3207, 0
+Small Grid 5724, , 412942, 412942, 0, 0, 0
+(NPC-CCF) Angler (A), , 300, 300, 0, 0, 0
+(NPC-ACS) Mayfly Drone, , 45877, 22670, 0, 23207, 0
+(NPC-ACS) Mayfly Drone, , 50356, 150, 0, 50206, 0
+(NPC-ACS) Hornet Drone, , 3600, 0, 0, 3600, 0
+(NPC-ACS) Mosquito Drone Mk2, , 16500, 0, 0, 16500, 0
+(NPC-CD) Fire Support Drone, , 6300, 0, 0, 6300, 0
+, , 2676, 92, 0, 2584, 0
+(NPC-CD) Skiff Drone, , 33075, 455, 4800, 27820, 0
+(NPC-AI) Research Base #44, , 2700, 0, 0, 2700, 0
+, , 90, 90, 0, 0, 0
+(NPC-CD) Skiff Drone, , 379799, 379799, 0, 0, 0
+(NPC-CD) Trident Drone (H), , 21114, 21114, 0, 0, 0
+(NPC-CD) Orca Drone, , 8057, 8057, 0, 0, 0
+(NPC-ACS) Wasp Drone Mk2, , 52365, 15, 52350, 0, 0
+(NPC-CD) Trident Drone (H), , 41254, 4, 41250, 0, 0
+(NPC-CD) Viper Drone (H), , 69665, 15, 69650, 0, 0
+, , 1224, 1224, 0, 0, 0
+(NPC-RVR) Impaler, , 53544, 0, 0, 53544, 0
+(NPC-ACS) Callisto-T, , 14104, 304, 0, 13800, 0
+(NPC-CD) Trident Drone (H), , 17975, 17975, 0, 0, 0
+(NPC-CD) Skiff Drone, , 42457, 22007, 20450, 0, 0
+(NPC-ACS) Carryall 01, , 416550, 450, 0, 416100, 0
+(NPC-ORK) Heavy Fighta, , 338204, 0, 0, 338204, 0
+(NPC-CD) Trident Drone (H), , 27605, 6005, 9600, 12000, 0
+(NPC-CD) Orca Drone, , 3802, 2, 3800, 0, 0
+(NPC-CD) Viper Drone (H), , 11350, 11350, 0, 0, 0
+(NPC-CD) Viper Drone (H), , 2100, 2100, 0, 0, 0
+, , 1015, 1015, 0, 0, 0
+(NPC-CD) Skiff Drone, , 270, 270, 0, 0, 0
+(NPC-CD) Viper Drone (H), , 73413, 37113, 36300, 0, 0
+(NPC-CD) Trident Drone (H), , 18536, 18536, 0, 0, 0
+(NPC-CD) Trident Drone (H), , 12751, 10801, 1950, 0, 0
+(NPC-CD) Skiff Drone, , 175786, 175786, 0, 0, 0
+(NPC-CD) Orca Drone, , 3240, 540, 2700, 0, 0
