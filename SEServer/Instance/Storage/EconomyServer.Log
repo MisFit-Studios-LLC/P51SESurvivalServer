@@ -1,1300 +1,228 @@
-2023-06-05 21:17:46.309 - Economy Server Log Started
-2023-06-05 21:17:46.309 - Economy Server Version 20190712
-2023-06-05 21:17:46.310 - RegisterMessageHandler
-2023-06-05 21:17:46.310 - LoadBankContent
-2023-06-05 21:17:46.321 - Loading existing EconConfigStruct.
-2023-06-05 21:17:46.321 - Validating and Updating Config.
-2023-06-05 21:17:46.359 - Loading existing EconDataStruct.
-2023-06-05 21:17:46.360 - Checking Default Market Data.
-2023-06-05 21:17:46.363 - Validating and Updating Data.
-2023-06-05 21:17:46.364 - Banker Account Exists.
-2023-06-05 21:17:46.370 - Loading existing ReactivePricingStruct.
-2023-06-05 21:17:46.392 - Attaching Event 1 timer.
-2023-06-05 21:17:46.392 - Attaching Event 10 timer.
-2023-06-05 21:17:46.392 - Attaching Event 3600 timer.
-2023-06-05 21:21:38.649 - SaveData
-2023-06-05 21:21:38.649 - Save Data Started
-2023-06-05 21:21:38.656 - Save Data End
-2023-06-05 21:21:38.656 - Save Config Started
-2023-06-05 21:21:38.660 - Save Config End
-2023-06-05 21:21:38.660 - Save Reactive Pricing Started
-2023-06-05 21:21:38.661 - Save Reactive Pricing End
-2023-06-05 21:26:38.592 - SaveData
-2023-06-05 21:26:38.592 - Save Data Started
-2023-06-05 21:26:38.593 - Save Data End
-2023-06-05 21:26:38.593 - Save Config Started
-2023-06-05 21:26:38.593 - Save Config End
-2023-06-05 21:26:38.593 - Save Reactive Pricing Started
-2023-06-05 21:26:38.594 - Save Reactive Pricing End
-2023-06-05 21:28:15.288 - HandleMessage
-2023-06-05 21:28:15.289 - Start Message Deserialization
-2023-06-05 21:28:15.321 - End Message Deserialization
-2023-06-05 21:28:15.322 - Received - MessageConnectionRequest
-2023-06-05 21:28:15.323 - Player 'Silverbane' connected
-2023-06-05 21:28:15.324 - Player 'Silverbane' 76561198030953024 connected. Version 20190712
-2023-06-05 21:28:15.325 - Sending Connection Response.
-2023-06-05 21:28:15.325 - SendMessageToPlayer 76561198030953024 ServerSide MessageConnectionResponse.
-2023-06-05 21:28:15.327 - ClientConfig response: Opened:05/07/2023 23:08:00  Balance:100  Hud:False  Missions:0
-2023-06-05 21:28:15.327 - SendMessageToPlayer 76561198030953024 ServerSide MessageUpdateClient.
-2023-06-05 21:31:38.570 - SaveData
-2023-06-05 21:31:38.570 - Save Data Started
-2023-06-05 21:31:38.571 - Save Data End
-2023-06-05 21:31:38.571 - Save Config Started
-2023-06-05 21:31:38.572 - Save Config End
-2023-06-05 21:31:38.572 - Save Reactive Pricing Started
-2023-06-05 21:31:38.572 - Save Reactive Pricing End
-2023-06-05 21:36:38.628 - SaveData
-2023-06-05 21:36:38.628 - Save Data Started
-2023-06-05 21:36:38.629 - Save Data End
-2023-06-05 21:36:38.629 - Save Config Started
-2023-06-05 21:36:38.630 - Save Config End
-2023-06-05 21:36:38.630 - Save Reactive Pricing Started
-2023-06-05 21:36:38.630 - Save Reactive Pricing End
-2023-06-05 21:41:38.592 - SaveData
-2023-06-05 21:41:38.592 - Save Data Started
-2023-06-05 21:41:38.593 - Save Data End
-2023-06-05 21:41:38.593 - Save Config Started
-2023-06-05 21:41:38.593 - Save Config End
-2023-06-05 21:41:38.593 - Save Reactive Pricing Started
-2023-06-05 21:41:38.594 - Save Reactive Pricing End
-2023-06-05 21:46:38.566 - SaveData
-2023-06-05 21:46:38.566 - Save Data Started
-2023-06-05 21:46:38.566 - Save Data End
-2023-06-05 21:46:38.566 - Save Config Started
-2023-06-05 21:46:38.567 - Save Config End
-2023-06-05 21:46:38.567 - Save Reactive Pricing Started
-2023-06-05 21:46:38.567 - Save Reactive Pricing End
-2023-06-05 21:51:38.570 - SaveData
-2023-06-05 21:51:38.570 - Save Data Started
-2023-06-05 21:51:38.570 - Save Data End
-2023-06-05 21:51:38.570 - Save Config Started
-2023-06-05 21:51:38.571 - Save Config End
-2023-06-05 21:51:38.571 - Save Reactive Pricing Started
-2023-06-05 21:51:38.571 - Save Reactive Pricing End
-2023-06-05 21:56:38.587 - SaveData
-2023-06-05 21:56:38.587 - Save Data Started
-2023-06-05 21:56:38.587 - Save Data End
-2023-06-05 21:56:38.587 - Save Config Started
-2023-06-05 21:56:38.588 - Save Config End
-2023-06-05 21:56:38.588 - Save Reactive Pricing Started
-2023-06-05 21:56:38.602 - Save Reactive Pricing End
-2023-06-05 22:01:38.584 - SaveData
-2023-06-05 22:01:38.584 - Save Data Started
-2023-06-05 22:01:38.585 - Save Data End
-2023-06-05 22:01:38.585 - Save Config Started
-2023-06-05 22:01:38.586 - Save Config End
-2023-06-05 22:01:38.586 - Save Reactive Pricing Started
-2023-06-05 22:01:38.586 - Save Reactive Pricing End
-2023-06-05 22:06:38.596 - SaveData
-2023-06-05 22:06:38.596 - Save Data Started
-2023-06-05 22:06:38.597 - Save Data End
-2023-06-05 22:06:38.597 - Save Config Started
-2023-06-05 22:06:38.598 - Save Config End
-2023-06-05 22:06:38.598 - Save Reactive Pricing Started
-2023-06-05 22:06:38.598 - Save Reactive Pricing End
-2023-06-05 22:11:38.610 - SaveData
-2023-06-05 22:11:38.610 - Save Data Started
-2023-06-05 22:11:38.611 - Save Data End
-2023-06-05 22:11:38.611 - Save Config Started
-2023-06-05 22:11:38.612 - Save Config End
-2023-06-05 22:11:38.612 - Save Reactive Pricing Started
-2023-06-05 22:11:38.612 - Save Reactive Pricing End
-2023-06-05 22:16:38.603 - SaveData
-2023-06-05 22:16:38.603 - Save Data Started
-2023-06-05 22:16:38.604 - Save Data End
-2023-06-05 22:16:38.604 - Save Config Started
-2023-06-05 22:16:38.605 - Save Config End
-2023-06-05 22:16:38.605 - Save Reactive Pricing Started
-2023-06-05 22:16:38.605 - Save Reactive Pricing End
-2023-06-05 22:21:38.583 - SaveData
-2023-06-05 22:21:38.583 - Save Data Started
-2023-06-05 22:21:38.584 - Save Data End
-2023-06-05 22:21:38.584 - Save Config Started
-2023-06-05 22:21:38.584 - Save Config End
-2023-06-05 22:21:38.584 - Save Reactive Pricing Started
-2023-06-05 22:21:38.584 - Save Reactive Pricing End
-2023-06-05 22:26:38.620 - SaveData
-2023-06-05 22:26:38.620 - Save Data Started
-2023-06-05 22:26:38.621 - Save Data End
-2023-06-05 22:26:38.621 - Save Config Started
-2023-06-05 22:26:38.621 - Save Config End
-2023-06-05 22:26:38.621 - Save Reactive Pricing Started
-2023-06-05 22:26:38.621 - Save Reactive Pricing End
-2023-06-05 22:31:38.631 - SaveData
-2023-06-05 22:31:38.631 - Save Data Started
-2023-06-05 22:31:38.632 - Save Data End
-2023-06-05 22:31:38.632 - Save Config Started
-2023-06-05 22:31:38.633 - Save Config End
-2023-06-05 22:31:38.633 - Save Reactive Pricing Started
-2023-06-05 22:31:38.633 - Save Reactive Pricing End
-2023-06-05 22:36:38.605 - SaveData
-2023-06-05 22:36:38.605 - Save Data Started
-2023-06-05 22:36:38.606 - Save Data End
-2023-06-05 22:36:38.606 - Save Config Started
-2023-06-05 22:36:38.607 - Save Config End
-2023-06-05 22:36:38.607 - Save Reactive Pricing Started
-2023-06-05 22:36:38.607 - Save Reactive Pricing End
-2023-06-05 22:41:38.713 - SaveData
-2023-06-05 22:41:38.713 - Save Data Started
-2023-06-05 22:41:38.714 - Save Data End
-2023-06-05 22:41:38.714 - Save Config Started
-2023-06-05 22:41:38.715 - Save Config End
-2023-06-05 22:41:38.715 - Save Reactive Pricing Started
-2023-06-05 22:41:38.715 - Save Reactive Pricing End
-2023-06-05 22:46:38.664 - SaveData
-2023-06-05 22:46:38.664 - Save Data Started
-2023-06-05 22:46:38.664 - Save Data End
-2023-06-05 22:46:38.664 - Save Config Started
-2023-06-05 22:46:38.668 - Save Config End
-2023-06-05 22:46:38.668 - Save Reactive Pricing Started
-2023-06-05 22:46:38.668 - Save Reactive Pricing End
-2023-06-05 22:50:38.962 - HandleMessage
-2023-06-05 22:50:38.962 - Start Message Deserialization
-2023-06-05 22:50:38.962 - End Message Deserialization
-2023-06-05 22:50:38.962 - Received - MessageConnectionRequest
-2023-06-05 22:50:38.962 - Player 'xXHolicsXx' connected
-2023-06-05 22:50:38.962 - Player 'xXHolicsXx' 76561199253002098 connected. Version 20190712
-2023-06-05 22:50:38.962 - Sending Connection Response.
-2023-06-05 22:50:38.962 - SendMessageToPlayer 76561199253002098 ServerSide MessageConnectionResponse.
-2023-06-05 22:50:38.962 - ClientConfig response: Opened:05/09/2023 14:22:51  Balance:100  Hud:False  Missions:0
-2023-06-05 22:50:38.962 - SendMessageToPlayer 76561199253002098 ServerSide MessageUpdateClient.
-2023-06-05 22:51:38.691 - SaveData
-2023-06-05 22:51:38.691 - Save Data Started
-2023-06-05 22:51:38.693 - Save Data End
-2023-06-05 22:51:38.693 - Save Config Started
-2023-06-05 22:51:38.694 - Save Config End
-2023-06-05 22:51:38.694 - Save Reactive Pricing Started
-2023-06-05 22:51:38.695 - Save Reactive Pricing End
-2023-06-05 22:56:38.673 - SaveData
-2023-06-05 22:56:38.673 - Save Data Started
-2023-06-05 22:56:38.675 - Save Data End
-2023-06-05 22:56:38.675 - Save Config Started
-2023-06-05 22:56:38.677 - Save Config End
-2023-06-05 22:56:38.677 - Save Reactive Pricing Started
-2023-06-05 22:56:38.677 - Save Reactive Pricing End
-2023-06-05 23:01:38.653 - SaveData
-2023-06-05 23:01:38.653 - Save Data Started
-2023-06-05 23:01:38.654 - Save Data End
-2023-06-05 23:01:38.654 - Save Config Started
-2023-06-05 23:01:38.655 - Save Config End
-2023-06-05 23:01:38.655 - Save Reactive Pricing Started
-2023-06-05 23:01:38.655 - Save Reactive Pricing End
-2023-06-05 23:06:38.683 - SaveData
-2023-06-05 23:06:38.683 - Save Data Started
-2023-06-05 23:06:38.684 - Save Data End
-2023-06-05 23:06:38.684 - Save Config Started
-2023-06-05 23:06:38.685 - Save Config End
-2023-06-05 23:06:38.685 - Save Reactive Pricing Started
-2023-06-05 23:06:38.685 - Save Reactive Pricing End
-2023-06-05 23:11:38.693 - SaveData
-2023-06-05 23:11:38.693 - Save Data Started
-2023-06-05 23:11:38.694 - Save Data End
-2023-06-05 23:11:38.694 - Save Config Started
-2023-06-05 23:11:38.695 - Save Config End
-2023-06-05 23:11:38.695 - Save Reactive Pricing Started
-2023-06-05 23:11:38.695 - Save Reactive Pricing End
-2023-06-05 23:16:38.680 - SaveData
-2023-06-05 23:16:38.680 - Save Data Started
-2023-06-05 23:16:38.681 - Save Data End
-2023-06-05 23:16:38.681 - Save Config Started
-2023-06-05 23:16:38.682 - Save Config End
-2023-06-05 23:16:38.682 - Save Reactive Pricing Started
-2023-06-05 23:16:38.682 - Save Reactive Pricing End
-2023-06-05 23:21:38.695 - SaveData
-2023-06-05 23:21:38.695 - Save Data Started
-2023-06-05 23:21:38.696 - Save Data End
-2023-06-05 23:21:38.696 - Save Config Started
-2023-06-05 23:21:38.697 - Save Config End
-2023-06-05 23:21:38.697 - Save Reactive Pricing Started
-2023-06-05 23:21:38.697 - Save Reactive Pricing End
-2023-06-05 23:26:38.702 - SaveData
-2023-06-05 23:26:38.702 - Save Data Started
-2023-06-05 23:26:38.703 - Save Data End
-2023-06-05 23:26:38.703 - Save Config Started
-2023-06-05 23:26:38.707 - Save Config End
-2023-06-05 23:26:38.707 - Save Reactive Pricing Started
-2023-06-05 23:26:38.707 - Save Reactive Pricing End
-2023-06-05 23:31:38.710 - SaveData
-2023-06-05 23:31:38.710 - Save Data Started
-2023-06-05 23:31:38.711 - Save Data End
-2023-06-05 23:31:38.711 - Save Config Started
-2023-06-05 23:31:38.715 - Save Config End
-2023-06-05 23:31:38.715 - Save Reactive Pricing Started
-2023-06-05 23:31:38.715 - Save Reactive Pricing End
-2023-06-05 23:36:38.743 - SaveData
-2023-06-05 23:36:38.743 - Save Data Started
-2023-06-05 23:36:38.744 - Save Data End
-2023-06-05 23:36:38.744 - Save Config Started
-2023-06-05 23:36:38.744 - Save Config End
-2023-06-05 23:36:38.744 - Save Reactive Pricing Started
-2023-06-05 23:36:38.744 - Save Reactive Pricing End
-2023-06-05 23:41:38.746 - SaveData
-2023-06-05 23:41:38.746 - Save Data Started
-2023-06-05 23:41:38.747 - Save Data End
-2023-06-05 23:41:38.747 - Save Config Started
-2023-06-05 23:41:38.748 - Save Config End
-2023-06-05 23:41:38.748 - Save Reactive Pricing Started
-2023-06-05 23:41:38.748 - Save Reactive Pricing End
-2023-06-05 23:46:38.729 - SaveData
-2023-06-05 23:46:38.729 - Save Data Started
-2023-06-05 23:46:38.730 - Save Data End
-2023-06-05 23:46:38.730 - Save Config Started
-2023-06-05 23:46:38.731 - Save Config End
-2023-06-05 23:46:38.731 - Save Reactive Pricing Started
-2023-06-05 23:46:38.731 - Save Reactive Pricing End
-2023-06-05 23:51:38.757 - SaveData
-2023-06-05 23:51:38.757 - Save Data Started
-2023-06-05 23:51:38.759 - Save Data End
-2023-06-05 23:51:38.759 - Save Config Started
-2023-06-05 23:51:38.760 - Save Config End
-2023-06-05 23:51:38.760 - Save Reactive Pricing Started
-2023-06-05 23:51:38.761 - Save Reactive Pricing End
-2023-06-05 23:56:38.749 - SaveData
-2023-06-05 23:56:38.749 - Save Data Started
-2023-06-05 23:56:38.753 - Save Data End
-2023-06-05 23:56:38.753 - Save Config Started
-2023-06-05 23:56:38.753 - Save Config End
-2023-06-05 23:56:38.753 - Save Reactive Pricing Started
-2023-06-05 23:56:38.753 - Save Reactive Pricing End
-2023-06-06 00:01:38.741 - SaveData
-2023-06-06 00:01:38.741 - Save Data Started
-2023-06-06 00:01:38.742 - Save Data End
-2023-06-06 00:01:38.742 - Save Config Started
-2023-06-06 00:01:38.743 - Save Config End
-2023-06-06 00:01:38.743 - Save Reactive Pricing Started
-2023-06-06 00:01:38.743 - Save Reactive Pricing End
-2023-06-06 00:06:38.751 - SaveData
-2023-06-06 00:06:38.751 - Save Data Started
-2023-06-06 00:06:38.752 - Save Data End
-2023-06-06 00:06:38.752 - Save Config Started
-2023-06-06 00:06:38.752 - Save Config End
-2023-06-06 00:06:38.752 - Save Reactive Pricing Started
-2023-06-06 00:06:38.753 - Save Reactive Pricing End
-2023-06-06 00:11:38.823 - SaveData
-2023-06-06 00:11:38.823 - Save Data Started
-2023-06-06 00:11:38.825 - Save Data End
-2023-06-06 00:11:38.825 - Save Config Started
-2023-06-06 00:11:38.826 - Save Config End
-2023-06-06 00:11:38.826 - Save Reactive Pricing Started
-2023-06-06 00:11:38.827 - Save Reactive Pricing End
-2023-06-06 00:16:38.789 - SaveData
-2023-06-06 00:16:38.789 - Save Data Started
-2023-06-06 00:16:38.790 - Save Data End
-2023-06-06 00:16:38.790 - Save Config Started
-2023-06-06 00:16:38.791 - Save Config End
-2023-06-06 00:16:38.791 - Save Reactive Pricing Started
-2023-06-06 00:16:38.791 - Save Reactive Pricing End
-2023-06-06 00:21:38.800 - SaveData
-2023-06-06 00:21:38.800 - Save Data Started
-2023-06-06 00:21:38.801 - Save Data End
-2023-06-06 00:21:38.801 - Save Config Started
-2023-06-06 00:21:38.801 - Save Config End
-2023-06-06 00:21:38.801 - Save Reactive Pricing Started
-2023-06-06 00:21:38.802 - Save Reactive Pricing End
-2023-06-06 00:26:38.778 - SaveData
-2023-06-06 00:26:38.778 - Save Data Started
-2023-06-06 00:26:38.779 - Save Data End
-2023-06-06 00:26:38.779 - Save Config Started
-2023-06-06 00:26:38.780 - Save Config End
-2023-06-06 00:26:38.780 - Save Reactive Pricing Started
-2023-06-06 00:26:38.780 - Save Reactive Pricing End
-2023-06-06 00:31:38.783 - SaveData
-2023-06-06 00:31:38.783 - Save Data Started
-2023-06-06 00:31:38.783 - Save Data End
-2023-06-06 00:31:38.783 - Save Config Started
-2023-06-06 00:31:38.784 - Save Config End
-2023-06-06 00:31:38.784 - Save Reactive Pricing Started
-2023-06-06 00:31:38.784 - Save Reactive Pricing End
-2023-06-06 00:36:38.791 - SaveData
-2023-06-06 00:36:38.791 - Save Data Started
-2023-06-06 00:36:38.792 - Save Data End
-2023-06-06 00:36:38.792 - Save Config Started
-2023-06-06 00:36:38.795 - Save Config End
-2023-06-06 00:36:38.795 - Save Reactive Pricing Started
-2023-06-06 00:36:38.795 - Save Reactive Pricing End
-2023-06-06 00:41:38.783 - SaveData
-2023-06-06 00:41:38.783 - Save Data Started
-2023-06-06 00:41:38.783 - Save Data End
-2023-06-06 00:41:38.783 - Save Config Started
-2023-06-06 00:41:38.784 - Save Config End
-2023-06-06 00:41:38.784 - Save Reactive Pricing Started
-2023-06-06 00:41:38.784 - Save Reactive Pricing End
-2023-06-06 00:46:38.800 - SaveData
-2023-06-06 00:46:38.800 - Save Data Started
-2023-06-06 00:46:38.801 - Save Data End
-2023-06-06 00:46:38.801 - Save Config Started
-2023-06-06 00:46:38.802 - Save Config End
-2023-06-06 00:46:38.802 - Save Reactive Pricing Started
-2023-06-06 00:46:38.802 - Save Reactive Pricing End
-2023-06-06 00:51:38.823 - SaveData
-2023-06-06 00:51:38.823 - Save Data Started
-2023-06-06 00:51:38.824 - Save Data End
-2023-06-06 00:51:38.824 - Save Config Started
-2023-06-06 00:51:38.826 - Save Config End
-2023-06-06 00:51:38.826 - Save Reactive Pricing Started
-2023-06-06 00:51:38.826 - Save Reactive Pricing End
-2023-06-06 00:56:38.830 - SaveData
-2023-06-06 00:56:38.830 - Save Data Started
-2023-06-06 00:56:38.831 - Save Data End
-2023-06-06 00:56:38.831 - Save Config Started
-2023-06-06 00:56:38.831 - Save Config End
-2023-06-06 00:56:38.831 - Save Reactive Pricing Started
-2023-06-06 00:56:38.831 - Save Reactive Pricing End
-2023-06-06 01:01:38.794 - SaveData
-2023-06-06 01:01:38.794 - Save Data Started
-2023-06-06 01:01:38.795 - Save Data End
-2023-06-06 01:01:38.795 - Save Config Started
-2023-06-06 01:01:38.796 - Save Config End
-2023-06-06 01:01:38.796 - Save Reactive Pricing Started
-2023-06-06 01:01:38.796 - Save Reactive Pricing End
-2023-06-06 01:06:38.783 - SaveData
-2023-06-06 01:06:38.783 - Save Data Started
-2023-06-06 01:06:38.783 - Save Data End
-2023-06-06 01:06:38.783 - Save Config Started
-2023-06-06 01:06:38.795 - Save Config End
-2023-06-06 01:06:38.796 - Save Reactive Pricing Started
-2023-06-06 01:06:38.796 - Save Reactive Pricing End
-2023-06-06 01:11:38.788 - SaveData
-2023-06-06 01:11:38.788 - Save Data Started
-2023-06-06 01:11:38.788 - Save Data End
-2023-06-06 01:11:38.788 - Save Config Started
-2023-06-06 01:11:38.789 - Save Config End
-2023-06-06 01:11:38.789 - Save Reactive Pricing Started
-2023-06-06 01:11:38.789 - Save Reactive Pricing End
-2023-06-06 01:16:38.809 - SaveData
-2023-06-06 01:16:38.809 - Save Data Started
-2023-06-06 01:16:38.809 - Save Data End
-2023-06-06 01:16:38.809 - Save Config Started
-2023-06-06 01:16:38.810 - Save Config End
-2023-06-06 01:16:38.810 - Save Reactive Pricing Started
-2023-06-06 01:16:38.810 - Save Reactive Pricing End
-2023-06-06 01:21:38.807 - SaveData
-2023-06-06 01:21:38.807 - Save Data Started
-2023-06-06 01:21:38.808 - Save Data End
-2023-06-06 01:21:38.808 - Save Config Started
-2023-06-06 01:21:38.808 - Save Config End
-2023-06-06 01:21:38.808 - Save Reactive Pricing Started
-2023-06-06 01:21:38.809 - Save Reactive Pricing End
-2023-06-06 01:26:38.827 - SaveData
-2023-06-06 01:26:38.827 - Save Data Started
-2023-06-06 01:26:38.828 - Save Data End
-2023-06-06 01:26:38.828 - Save Config Started
-2023-06-06 01:26:38.828 - Save Config End
-2023-06-06 01:26:38.828 - Save Reactive Pricing Started
-2023-06-06 01:26:38.828 - Save Reactive Pricing End
-2023-06-06 01:31:38.798 - SaveData
-2023-06-06 01:31:38.798 - Save Data Started
-2023-06-06 01:31:38.799 - Save Data End
-2023-06-06 01:31:38.799 - Save Config Started
-2023-06-06 01:31:38.800 - Save Config End
-2023-06-06 01:31:38.800 - Save Reactive Pricing Started
-2023-06-06 01:31:38.800 - Save Reactive Pricing End
-2023-06-06 01:36:38.816 - SaveData
-2023-06-06 01:36:38.816 - Save Data Started
-2023-06-06 01:36:38.819 - Save Data End
-2023-06-06 01:36:38.819 - Save Config Started
-2023-06-06 01:36:38.819 - Save Config End
-2023-06-06 01:36:38.819 - Save Reactive Pricing Started
-2023-06-06 01:36:38.819 - Save Reactive Pricing End
-2023-06-06 01:41:38.824 - SaveData
-2023-06-06 01:41:38.824 - Save Data Started
-2023-06-06 01:41:38.825 - Save Data End
-2023-06-06 01:41:38.825 - Save Config Started
-2023-06-06 01:41:38.826 - Save Config End
-2023-06-06 01:41:38.826 - Save Reactive Pricing Started
-2023-06-06 01:41:38.826 - Save Reactive Pricing End
-2023-06-06 01:46:38.820 - SaveData
-2023-06-06 01:46:38.820 - Save Data Started
-2023-06-06 01:46:38.821 - Save Data End
-2023-06-06 01:46:38.821 - Save Config Started
-2023-06-06 01:46:38.822 - Save Config End
-2023-06-06 01:46:38.822 - Save Reactive Pricing Started
-2023-06-06 01:46:38.822 - Save Reactive Pricing End
-2023-06-06 01:51:38.818 - SaveData
-2023-06-06 01:51:38.818 - Save Data Started
-2023-06-06 01:51:38.818 - Save Data End
-2023-06-06 01:51:38.818 - Save Config Started
-2023-06-06 01:51:38.820 - Save Config End
-2023-06-06 01:51:38.820 - Save Reactive Pricing Started
-2023-06-06 01:51:38.820 - Save Reactive Pricing End
-2023-06-06 01:56:38.898 - SaveData
-2023-06-06 01:56:38.898 - Save Data Started
-2023-06-06 01:56:38.900 - Save Data End
-2023-06-06 01:56:38.900 - Save Config Started
-2023-06-06 01:56:38.902 - Save Config End
-2023-06-06 01:56:38.902 - Save Reactive Pricing Started
-2023-06-06 01:56:38.902 - Save Reactive Pricing End
-2023-06-06 02:01:38.850 - SaveData
-2023-06-06 02:01:38.850 - Save Data Started
-2023-06-06 02:01:38.851 - Save Data End
-2023-06-06 02:01:38.851 - Save Config Started
-2023-06-06 02:01:38.852 - Save Config End
-2023-06-06 02:01:38.852 - Save Reactive Pricing Started
-2023-06-06 02:01:38.852 - Save Reactive Pricing End
-2023-06-06 02:06:38.886 - SaveData
-2023-06-06 02:06:38.886 - Save Data Started
-2023-06-06 02:06:38.887 - Save Data End
-2023-06-06 02:06:38.887 - Save Config Started
-2023-06-06 02:06:38.887 - Save Config End
-2023-06-06 02:06:38.887 - Save Reactive Pricing Started
-2023-06-06 02:06:38.887 - Save Reactive Pricing End
-2023-06-06 02:11:38.866 - SaveData
-2023-06-06 02:11:38.866 - Save Data Started
-2023-06-06 02:11:38.867 - Save Data End
-2023-06-06 02:11:38.867 - Save Config Started
-2023-06-06 02:11:38.867 - Save Config End
-2023-06-06 02:11:38.867 - Save Reactive Pricing Started
-2023-06-06 02:11:38.868 - Save Reactive Pricing End
-2023-06-06 02:16:38.896 - SaveData
-2023-06-06 02:16:38.896 - Save Data Started
-2023-06-06 02:16:38.897 - Save Data End
-2023-06-06 02:16:38.897 - Save Config Started
-2023-06-06 02:16:38.897 - Save Config End
-2023-06-06 02:16:38.897 - Save Reactive Pricing Started
-2023-06-06 02:16:38.898 - Save Reactive Pricing End
-2023-06-06 02:21:38.881 - SaveData
-2023-06-06 02:21:38.881 - Save Data Started
-2023-06-06 02:21:38.882 - Save Data End
-2023-06-06 02:21:38.882 - Save Config Started
-2023-06-06 02:21:38.886 - Save Config End
-2023-06-06 02:21:38.886 - Save Reactive Pricing Started
-2023-06-06 02:21:38.886 - Save Reactive Pricing End
-2023-06-06 02:26:38.920 - SaveData
-2023-06-06 02:26:38.920 - Save Data Started
-2023-06-06 02:26:38.920 - Save Data End
-2023-06-06 02:26:38.920 - Save Config Started
-2023-06-06 02:26:38.921 - Save Config End
-2023-06-06 02:26:38.921 - Save Reactive Pricing Started
-2023-06-06 02:26:38.921 - Save Reactive Pricing End
-2023-06-06 02:31:38.878 - SaveData
-2023-06-06 02:31:38.878 - Save Data Started
-2023-06-06 02:31:38.879 - Save Data End
-2023-06-06 02:31:38.879 - Save Config Started
-2023-06-06 02:31:38.879 - Save Config End
-2023-06-06 02:31:38.879 - Save Reactive Pricing Started
-2023-06-06 02:31:38.880 - Save Reactive Pricing End
-2023-06-06 02:36:38.920 - SaveData
-2023-06-06 02:36:38.920 - Save Data Started
-2023-06-06 02:36:38.921 - Save Data End
-2023-06-06 02:36:38.921 - Save Config Started
-2023-06-06 02:36:38.922 - Save Config End
-2023-06-06 02:36:38.922 - Save Reactive Pricing Started
-2023-06-06 02:36:38.922 - Save Reactive Pricing End
-2023-06-06 02:41:38.884 - SaveData
-2023-06-06 02:41:38.884 - Save Data Started
-2023-06-06 02:41:38.885 - Save Data End
-2023-06-06 02:41:38.885 - Save Config Started
-2023-06-06 02:41:38.886 - Save Config End
-2023-06-06 02:41:38.886 - Save Reactive Pricing Started
-2023-06-06 02:41:38.886 - Save Reactive Pricing End
-2023-06-06 02:46:38.913 - SaveData
-2023-06-06 02:46:38.913 - Save Data Started
-2023-06-06 02:46:38.915 - Save Data End
-2023-06-06 02:46:38.915 - Save Config Started
-2023-06-06 02:46:38.915 - Save Config End
-2023-06-06 02:46:38.915 - Save Reactive Pricing Started
-2023-06-06 02:46:38.915 - Save Reactive Pricing End
-2023-06-06 02:51:38.897 - SaveData
-2023-06-06 02:51:38.897 - Save Data Started
-2023-06-06 02:51:38.898 - Save Data End
-2023-06-06 02:51:38.898 - Save Config Started
-2023-06-06 02:51:38.899 - Save Config End
-2023-06-06 02:51:38.899 - Save Reactive Pricing Started
-2023-06-06 02:51:38.899 - Save Reactive Pricing End
-2023-06-06 02:56:38.987 - SaveData
-2023-06-06 02:56:38.988 - Save Data Started
-2023-06-06 02:56:38.988 - Save Data End
-2023-06-06 02:56:38.988 - Save Config Started
-2023-06-06 02:56:38.989 - Save Config End
-2023-06-06 02:56:38.989 - Save Reactive Pricing Started
-2023-06-06 02:56:38.989 - Save Reactive Pricing End
-2023-06-06 03:01:38.905 - SaveData
-2023-06-06 03:01:38.905 - Save Data Started
-2023-06-06 03:01:38.906 - Save Data End
-2023-06-06 03:01:38.906 - Save Config Started
-2023-06-06 03:01:38.907 - Save Config End
-2023-06-06 03:01:38.907 - Save Reactive Pricing Started
-2023-06-06 03:01:38.907 - Save Reactive Pricing End
-2023-06-06 03:06:38.941 - SaveData
-2023-06-06 03:06:38.941 - Save Data Started
-2023-06-06 03:06:38.942 - Save Data End
-2023-06-06 03:06:38.942 - Save Config Started
-2023-06-06 03:06:38.942 - Save Config End
-2023-06-06 03:06:38.942 - Save Reactive Pricing Started
-2023-06-06 03:06:38.943 - Save Reactive Pricing End
-2023-06-06 03:11:38.984 - SaveData
-2023-06-06 03:11:38.984 - Save Data Started
-2023-06-06 03:11:38.985 - Save Data End
-2023-06-06 03:11:38.985 - Save Config Started
-2023-06-06 03:11:38.985 - Save Config End
-2023-06-06 03:11:38.985 - Save Reactive Pricing Started
-2023-06-06 03:11:38.985 - Save Reactive Pricing End
-2023-06-06 03:16:38.960 - SaveData
-2023-06-06 03:16:38.960 - Save Data Started
-2023-06-06 03:16:38.961 - Save Data End
-2023-06-06 03:16:38.961 - Save Config Started
-2023-06-06 03:16:38.962 - Save Config End
-2023-06-06 03:16:38.962 - Save Reactive Pricing Started
-2023-06-06 03:16:38.962 - Save Reactive Pricing End
-2023-06-06 03:21:38.975 - SaveData
-2023-06-06 03:21:38.975 - Save Data Started
-2023-06-06 03:21:38.975 - Save Data End
-2023-06-06 03:21:38.975 - Save Config Started
-2023-06-06 03:21:38.976 - Save Config End
-2023-06-06 03:21:38.976 - Save Reactive Pricing Started
-2023-06-06 03:21:38.976 - Save Reactive Pricing End
-2023-06-06 03:26:38.957 - SaveData
-2023-06-06 03:26:38.957 - Save Data Started
-2023-06-06 03:26:38.958 - Save Data End
-2023-06-06 03:26:38.958 - Save Config Started
-2023-06-06 03:26:38.959 - Save Config End
-2023-06-06 03:26:38.959 - Save Reactive Pricing Started
-2023-06-06 03:26:38.959 - Save Reactive Pricing End
-2023-06-06 03:31:39.011 - SaveData
-2023-06-06 03:31:39.011 - Save Data Started
-2023-06-06 03:31:39.011 - Save Data End
-2023-06-06 03:31:39.012 - Save Config Started
-2023-06-06 03:31:39.012 - Save Config End
-2023-06-06 03:31:39.012 - Save Reactive Pricing Started
-2023-06-06 03:31:39.013 - Save Reactive Pricing End
-2023-06-06 03:36:38.988 - SaveData
-2023-06-06 03:36:38.988 - Save Data Started
-2023-06-06 03:36:38.988 - Save Data End
-2023-06-06 03:36:38.988 - Save Config Started
-2023-06-06 03:36:38.989 - Save Config End
-2023-06-06 03:36:38.989 - Save Reactive Pricing Started
-2023-06-06 03:36:38.989 - Save Reactive Pricing End
-2023-06-06 03:41:38.996 - SaveData
-2023-06-06 03:41:38.996 - Save Data Started
-2023-06-06 03:41:38.997 - Save Data End
-2023-06-06 03:41:38.997 - Save Config Started
-2023-06-06 03:41:38.998 - Save Config End
-2023-06-06 03:41:38.998 - Save Reactive Pricing Started
-2023-06-06 03:41:38.998 - Save Reactive Pricing End
-2023-06-06 03:46:39.039 - SaveData
-2023-06-06 03:46:39.039 - Save Data Started
-2023-06-06 03:46:39.040 - Save Data End
-2023-06-06 03:46:39.040 - Save Config Started
-2023-06-06 03:46:39.042 - Save Config End
-2023-06-06 03:46:39.042 - Save Reactive Pricing Started
-2023-06-06 03:46:39.042 - Save Reactive Pricing End
-2023-06-06 03:51:38.988 - SaveData
-2023-06-06 03:51:38.988 - Save Data Started
-2023-06-06 03:51:38.989 - Save Data End
-2023-06-06 03:51:38.989 - Save Config Started
-2023-06-06 03:51:38.992 - Save Config End
-2023-06-06 03:51:38.992 - Save Reactive Pricing Started
-2023-06-06 03:51:38.992 - Save Reactive Pricing End
-2023-06-06 03:56:38.984 - SaveData
-2023-06-06 03:56:38.984 - Save Data Started
-2023-06-06 03:56:38.985 - Save Data End
-2023-06-06 03:56:38.985 - Save Config Started
-2023-06-06 03:56:38.986 - Save Config End
-2023-06-06 03:56:38.986 - Save Reactive Pricing Started
-2023-06-06 03:56:38.986 - Save Reactive Pricing End
-2023-06-06 04:01:38.995 - SaveData
-2023-06-06 04:01:38.995 - Save Data Started
-2023-06-06 04:01:38.996 - Save Data End
-2023-06-06 04:01:38.996 - Save Config Started
-2023-06-06 04:01:38.999 - Save Config End
-2023-06-06 04:01:38.999 - Save Reactive Pricing Started
-2023-06-06 04:01:38.999 - Save Reactive Pricing End
-2023-06-06 04:06:38.988 - SaveData
-2023-06-06 04:06:38.988 - Save Data Started
-2023-06-06 04:06:38.989 - Save Data End
-2023-06-06 04:06:38.989 - Save Config Started
-2023-06-06 04:06:38.990 - Save Config End
-2023-06-06 04:06:38.990 - Save Reactive Pricing Started
-2023-06-06 04:06:38.990 - Save Reactive Pricing End
-2023-06-06 04:11:39.001 - SaveData
-2023-06-06 04:11:39.001 - Save Data Started
-2023-06-06 04:11:39.002 - Save Data End
-2023-06-06 04:11:39.002 - Save Config Started
-2023-06-06 04:11:39.003 - Save Config End
-2023-06-06 04:11:39.003 - Save Reactive Pricing Started
-2023-06-06 04:11:39.004 - Save Reactive Pricing End
-2023-06-06 04:16:38.988 - SaveData
-2023-06-06 04:16:38.988 - Save Data Started
-2023-06-06 04:16:38.989 - Save Data End
-2023-06-06 04:16:38.989 - Save Config Started
-2023-06-06 04:16:38.990 - Save Config End
-2023-06-06 04:16:38.990 - Save Reactive Pricing Started
-2023-06-06 04:16:38.990 - Save Reactive Pricing End
-2023-06-06 04:21:38.981 - SaveData
-2023-06-06 04:21:38.981 - Save Data Started
-2023-06-06 04:21:38.982 - Save Data End
-2023-06-06 04:21:38.982 - Save Config Started
-2023-06-06 04:21:38.982 - Save Config End
-2023-06-06 04:21:38.982 - Save Reactive Pricing Started
-2023-06-06 04:21:38.983 - Save Reactive Pricing End
-2023-06-06 04:26:39.003 - SaveData
-2023-06-06 04:26:39.003 - Save Data Started
-2023-06-06 04:26:39.004 - Save Data End
-2023-06-06 04:26:39.004 - Save Config Started
-2023-06-06 04:26:39.005 - Save Config End
-2023-06-06 04:26:39.005 - Save Reactive Pricing Started
-2023-06-06 04:26:39.005 - Save Reactive Pricing End
-2023-06-06 04:31:38.993 - SaveData
-2023-06-06 04:31:38.993 - Save Data Started
-2023-06-06 04:31:38.994 - Save Data End
-2023-06-06 04:31:38.994 - Save Config Started
-2023-06-06 04:31:38.994 - Save Config End
-2023-06-06 04:31:38.994 - Save Reactive Pricing Started
-2023-06-06 04:31:38.995 - Save Reactive Pricing End
-2023-06-06 04:36:40.565 - SaveData
-2023-06-06 04:36:40.565 - Save Data Started
-2023-06-06 04:36:40.566 - Save Data End
-2023-06-06 04:36:40.566 - Save Config Started
-2023-06-06 04:36:40.566 - Save Config End
-2023-06-06 04:36:40.566 - Save Reactive Pricing Started
-2023-06-06 04:36:40.567 - Save Reactive Pricing End
-2023-06-06 04:41:40.569 - SaveData
-2023-06-06 04:41:40.569 - Save Data Started
-2023-06-06 04:41:40.570 - Save Data End
-2023-06-06 04:41:40.570 - Save Config Started
-2023-06-06 04:41:40.571 - Save Config End
-2023-06-06 04:41:40.571 - Save Reactive Pricing Started
-2023-06-06 04:41:40.571 - Save Reactive Pricing End
-2023-06-06 04:46:40.570 - SaveData
-2023-06-06 04:46:40.570 - Save Data Started
-2023-06-06 04:46:40.571 - Save Data End
-2023-06-06 04:46:40.571 - Save Config Started
-2023-06-06 04:46:40.571 - Save Config End
-2023-06-06 04:46:40.571 - Save Reactive Pricing Started
-2023-06-06 04:46:40.572 - Save Reactive Pricing End
-2023-06-06 04:51:40.569 - SaveData
-2023-06-06 04:51:40.569 - Save Data Started
-2023-06-06 04:51:40.570 - Save Data End
-2023-06-06 04:51:40.570 - Save Config Started
-2023-06-06 04:51:40.571 - Save Config End
-2023-06-06 04:51:40.571 - Save Reactive Pricing Started
-2023-06-06 04:51:40.571 - Save Reactive Pricing End
-2023-06-06 04:56:40.597 - SaveData
-2023-06-06 04:56:40.597 - Save Data Started
-2023-06-06 04:56:40.598 - Save Data End
-2023-06-06 04:56:40.598 - Save Config Started
-2023-06-06 04:56:40.600 - Save Config End
-2023-06-06 04:56:40.600 - Save Reactive Pricing Started
-2023-06-06 04:56:40.600 - Save Reactive Pricing End
-2023-06-06 05:01:40.598 - SaveData
-2023-06-06 05:01:40.598 - Save Data Started
-2023-06-06 05:01:40.599 - Save Data End
-2023-06-06 05:01:40.599 - Save Config Started
-2023-06-06 05:01:40.602 - Save Config End
-2023-06-06 05:01:40.602 - Save Reactive Pricing Started
-2023-06-06 05:01:40.602 - Save Reactive Pricing End
-2023-06-06 05:06:40.588 - SaveData
-2023-06-06 05:06:40.588 - Save Data Started
-2023-06-06 05:06:40.590 - Save Data End
-2023-06-06 05:06:40.590 - Save Config Started
-2023-06-06 05:06:40.592 - Save Config End
-2023-06-06 05:06:40.592 - Save Reactive Pricing Started
-2023-06-06 05:06:40.592 - Save Reactive Pricing End
-2023-06-06 05:11:40.609 - SaveData
-2023-06-06 05:11:40.609 - Save Data Started
-2023-06-06 05:11:40.610 - Save Data End
-2023-06-06 05:11:40.610 - Save Config Started
-2023-06-06 05:11:40.611 - Save Config End
-2023-06-06 05:11:40.611 - Save Reactive Pricing Started
-2023-06-06 05:11:40.611 - Save Reactive Pricing End
-2023-06-06 05:16:40.605 - SaveData
-2023-06-06 05:16:40.605 - Save Data Started
-2023-06-06 05:16:40.607 - Save Data End
-2023-06-06 05:16:40.607 - Save Config Started
-2023-06-06 05:16:40.608 - Save Config End
-2023-06-06 05:16:40.608 - Save Reactive Pricing Started
-2023-06-06 05:16:40.609 - Save Reactive Pricing End
-2023-06-06 05:21:40.586 - SaveData
-2023-06-06 05:21:40.586 - Save Data Started
-2023-06-06 05:21:40.587 - Save Data End
-2023-06-06 05:21:40.587 - Save Config Started
-2023-06-06 05:21:40.587 - Save Config End
-2023-06-06 05:21:40.587 - Save Reactive Pricing Started
-2023-06-06 05:21:40.588 - Save Reactive Pricing End
-2023-06-06 05:26:40.599 - SaveData
-2023-06-06 05:26:40.599 - Save Data Started
-2023-06-06 05:26:40.601 - Save Data End
-2023-06-06 05:26:40.601 - Save Config Started
-2023-06-06 05:26:40.602 - Save Config End
-2023-06-06 05:26:40.602 - Save Reactive Pricing Started
-2023-06-06 05:26:40.602 - Save Reactive Pricing End
-2023-06-06 05:31:40.583 - SaveData
-2023-06-06 05:31:40.583 - Save Data Started
-2023-06-06 05:31:40.584 - Save Data End
-2023-06-06 05:31:40.584 - Save Config Started
-2023-06-06 05:31:40.584 - Save Config End
-2023-06-06 05:31:40.584 - Save Reactive Pricing Started
-2023-06-06 05:31:40.585 - Save Reactive Pricing End
-2023-06-06 05:36:40.589 - SaveData
-2023-06-06 05:36:40.589 - Save Data Started
-2023-06-06 05:36:40.590 - Save Data End
-2023-06-06 05:36:40.590 - Save Config Started
-2023-06-06 05:36:40.590 - Save Config End
-2023-06-06 05:36:40.590 - Save Reactive Pricing Started
-2023-06-06 05:36:40.591 - Save Reactive Pricing End
-2023-06-06 05:41:40.594 - SaveData
-2023-06-06 05:41:40.594 - Save Data Started
-2023-06-06 05:41:40.594 - Save Data End
-2023-06-06 05:41:40.594 - Save Config Started
-2023-06-06 05:41:40.598 - Save Config End
-2023-06-06 05:41:40.598 - Save Reactive Pricing Started
-2023-06-06 05:41:40.599 - Save Reactive Pricing End
-2023-06-06 05:46:40.605 - SaveData
-2023-06-06 05:46:40.605 - Save Data Started
-2023-06-06 05:46:40.607 - Save Data End
-2023-06-06 05:46:40.607 - Save Config Started
-2023-06-06 05:46:40.608 - Save Config End
-2023-06-06 05:46:40.608 - Save Reactive Pricing Started
-2023-06-06 05:46:40.608 - Save Reactive Pricing End
-2023-06-06 05:51:40.592 - SaveData
-2023-06-06 05:51:40.593 - Save Data Started
-2023-06-06 05:51:40.594 - Save Data End
-2023-06-06 05:51:40.594 - Save Config Started
-2023-06-06 05:51:40.594 - Save Config End
-2023-06-06 05:51:40.594 - Save Reactive Pricing Started
-2023-06-06 05:51:40.595 - Save Reactive Pricing End
-2023-06-06 05:56:40.619 - SaveData
-2023-06-06 05:56:40.619 - Save Data Started
-2023-06-06 05:56:40.621 - Save Data End
-2023-06-06 05:56:40.621 - Save Config Started
-2023-06-06 05:56:40.623 - Save Config End
-2023-06-06 05:56:40.623 - Save Reactive Pricing Started
-2023-06-06 05:56:40.623 - Save Reactive Pricing End
-2023-06-06 06:01:40.593 - SaveData
-2023-06-06 06:01:40.593 - Save Data Started
-2023-06-06 06:01:40.594 - Save Data End
-2023-06-06 06:01:40.594 - Save Config Started
-2023-06-06 06:01:40.595 - Save Config End
-2023-06-06 06:01:40.595 - Save Reactive Pricing Started
-2023-06-06 06:01:40.595 - Save Reactive Pricing End
-2023-06-06 06:06:40.644 - SaveData
-2023-06-06 06:06:40.644 - Save Data Started
-2023-06-06 06:06:40.645 - Save Data End
-2023-06-06 06:06:40.645 - Save Config Started
-2023-06-06 06:06:40.646 - Save Config End
-2023-06-06 06:06:40.646 - Save Reactive Pricing Started
-2023-06-06 06:06:40.646 - Save Reactive Pricing End
-2023-06-06 06:11:40.653 - SaveData
-2023-06-06 06:11:40.653 - Save Data Started
-2023-06-06 06:11:40.654 - Save Data End
-2023-06-06 06:11:40.654 - Save Config Started
-2023-06-06 06:11:40.655 - Save Config End
-2023-06-06 06:11:40.655 - Save Reactive Pricing Started
-2023-06-06 06:11:40.655 - Save Reactive Pricing End
-2023-06-06 06:16:40.637 - SaveData
-2023-06-06 06:16:40.637 - Save Data Started
-2023-06-06 06:16:40.638 - Save Data End
-2023-06-06 06:16:40.638 - Save Config Started
-2023-06-06 06:16:40.639 - Save Config End
-2023-06-06 06:16:40.639 - Save Reactive Pricing Started
-2023-06-06 06:16:40.639 - Save Reactive Pricing End
-2023-06-06 06:21:40.657 - SaveData
-2023-06-06 06:21:40.657 - Save Data Started
-2023-06-06 06:21:40.657 - Save Data End
-2023-06-06 06:21:40.657 - Save Config Started
-2023-06-06 06:21:40.658 - Save Config End
-2023-06-06 06:21:40.658 - Save Reactive Pricing Started
-2023-06-06 06:21:40.659 - Save Reactive Pricing End
-2023-06-06 06:26:40.651 - SaveData
-2023-06-06 06:26:40.651 - Save Data Started
-2023-06-06 06:26:40.652 - Save Data End
-2023-06-06 06:26:40.652 - Save Config Started
-2023-06-06 06:26:40.653 - Save Config End
-2023-06-06 06:26:40.653 - Save Reactive Pricing Started
-2023-06-06 06:26:40.653 - Save Reactive Pricing End
-2023-06-06 06:31:40.636 - SaveData
-2023-06-06 06:31:40.636 - Save Data Started
-2023-06-06 06:31:40.637 - Save Data End
-2023-06-06 06:31:40.637 - Save Config Started
-2023-06-06 06:31:40.638 - Save Config End
-2023-06-06 06:31:40.638 - Save Reactive Pricing Started
-2023-06-06 06:31:40.638 - Save Reactive Pricing End
-2023-06-06 06:36:40.646 - SaveData
-2023-06-06 06:36:40.646 - Save Data Started
-2023-06-06 06:36:40.647 - Save Data End
-2023-06-06 06:36:40.647 - Save Config Started
-2023-06-06 06:36:40.647 - Save Config End
-2023-06-06 06:36:40.647 - Save Reactive Pricing Started
-2023-06-06 06:36:40.647 - Save Reactive Pricing End
-2023-06-06 06:41:40.637 - SaveData
-2023-06-06 06:41:40.637 - Save Data Started
-2023-06-06 06:41:40.638 - Save Data End
-2023-06-06 06:41:40.638 - Save Config Started
-2023-06-06 06:41:40.639 - Save Config End
-2023-06-06 06:41:40.639 - Save Reactive Pricing Started
-2023-06-06 06:41:40.639 - Save Reactive Pricing End
-2023-06-06 06:46:40.673 - SaveData
-2023-06-06 06:46:40.673 - Save Data Started
-2023-06-06 06:46:40.674 - Save Data End
-2023-06-06 06:46:40.674 - Save Config Started
-2023-06-06 06:46:40.675 - Save Config End
-2023-06-06 06:46:40.675 - Save Reactive Pricing Started
-2023-06-06 06:46:40.675 - Save Reactive Pricing End
-2023-06-06 06:51:40.661 - SaveData
-2023-06-06 06:51:40.661 - Save Data Started
-2023-06-06 06:51:40.663 - Save Data End
-2023-06-06 06:51:40.663 - Save Config Started
-2023-06-06 06:51:40.664 - Save Config End
-2023-06-06 06:51:40.664 - Save Reactive Pricing Started
-2023-06-06 06:51:40.664 - Save Reactive Pricing End
-2023-06-06 06:56:40.685 - SaveData
-2023-06-06 06:56:40.685 - Save Data Started
-2023-06-06 06:56:40.686 - Save Data End
-2023-06-06 06:56:40.686 - Save Config Started
-2023-06-06 06:56:40.686 - Save Config End
-2023-06-06 06:56:40.686 - Save Reactive Pricing Started
-2023-06-06 06:56:40.687 - Save Reactive Pricing End
-2023-06-06 07:01:40.725 - SaveData
-2023-06-06 07:01:40.725 - Save Data Started
-2023-06-06 07:01:40.727 - Save Data End
-2023-06-06 07:01:40.727 - Save Config Started
-2023-06-06 07:01:40.728 - Save Config End
-2023-06-06 07:01:40.728 - Save Reactive Pricing Started
-2023-06-06 07:01:40.729 - Save Reactive Pricing End
-2023-06-06 07:06:40.696 - SaveData
-2023-06-06 07:06:40.696 - Save Data Started
-2023-06-06 07:06:40.697 - Save Data End
-2023-06-06 07:06:40.697 - Save Config Started
-2023-06-06 07:06:40.697 - Save Config End
-2023-06-06 07:06:40.697 - Save Reactive Pricing Started
-2023-06-06 07:06:40.698 - Save Reactive Pricing End
-2023-06-06 07:11:40.686 - SaveData
-2023-06-06 07:11:40.686 - Save Data Started
-2023-06-06 07:11:40.688 - Save Data End
-2023-06-06 07:11:40.688 - Save Config Started
-2023-06-06 07:11:40.689 - Save Config End
-2023-06-06 07:11:40.689 - Save Reactive Pricing Started
-2023-06-06 07:11:40.689 - Save Reactive Pricing End
-2023-06-06 07:16:40.690 - SaveData
-2023-06-06 07:16:40.690 - Save Data Started
-2023-06-06 07:16:40.690 - Save Data End
-2023-06-06 07:16:40.690 - Save Config Started
-2023-06-06 07:16:40.691 - Save Config End
-2023-06-06 07:16:40.691 - Save Reactive Pricing Started
-2023-06-06 07:16:40.691 - Save Reactive Pricing End
-2023-06-06 07:21:40.719 - SaveData
-2023-06-06 07:21:40.719 - Save Data Started
-2023-06-06 07:21:40.720 - Save Data End
-2023-06-06 07:21:40.720 - Save Config Started
-2023-06-06 07:21:40.721 - Save Config End
-2023-06-06 07:21:40.721 - Save Reactive Pricing Started
-2023-06-06 07:21:40.721 - Save Reactive Pricing End
-2023-06-06 07:26:40.681 - SaveData
-2023-06-06 07:26:40.681 - Save Data Started
-2023-06-06 07:26:40.682 - Save Data End
-2023-06-06 07:26:40.682 - Save Config Started
-2023-06-06 07:26:40.683 - Save Config End
-2023-06-06 07:26:40.683 - Save Reactive Pricing Started
-2023-06-06 07:26:40.683 - Save Reactive Pricing End
-2023-06-06 07:31:40.698 - SaveData
-2023-06-06 07:31:40.698 - Save Data Started
-2023-06-06 07:31:40.699 - Save Data End
-2023-06-06 07:31:40.699 - Save Config Started
-2023-06-06 07:31:40.699 - Save Config End
-2023-06-06 07:31:40.699 - Save Reactive Pricing Started
-2023-06-06 07:31:40.699 - Save Reactive Pricing End
-2023-06-06 07:36:40.694 - SaveData
-2023-06-06 07:36:40.694 - Save Data Started
-2023-06-06 07:36:40.695 - Save Data End
-2023-06-06 07:36:40.695 - Save Config Started
-2023-06-06 07:36:40.695 - Save Config End
-2023-06-06 07:36:40.695 - Save Reactive Pricing Started
-2023-06-06 07:36:40.695 - Save Reactive Pricing End
-2023-06-06 07:41:40.717 - SaveData
-2023-06-06 07:41:40.717 - Save Data Started
-2023-06-06 07:41:40.718 - Save Data End
-2023-06-06 07:41:40.718 - Save Config Started
-2023-06-06 07:41:40.719 - Save Config End
-2023-06-06 07:41:40.719 - Save Reactive Pricing Started
-2023-06-06 07:41:40.719 - Save Reactive Pricing End
-2023-06-06 07:46:40.704 - SaveData
-2023-06-06 07:46:40.704 - Save Data Started
-2023-06-06 07:46:40.705 - Save Data End
-2023-06-06 07:46:40.705 - Save Config Started
-2023-06-06 07:46:40.706 - Save Config End
-2023-06-06 07:46:40.706 - Save Reactive Pricing Started
-2023-06-06 07:46:40.706 - Save Reactive Pricing End
-2023-06-06 07:51:40.689 - SaveData
-2023-06-06 07:51:40.689 - Save Data Started
-2023-06-06 07:51:40.690 - Save Data End
-2023-06-06 07:51:40.690 - Save Config Started
-2023-06-06 07:51:40.691 - Save Config End
-2023-06-06 07:51:40.691 - Save Reactive Pricing Started
-2023-06-06 07:51:40.691 - Save Reactive Pricing End
-2023-06-06 07:56:40.698 - SaveData
-2023-06-06 07:56:40.698 - Save Data Started
-2023-06-06 07:56:40.699 - Save Data End
-2023-06-06 07:56:40.699 - Save Config Started
-2023-06-06 07:56:40.700 - Save Config End
-2023-06-06 07:56:40.700 - Save Reactive Pricing Started
-2023-06-06 07:56:40.700 - Save Reactive Pricing End
-2023-06-06 08:01:40.704 - SaveData
-2023-06-06 08:01:40.704 - Save Data Started
-2023-06-06 08:01:40.705 - Save Data End
-2023-06-06 08:01:40.705 - Save Config Started
-2023-06-06 08:01:40.706 - Save Config End
-2023-06-06 08:01:40.706 - Save Reactive Pricing Started
-2023-06-06 08:01:40.706 - Save Reactive Pricing End
-2023-06-06 08:06:40.699 - SaveData
-2023-06-06 08:06:40.699 - Save Data Started
-2023-06-06 08:06:40.700 - Save Data End
-2023-06-06 08:06:40.700 - Save Config Started
-2023-06-06 08:06:40.701 - Save Config End
-2023-06-06 08:06:40.701 - Save Reactive Pricing Started
-2023-06-06 08:06:40.701 - Save Reactive Pricing End
-2023-06-06 08:11:40.689 - SaveData
-2023-06-06 08:11:40.689 - Save Data Started
-2023-06-06 08:11:40.690 - Save Data End
-2023-06-06 08:11:40.690 - Save Config Started
-2023-06-06 08:11:40.691 - Save Config End
-2023-06-06 08:11:40.691 - Save Reactive Pricing Started
-2023-06-06 08:11:40.691 - Save Reactive Pricing End
-2023-06-06 08:16:40.696 - SaveData
-2023-06-06 08:16:40.696 - Save Data Started
-2023-06-06 08:16:40.697 - Save Data End
-2023-06-06 08:16:40.697 - Save Config Started
-2023-06-06 08:16:40.698 - Save Config End
-2023-06-06 08:16:40.698 - Save Reactive Pricing Started
-2023-06-06 08:16:40.698 - Save Reactive Pricing End
-2023-06-06 08:21:40.746 - SaveData
-2023-06-06 08:21:40.746 - Save Data Started
-2023-06-06 08:21:40.747 - Save Data End
-2023-06-06 08:21:40.747 - Save Config Started
-2023-06-06 08:21:40.748 - Save Config End
-2023-06-06 08:21:40.748 - Save Reactive Pricing Started
-2023-06-06 08:21:40.749 - Save Reactive Pricing End
-2023-06-06 08:26:40.703 - SaveData
-2023-06-06 08:26:40.703 - Save Data Started
-2023-06-06 08:26:40.704 - Save Data End
-2023-06-06 08:26:40.704 - Save Config Started
-2023-06-06 08:26:40.705 - Save Config End
-2023-06-06 08:26:40.705 - Save Reactive Pricing Started
-2023-06-06 08:26:40.705 - Save Reactive Pricing End
-2023-06-06 08:31:40.705 - SaveData
-2023-06-06 08:31:40.705 - Save Data Started
-2023-06-06 08:31:40.705 - Save Data End
-2023-06-06 08:31:40.705 - Save Config Started
-2023-06-06 08:31:40.707 - Save Config End
-2023-06-06 08:31:40.707 - Save Reactive Pricing Started
-2023-06-06 08:31:40.707 - Save Reactive Pricing End
-2023-06-06 08:36:40.714 - SaveData
-2023-06-06 08:36:40.714 - Save Data Started
-2023-06-06 08:36:40.715 - Save Data End
-2023-06-06 08:36:40.715 - Save Config Started
-2023-06-06 08:36:40.715 - Save Config End
-2023-06-06 08:36:40.715 - Save Reactive Pricing Started
-2023-06-06 08:36:40.716 - Save Reactive Pricing End
-2023-06-06 08:41:40.720 - SaveData
-2023-06-06 08:41:40.721 - Save Data Started
-2023-06-06 08:41:40.724 - Save Data End
-2023-06-06 08:41:40.724 - Save Config Started
-2023-06-06 08:41:40.725 - Save Config End
-2023-06-06 08:41:40.725 - Save Reactive Pricing Started
-2023-06-06 08:41:40.725 - Save Reactive Pricing End
-2023-06-06 08:46:40.707 - SaveData
-2023-06-06 08:46:40.707 - Save Data Started
-2023-06-06 08:46:40.708 - Save Data End
-2023-06-06 08:46:40.708 - Save Config Started
-2023-06-06 08:46:40.709 - Save Config End
-2023-06-06 08:46:40.709 - Save Reactive Pricing Started
-2023-06-06 08:46:40.709 - Save Reactive Pricing End
-2023-06-06 08:51:40.698 - SaveData
-2023-06-06 08:51:40.698 - Save Data Started
-2023-06-06 08:51:40.699 - Save Data End
-2023-06-06 08:51:40.699 - Save Config Started
-2023-06-06 08:51:40.700 - Save Config End
-2023-06-06 08:51:40.700 - Save Reactive Pricing Started
-2023-06-06 08:51:40.700 - Save Reactive Pricing End
-2023-06-06 08:56:40.732 - SaveData
-2023-06-06 08:56:40.732 - Save Data Started
-2023-06-06 08:56:40.733 - Save Data End
-2023-06-06 08:56:40.733 - Save Config Started
-2023-06-06 08:56:40.733 - Save Config End
-2023-06-06 08:56:40.733 - Save Reactive Pricing Started
-2023-06-06 08:56:40.734 - Save Reactive Pricing End
-2023-06-06 09:01:40.759 - SaveData
-2023-06-06 09:01:40.759 - Save Data Started
-2023-06-06 09:01:40.760 - Save Data End
-2023-06-06 09:01:40.760 - Save Config Started
-2023-06-06 09:01:40.761 - Save Config End
-2023-06-06 09:01:40.761 - Save Reactive Pricing Started
-2023-06-06 09:01:40.761 - Save Reactive Pricing End
-2023-06-06 09:06:40.740 - SaveData
-2023-06-06 09:06:40.740 - Save Data Started
-2023-06-06 09:06:40.741 - Save Data End
-2023-06-06 09:06:40.741 - Save Config Started
-2023-06-06 09:06:40.741 - Save Config End
-2023-06-06 09:06:40.741 - Save Reactive Pricing Started
-2023-06-06 09:06:40.742 - Save Reactive Pricing End
-2023-06-06 09:11:40.756 - SaveData
-2023-06-06 09:11:40.756 - Save Data Started
-2023-06-06 09:11:40.757 - Save Data End
-2023-06-06 09:11:40.757 - Save Config Started
-2023-06-06 09:11:40.757 - Save Config End
-2023-06-06 09:11:40.758 - Save Reactive Pricing Started
-2023-06-06 09:11:40.758 - Save Reactive Pricing End
-2023-06-06 09:16:40.745 - SaveData
-2023-06-06 09:16:40.745 - Save Data Started
-2023-06-06 09:16:40.745 - Save Data End
-2023-06-06 09:16:40.745 - Save Config Started
-2023-06-06 09:16:40.746 - Save Config End
-2023-06-06 09:16:40.746 - Save Reactive Pricing Started
-2023-06-06 09:16:40.746 - Save Reactive Pricing End
-2023-06-06 09:21:40.728 - SaveData
-2023-06-06 09:21:40.728 - Save Data Started
-2023-06-06 09:21:40.729 - Save Data End
-2023-06-06 09:21:40.729 - Save Config Started
-2023-06-06 09:21:40.730 - Save Config End
-2023-06-06 09:21:40.730 - Save Reactive Pricing Started
-2023-06-06 09:21:40.730 - Save Reactive Pricing End
-2023-06-06 09:26:40.751 - SaveData
-2023-06-06 09:26:40.751 - Save Data Started
-2023-06-06 09:26:40.752 - Save Data End
-2023-06-06 09:26:40.752 - Save Config Started
-2023-06-06 09:26:40.753 - Save Config End
-2023-06-06 09:26:40.753 - Save Reactive Pricing Started
-2023-06-06 09:26:40.753 - Save Reactive Pricing End
-2023-06-06 09:31:40.754 - SaveData
-2023-06-06 09:31:40.754 - Save Data Started
-2023-06-06 09:31:40.756 - Save Data End
-2023-06-06 09:31:40.756 - Save Config Started
-2023-06-06 09:31:40.757 - Save Config End
-2023-06-06 09:31:40.757 - Save Reactive Pricing Started
-2023-06-06 09:31:40.758 - Save Reactive Pricing End
-2023-06-06 09:36:40.738 - SaveData
-2023-06-06 09:36:40.738 - Save Data Started
-2023-06-06 09:36:40.738 - Save Data End
-2023-06-06 09:36:40.738 - Save Config Started
-2023-06-06 09:36:40.739 - Save Config End
-2023-06-06 09:36:40.739 - Save Reactive Pricing Started
-2023-06-06 09:36:40.739 - Save Reactive Pricing End
-2023-06-06 09:41:40.759 - SaveData
-2023-06-06 09:41:40.759 - Save Data Started
-2023-06-06 09:41:40.761 - Save Data End
-2023-06-06 09:41:40.761 - Save Config Started
-2023-06-06 09:41:40.762 - Save Config End
-2023-06-06 09:41:40.762 - Save Reactive Pricing Started
-2023-06-06 09:41:40.763 - Save Reactive Pricing End
-2023-06-06 09:46:40.737 - SaveData
-2023-06-06 09:46:40.737 - Save Data Started
-2023-06-06 09:46:40.738 - Save Data End
-2023-06-06 09:46:40.738 - Save Config Started
-2023-06-06 09:46:40.741 - Save Config End
-2023-06-06 09:46:40.741 - Save Reactive Pricing Started
-2023-06-06 09:46:40.741 - Save Reactive Pricing End
-2023-06-06 09:51:40.732 - SaveData
-2023-06-06 09:51:40.732 - Save Data Started
-2023-06-06 09:51:40.732 - Save Data End
-2023-06-06 09:51:40.732 - Save Config Started
-2023-06-06 09:51:40.733 - Save Config End
-2023-06-06 09:51:40.733 - Save Reactive Pricing Started
-2023-06-06 09:51:40.733 - Save Reactive Pricing End
-2023-06-06 09:56:40.737 - SaveData
-2023-06-06 09:56:40.737 - Save Data Started
-2023-06-06 09:56:40.738 - Save Data End
-2023-06-06 09:56:40.738 - Save Config Started
-2023-06-06 09:56:40.739 - Save Config End
-2023-06-06 09:56:40.739 - Save Reactive Pricing Started
-2023-06-06 09:56:40.739 - Save Reactive Pricing End
-2023-06-06 10:01:40.777 - SaveData
-2023-06-06 10:01:40.777 - Save Data Started
-2023-06-06 10:01:40.777 - Save Data End
-2023-06-06 10:01:40.777 - Save Config Started
-2023-06-06 10:01:40.778 - Save Config End
-2023-06-06 10:01:40.778 - Save Reactive Pricing Started
-2023-06-06 10:01:40.778 - Save Reactive Pricing End
-2023-06-06 10:06:40.770 - SaveData
-2023-06-06 10:06:40.770 - Save Data Started
-2023-06-06 10:06:40.771 - Save Data End
-2023-06-06 10:06:40.771 - Save Config Started
-2023-06-06 10:06:40.772 - Save Config End
-2023-06-06 10:06:40.772 - Save Reactive Pricing Started
-2023-06-06 10:06:40.772 - Save Reactive Pricing End
-2023-06-06 10:11:40.763 - SaveData
-2023-06-06 10:11:40.763 - Save Data Started
-2023-06-06 10:11:40.764 - Save Data End
-2023-06-06 10:11:40.764 - Save Config Started
-2023-06-06 10:11:40.765 - Save Config End
-2023-06-06 10:11:40.765 - Save Reactive Pricing Started
-2023-06-06 10:11:40.765 - Save Reactive Pricing End
-2023-06-06 10:16:40.761 - SaveData
-2023-06-06 10:16:40.761 - Save Data Started
-2023-06-06 10:16:40.762 - Save Data End
-2023-06-06 10:16:40.762 - Save Config Started
-2023-06-06 10:16:40.765 - Save Config End
-2023-06-06 10:16:40.765 - Save Reactive Pricing Started
-2023-06-06 10:16:40.766 - Save Reactive Pricing End
-2023-06-06 10:21:40.778 - SaveData
-2023-06-06 10:21:40.778 - Save Data Started
-2023-06-06 10:21:40.779 - Save Data End
-2023-06-06 10:21:40.779 - Save Config Started
-2023-06-06 10:21:40.779 - Save Config End
-2023-06-06 10:21:40.779 - Save Reactive Pricing Started
-2023-06-06 10:21:40.779 - Save Reactive Pricing End
-2023-06-06 10:26:40.789 - SaveData
-2023-06-06 10:26:40.789 - Save Data Started
-2023-06-06 10:26:40.790 - Save Data End
-2023-06-06 10:26:40.790 - Save Config Started
-2023-06-06 10:26:40.790 - Save Config End
-2023-06-06 10:26:40.790 - Save Reactive Pricing Started
-2023-06-06 10:26:40.790 - Save Reactive Pricing End
-2023-06-06 10:31:40.768 - SaveData
-2023-06-06 10:31:40.768 - Save Data Started
-2023-06-06 10:31:40.769 - Save Data End
-2023-06-06 10:31:40.769 - Save Config Started
-2023-06-06 10:31:40.773 - Save Config End
-2023-06-06 10:31:40.773 - Save Reactive Pricing Started
-2023-06-06 10:31:40.773 - Save Reactive Pricing End
-2023-06-06 10:36:40.762 - SaveData
-2023-06-06 10:36:40.762 - Save Data Started
-2023-06-06 10:36:40.763 - Save Data End
-2023-06-06 10:36:40.763 - Save Config Started
-2023-06-06 10:36:40.764 - Save Config End
-2023-06-06 10:36:40.764 - Save Reactive Pricing Started
-2023-06-06 10:36:40.764 - Save Reactive Pricing End
-2023-06-06 10:41:40.804 - SaveData
-2023-06-06 10:41:40.804 - Save Data Started
-2023-06-06 10:41:40.805 - Save Data End
-2023-06-06 10:41:40.805 - Save Config Started
-2023-06-06 10:41:40.806 - Save Config End
-2023-06-06 10:41:40.806 - Save Reactive Pricing Started
-2023-06-06 10:41:40.806 - Save Reactive Pricing End
-2023-06-06 10:46:40.773 - SaveData
-2023-06-06 10:46:40.773 - Save Data Started
-2023-06-06 10:46:40.774 - Save Data End
-2023-06-06 10:46:40.774 - Save Config Started
-2023-06-06 10:46:40.774 - Save Config End
-2023-06-06 10:46:40.774 - Save Reactive Pricing Started
-2023-06-06 10:46:40.775 - Save Reactive Pricing End
-2023-06-06 10:51:40.820 - SaveData
-2023-06-06 10:51:40.820 - Save Data Started
-2023-06-06 10:51:40.821 - Save Data End
-2023-06-06 10:51:40.821 - Save Config Started
-2023-06-06 10:51:40.822 - Save Config End
-2023-06-06 10:51:40.822 - Save Reactive Pricing Started
-2023-06-06 10:51:40.822 - Save Reactive Pricing End
-2023-06-06 10:56:40.807 - SaveData
-2023-06-06 10:56:40.807 - Save Data Started
-2023-06-06 10:56:40.808 - Save Data End
-2023-06-06 10:56:40.808 - Save Config Started
-2023-06-06 10:56:40.808 - Save Config End
-2023-06-06 10:56:40.808 - Save Reactive Pricing Started
-2023-06-06 10:56:40.809 - Save Reactive Pricing End
-2023-06-06 11:01:40.833 - SaveData
-2023-06-06 11:01:40.833 - Save Data Started
-2023-06-06 11:01:40.834 - Save Data End
-2023-06-06 11:01:40.834 - Save Config Started
-2023-06-06 11:01:40.834 - Save Config End
-2023-06-06 11:01:40.834 - Save Reactive Pricing Started
-2023-06-06 11:01:40.835 - Save Reactive Pricing End
-2023-06-06 11:06:40.819 - SaveData
-2023-06-06 11:06:40.819 - Save Data Started
-2023-06-06 11:06:40.820 - Save Data End
-2023-06-06 11:06:40.820 - Save Config Started
-2023-06-06 11:06:40.821 - Save Config End
-2023-06-06 11:06:40.821 - Save Reactive Pricing Started
-2023-06-06 11:06:40.821 - Save Reactive Pricing End
-2023-06-06 11:11:40.805 - SaveData
-2023-06-06 11:11:40.805 - Save Data Started
-2023-06-06 11:11:40.806 - Save Data End
-2023-06-06 11:11:40.806 - Save Config Started
-2023-06-06 11:11:40.807 - Save Config End
-2023-06-06 11:11:40.807 - Save Reactive Pricing Started
-2023-06-06 11:11:40.807 - Save Reactive Pricing End
-2023-06-06 11:16:40.831 - SaveData
-2023-06-06 11:16:40.831 - Save Data Started
-2023-06-06 11:16:40.833 - Save Data End
-2023-06-06 11:16:40.833 - Save Config Started
-2023-06-06 11:16:40.834 - Save Config End
-2023-06-06 11:16:40.834 - Save Reactive Pricing Started
-2023-06-06 11:16:40.834 - Save Reactive Pricing End
-2023-06-06 11:21:40.830 - SaveData
-2023-06-06 11:21:40.831 - Save Data Started
-2023-06-06 11:21:40.831 - Save Data End
-2023-06-06 11:21:40.831 - Save Config Started
-2023-06-06 11:21:40.832 - Save Config End
-2023-06-06 11:21:40.832 - Save Reactive Pricing Started
-2023-06-06 11:21:40.832 - Save Reactive Pricing End
-2023-06-06 11:26:40.843 - SaveData
-2023-06-06 11:26:40.843 - Save Data Started
-2023-06-06 11:26:40.854 - Save Data End
-2023-06-06 11:26:40.854 - Save Config Started
-2023-06-06 11:26:40.854 - Save Config End
-2023-06-06 11:26:40.854 - Save Reactive Pricing Started
-2023-06-06 11:26:40.855 - Save Reactive Pricing End
-2023-06-06 11:31:40.827 - SaveData
-2023-06-06 11:31:40.827 - Save Data Started
-2023-06-06 11:31:40.828 - Save Data End
-2023-06-06 11:31:40.828 - Save Config Started
-2023-06-06 11:31:40.829 - Save Config End
-2023-06-06 11:31:40.829 - Save Reactive Pricing Started
-2023-06-06 11:31:40.829 - Save Reactive Pricing End
-2023-06-06 11:36:40.842 - SaveData
-2023-06-06 11:36:40.842 - Save Data Started
-2023-06-06 11:36:40.846 - Save Data End
-2023-06-06 11:36:40.846 - Save Config Started
-2023-06-06 11:36:40.846 - Save Config End
-2023-06-06 11:36:40.846 - Save Reactive Pricing Started
-2023-06-06 11:36:40.847 - Save Reactive Pricing End
-2023-06-06 11:41:40.843 - SaveData
-2023-06-06 11:41:40.843 - Save Data Started
-2023-06-06 11:41:40.846 - Save Data End
-2023-06-06 11:41:40.846 - Save Config Started
-2023-06-06 11:41:40.847 - Save Config End
-2023-06-06 11:41:40.847 - Save Reactive Pricing Started
-2023-06-06 11:41:40.847 - Save Reactive Pricing End
-2023-06-06 11:46:40.837 - SaveData
-2023-06-06 11:46:40.837 - Save Data Started
-2023-06-06 11:46:40.841 - Save Data End
-2023-06-06 11:46:40.841 - Save Config Started
-2023-06-06 11:46:40.841 - Save Config End
-2023-06-06 11:46:40.841 - Save Reactive Pricing Started
-2023-06-06 11:46:40.842 - Save Reactive Pricing End
-2023-06-06 11:51:40.859 - SaveData
-2023-06-06 11:51:40.859 - Save Data Started
-2023-06-06 11:51:40.860 - Save Data End
-2023-06-06 11:51:40.860 - Save Config Started
-2023-06-06 11:51:40.861 - Save Config End
-2023-06-06 11:51:40.861 - Save Reactive Pricing Started
-2023-06-06 11:51:40.861 - Save Reactive Pricing End
-2023-06-06 11:56:40.859 - SaveData
-2023-06-06 11:56:40.859 - Save Data Started
-2023-06-06 11:56:40.861 - Save Data End
-2023-06-06 11:56:40.861 - Save Config Started
-2023-06-06 11:56:40.862 - Save Config End
-2023-06-06 11:56:40.862 - Save Reactive Pricing Started
-2023-06-06 11:56:40.863 - Save Reactive Pricing End
-2023-06-06 12:01:40.859 - SaveData
-2023-06-06 12:01:40.859 - Save Data Started
-2023-06-06 12:01:40.860 - Save Data End
-2023-06-06 12:01:40.860 - Save Config Started
-2023-06-06 12:01:40.861 - Save Config End
-2023-06-06 12:01:40.861 - Save Reactive Pricing Started
-2023-06-06 12:01:40.861 - Save Reactive Pricing End
-2023-06-06 12:06:40.860 - SaveData
-2023-06-06 12:06:40.860 - Save Data Started
-2023-06-06 12:06:40.861 - Save Data End
-2023-06-06 12:06:40.861 - Save Config Started
-2023-06-06 12:06:40.862 - Save Config End
-2023-06-06 12:06:40.862 - Save Reactive Pricing Started
-2023-06-06 12:06:40.862 - Save Reactive Pricing End
-2023-06-06 12:11:40.867 - SaveData
-2023-06-06 12:11:40.867 - Save Data Started
-2023-06-06 12:11:40.868 - Save Data End
-2023-06-06 12:11:40.868 - Save Config Started
-2023-06-06 12:11:40.868 - Save Config End
-2023-06-06 12:11:40.868 - Save Reactive Pricing Started
-2023-06-06 12:11:40.869 - Save Reactive Pricing End
-2023-06-06 12:16:37.585 - SaveData
-2023-06-06 12:16:37.585 - Save Data Started
-2023-06-06 12:16:37.586 - Save Data End
-2023-06-06 12:16:37.586 - Save Config Started
-2023-06-06 12:16:37.586 - Save Config End
-2023-06-06 12:16:37.586 - Save Reactive Pricing Started
-2023-06-06 12:16:37.586 - Save Reactive Pricing End
-2023-06-06 12:16:39.446 - Shutting down
-2023-06-06 12:16:39.446 - UnregisterMessageHandler
-2023-06-06 12:16:39.446 - Stopping Event 1 timer.
-2023-06-06 12:16:39.446 - Stopping Event 10 timer.
-2023-06-06 12:16:39.446 - Stopping Event 3600 timer.
-2023-06-06 12:16:39.446 - Log Closed
+2023-06-06 19:51:25.193 - Economy Server Log Started
+2023-06-06 19:51:25.193 - Economy Server Version 20190712
+2023-06-06 19:51:25.193 - RegisterMessageHandler
+2023-06-06 19:51:25.193 - LoadBankContent
+2023-06-06 19:51:25.221 - Loading existing EconConfigStruct.
+2023-06-06 19:51:25.222 - Validating and Updating Config.
+2023-06-06 19:51:25.265 - Loading existing EconDataStruct.
+2023-06-06 19:51:25.266 - Checking Default Market Data.
+2023-06-06 19:51:25.269 - Validating and Updating Data.
+2023-06-06 19:51:25.271 - Banker Account Exists.
+2023-06-06 19:51:25.273 - Removing Dead Account 'Murda' with 100 Credits.
+2023-06-06 19:51:25.273 - Removing Dead Account 'Terrus' with 100 Credits.
+2023-06-06 19:51:25.282 - Loading existing ReactivePricingStruct.
+2023-06-06 19:51:25.300 - Attaching Event 1 timer.
+2023-06-06 19:51:25.300 - Attaching Event 10 timer.
+2023-06-06 19:51:25.300 - Attaching Event 3600 timer.
+2023-06-06 19:54:23.093 - SaveData
+2023-06-06 19:54:23.093 - Save Data Started
+2023-06-06 19:54:23.117 - Save Data End
+2023-06-06 19:54:23.117 - Save Config Started
+2023-06-06 19:54:23.132 - Save Config End
+2023-06-06 19:54:23.132 - Save Reactive Pricing Started
+2023-06-06 19:54:23.138 - Save Reactive Pricing End
+2023-06-06 19:59:22.608 - SaveData
+2023-06-06 19:59:22.608 - Save Data Started
+2023-06-06 19:59:22.613 - Save Data End
+2023-06-06 19:59:22.613 - Save Config Started
+2023-06-06 19:59:22.614 - Save Config End
+2023-06-06 19:59:22.614 - Save Reactive Pricing Started
+2023-06-06 19:59:22.615 - Save Reactive Pricing End
+2023-06-06 20:04:22.610 - SaveData
+2023-06-06 20:04:22.610 - Save Data Started
+2023-06-06 20:04:22.613 - Save Data End
+2023-06-06 20:04:22.613 - Save Config Started
+2023-06-06 20:04:22.615 - Save Config End
+2023-06-06 20:04:22.615 - Save Reactive Pricing Started
+2023-06-06 20:04:22.616 - Save Reactive Pricing End
+2023-06-06 20:09:22.651 - SaveData
+2023-06-06 20:09:22.651 - Save Data Started
+2023-06-06 20:09:22.654 - Save Data End
+2023-06-06 20:09:22.654 - Save Config Started
+2023-06-06 20:09:22.658 - Save Config End
+2023-06-06 20:09:22.658 - Save Reactive Pricing Started
+2023-06-06 20:09:22.659 - Save Reactive Pricing End
+2023-06-06 20:14:22.664 - SaveData
+2023-06-06 20:14:22.664 - Save Data Started
+2023-06-06 20:14:22.667 - Save Data End
+2023-06-06 20:14:22.667 - Save Config Started
+2023-06-06 20:14:22.670 - Save Config End
+2023-06-06 20:14:22.670 - Save Reactive Pricing Started
+2023-06-06 20:14:22.671 - Save Reactive Pricing End
+2023-06-06 20:19:22.677 - SaveData
+2023-06-06 20:19:22.677 - Save Data Started
+2023-06-06 20:19:22.683 - Save Data End
+2023-06-06 20:19:22.683 - Save Config Started
+2023-06-06 20:19:22.685 - Save Config End
+2023-06-06 20:19:22.685 - Save Reactive Pricing Started
+2023-06-06 20:19:22.686 - Save Reactive Pricing End
+2023-06-06 20:24:22.697 - SaveData
+2023-06-06 20:24:22.697 - Save Data Started
+2023-06-06 20:24:22.699 - Save Data End
+2023-06-06 20:24:22.700 - Save Config Started
+2023-06-06 20:24:22.703 - Save Config End
+2023-06-06 20:24:22.703 - Save Reactive Pricing Started
+2023-06-06 20:24:22.704 - Save Reactive Pricing End
+2023-06-06 20:29:22.680 - SaveData
+2023-06-06 20:29:22.680 - Save Data Started
+2023-06-06 20:29:22.683 - Save Data End
+2023-06-06 20:29:22.683 - Save Config Started
+2023-06-06 20:29:22.686 - Save Config End
+2023-06-06 20:29:22.686 - Save Reactive Pricing Started
+2023-06-06 20:29:22.686 - Save Reactive Pricing End
+2023-06-06 20:34:22.687 - SaveData
+2023-06-06 20:34:22.687 - Save Data Started
+2023-06-06 20:34:22.690 - Save Data End
+2023-06-06 20:34:22.690 - Save Config Started
+2023-06-06 20:34:22.707 - Save Config End
+2023-06-06 20:34:22.707 - Save Reactive Pricing Started
+2023-06-06 20:34:22.709 - Save Reactive Pricing End
+2023-06-06 20:39:22.697 - SaveData
+2023-06-06 20:39:22.697 - Save Data Started
+2023-06-06 20:39:22.699 - Save Data End
+2023-06-06 20:39:22.699 - Save Config Started
+2023-06-06 20:39:22.701 - Save Config End
+2023-06-06 20:39:22.701 - Save Reactive Pricing Started
+2023-06-06 20:39:22.702 - Save Reactive Pricing End
+2023-06-06 20:44:22.694 - SaveData
+2023-06-06 20:44:22.694 - Save Data Started
+2023-06-06 20:44:22.701 - Save Data End
+2023-06-06 20:44:22.701 - Save Config Started
+2023-06-06 20:44:22.711 - Save Config End
+2023-06-06 20:44:22.711 - Save Reactive Pricing Started
+2023-06-06 20:44:22.712 - Save Reactive Pricing End
+2023-06-06 20:49:22.707 - SaveData
+2023-06-06 20:49:22.707 - Save Data Started
+2023-06-06 20:49:22.709 - Save Data End
+2023-06-06 20:49:22.709 - Save Config Started
+2023-06-06 20:49:22.719 - Save Config End
+2023-06-06 20:49:22.719 - Save Reactive Pricing Started
+2023-06-06 20:49:22.720 - Save Reactive Pricing End
+2023-06-06 20:50:14.460 - HandleMessage
+2023-06-06 20:50:14.462 - Start Message Deserialization
+2023-06-06 20:50:14.562 - End Message Deserialization
+2023-06-06 20:50:14.564 - Received - MessageConnectionRequest
+2023-06-06 20:50:14.569 - Player 'Pyro' connected
+2023-06-06 20:50:14.573 - Player 'Pyro' 76561198143574867 connected. Version 20190712
+2023-06-06 20:50:14.577 - Sending Connection Response.
+2023-06-06 20:50:14.578 - SendMessageToPlayer 76561198143574867 ServerSide MessageConnectionResponse.
+2023-06-06 20:50:14.586 - ClientConfig response: Opened:05/09/2023 22:41:44  Balance:100  Hud:False  Missions:0
+2023-06-06 20:50:14.587 - SendMessageToPlayer 76561198143574867 ServerSide MessageUpdateClient.
+2023-06-06 20:54:22.766 - SaveData
+2023-06-06 20:54:22.766 - Save Data Started
+2023-06-06 20:54:22.768 - Save Data End
+2023-06-06 20:54:22.768 - Save Config Started
+2023-06-06 20:54:22.775 - Save Config End
+2023-06-06 20:54:22.775 - Save Reactive Pricing Started
+2023-06-06 20:54:22.776 - Save Reactive Pricing End
+2023-06-06 20:59:22.754 - SaveData
+2023-06-06 20:59:22.754 - Save Data Started
+2023-06-06 20:59:22.758 - Save Data End
+2023-06-06 20:59:22.758 - Save Config Started
+2023-06-06 20:59:22.763 - Save Config End
+2023-06-06 20:59:22.763 - Save Reactive Pricing Started
+2023-06-06 20:59:22.765 - Save Reactive Pricing End
+2023-06-06 21:04:22.967 - SaveData
+2023-06-06 21:04:22.967 - Save Data Started
+2023-06-06 21:04:22.970 - Save Data End
+2023-06-06 21:04:22.970 - Save Config Started
+2023-06-06 21:04:22.972 - Save Config End
+2023-06-06 21:04:22.972 - Save Reactive Pricing Started
+2023-06-06 21:04:22.973 - Save Reactive Pricing End
+2023-06-06 21:09:22.930 - SaveData
+2023-06-06 21:09:22.930 - Save Data Started
+2023-06-06 21:09:22.934 - Save Data End
+2023-06-06 21:09:22.934 - Save Config Started
+2023-06-06 21:09:22.938 - Save Config End
+2023-06-06 21:09:22.938 - Save Reactive Pricing Started
+2023-06-06 21:09:22.938 - Save Reactive Pricing End
+2023-06-06 21:14:22.790 - SaveData
+2023-06-06 21:14:22.790 - Save Data Started
+2023-06-06 21:14:22.794 - Save Data End
+2023-06-06 21:14:22.794 - Save Config Started
+2023-06-06 21:14:22.797 - Save Config End
+2023-06-06 21:14:22.797 - Save Reactive Pricing Started
+2023-06-06 21:14:22.797 - Save Reactive Pricing End
+2023-06-06 21:19:22.823 - SaveData
+2023-06-06 21:19:22.823 - Save Data Started
+2023-06-06 21:19:22.827 - Save Data End
+2023-06-06 21:19:22.827 - Save Config Started
+2023-06-06 21:19:22.828 - Save Config End
+2023-06-06 21:19:22.828 - Save Reactive Pricing Started
+2023-06-06 21:19:22.829 - Save Reactive Pricing End
+2023-06-06 21:24:22.784 - SaveData
+2023-06-06 21:24:22.784 - Save Data Started
+2023-06-06 21:24:22.787 - Save Data End
+2023-06-06 21:24:22.787 - Save Config Started
+2023-06-06 21:24:22.790 - Save Config End
+2023-06-06 21:24:22.790 - Save Reactive Pricing Started
+2023-06-06 21:24:22.791 - Save Reactive Pricing End
+2023-06-06 21:29:22.816 - SaveData
+2023-06-06 21:29:22.816 - Save Data Started
+2023-06-06 21:29:22.819 - Save Data End
+2023-06-06 21:29:22.819 - Save Config Started
+2023-06-06 21:29:22.822 - Save Config End
+2023-06-06 21:29:22.822 - Save Reactive Pricing Started
+2023-06-06 21:29:22.822 - Save Reactive Pricing End
+2023-06-06 21:34:22.903 - SaveData
+2023-06-06 21:34:22.903 - Save Data Started
+2023-06-06 21:34:22.907 - Save Data End
+2023-06-06 21:34:22.907 - Save Config Started
+2023-06-06 21:34:22.909 - Save Config End
+2023-06-06 21:34:22.909 - Save Reactive Pricing Started
+2023-06-06 21:34:22.910 - Save Reactive Pricing End
+2023-06-06 21:39:22.913 - SaveData
+2023-06-06 21:39:22.913 - Save Data Started
+2023-06-06 21:39:22.913 - Save Data End
+2023-06-06 21:39:22.913 - Save Config Started
+2023-06-06 21:39:22.913 - Save Config End
+2023-06-06 21:39:22.913 - Save Reactive Pricing Started
+2023-06-06 21:39:22.929 - Save Reactive Pricing End
+2023-06-06 21:44:22.738 - SaveData
+2023-06-06 21:44:22.738 - Save Data Started
+2023-06-06 21:44:22.739 - Save Data End
+2023-06-06 21:44:22.739 - Save Config Started
+2023-06-06 21:44:22.740 - Save Config End
+2023-06-06 21:44:22.740 - Save Reactive Pricing Started
+2023-06-06 21:44:22.741 - Save Reactive Pricing End
+2023-06-06 21:49:22.942 - SaveData
+2023-06-06 21:49:22.942 - Save Data Started
+2023-06-06 21:49:22.942 - Save Data End
+2023-06-06 21:49:22.942 - Save Config Started
+2023-06-06 21:49:22.942 - Save Config End
+2023-06-06 21:49:22.942 - Save Reactive Pricing Started
+2023-06-06 21:49:22.942 - Save Reactive Pricing End
+2023-06-06 21:54:22.961 - SaveData
+2023-06-06 21:54:22.961 - Save Data Started
+2023-06-06 21:54:22.961 - Save Data End
+2023-06-06 21:54:22.961 - Save Config Started
+2023-06-06 21:54:22.961 - Save Config End
+2023-06-06 21:54:22.961 - Save Reactive Pricing Started
+2023-06-06 21:54:22.976 - Save Reactive Pricing End
+2023-06-06 21:59:22.799 - SaveData
+2023-06-06 21:59:22.799 - Save Data Started
+2023-06-06 21:59:22.801 - Save Data End
+2023-06-06 21:59:22.801 - Save Config Started
+2023-06-06 21:59:22.808 - Save Config End
+2023-06-06 21:59:22.808 - Save Reactive Pricing Started
+2023-06-06 21:59:22.809 - Save Reactive Pricing End
+2023-06-06 22:04:22.770 - SaveData
+2023-06-06 22:04:22.770 - Save Data Started
+2023-06-06 22:04:22.771 - Save Data End
+2023-06-06 22:04:22.771 - Save Config Started
+2023-06-06 22:04:22.772 - Save Config End
+2023-06-06 22:04:22.772 - Save Reactive Pricing Started
+2023-06-06 22:04:22.772 - Save Reactive Pricing End
+2023-06-06 22:06:58.850 - SaveData
+2023-06-06 22:06:58.850 - Save Data Started
+2023-06-06 22:06:58.851 - Save Data End
+2023-06-06 22:06:58.851 - Save Config Started
+2023-06-06 22:06:58.852 - Save Config End
+2023-06-06 22:06:58.852 - Save Reactive Pricing Started
+2023-06-06 22:06:58.852 - Save Reactive Pricing End
+2023-06-06 22:07:01.326 - Shutting down
+2023-06-06 22:07:01.326 - UnregisterMessageHandler
+2023-06-06 22:07:01.326 - Stopping Event 1 timer.
+2023-06-06 22:07:01.327 - Stopping Event 10 timer.
+2023-06-06 22:07:01.327 - Stopping Event 3600 timer.
+2023-06-06 22:07:01.327 - Log Closed

@@ -1,5 +1,5 @@
-05Jun23_21:17:27:1592    AwwScrapCore: SuperEarlySetup    Waking up.  Is Server: True
-05Jun23_21:17:43:4249    AwwScrapCore: 
+06Jun23_19:51:05:2413    AwwScrapCore: SuperEarlySetup    Waking up.  Is Server: True
+06Jun23_19:51:21:9899    AwwScrapCore: 
 
   Game Settings__________________________________________________
 
@@ -19,7 +19,7 @@
     Spiders Enabled:False
     Wolves Enabled:False
     Sync Distance:10000
-    View Distance:15000
+    View Distance:10000
     Player Inventory Size Multiplier:3
     Grid Inventory Size Multiplier:1
     Total Pirate PCU:50000
@@ -35,7 +35,6 @@
     [000000002598692154][F] Victims of Clang
     [000000002752888260][F] Refill Station
     [000000001662953858][F] Sneaky Sounds - Quieter Tools
-    [000000001365616918][F] Defense Shields - v2.0(38)
     [000000001222032427][F] Stone Duster
     [000000000571920453][F] Aerodynamic Physics
     [000000001507368483][F] FSZ - Faction Safe Zones ~Updated 12/23/19~
@@ -127,6 +126,7 @@
     [000000002841920953][T] Shower Light
     [000000002839553181][T] In Depth LCDs
     [000000002391318591][T] Assertive Loot
+    [000000001365616918][T] Defense Shields - v2.0(38)
 
   Existing Factions__________________________________________________
 
@@ -138,66 +138,6 @@
   Stored Identities__________________________________________________
 
     [IdentityId][Dead][SteamID > 0] Display Name
-    [144115188075860615][T][T] Gamer Kid 007
-    [144115188075856200][T][T] Nicklealias
-    [144115188075859652][T][T] 
-    [144115188075859653][T][T] 
-    [144115188075859654][T][T] 
-    [144115188075856321][T][T] 
-    [144115188075856322][T][T] 
-    [144115188075856323][T][T] 
-    [144115188075856385][T][T] 
-    [144115188075856386][T][T] 
-    [144115188075856387][T][T] 
-    [144115188075856388][T][T] 
-    [144115188075856389][T][T] 
-    [144115188075856390][T][T] 
-    [144115188075856391][T][T] 
-    [144115188075856392][T][T] 
-    [144115188075856393][T][T] 
-    [144115188075856394][T][T] 
-    [144115188075856395][T][T] 
-    [144115188075856396][T][T] 
-    [144115188075856397][T][T] 
-    [144115188075856398][T][T] 
-    [144115188075856399][T][T] 
-    [144115188075856400][T][T] 
-    [144115188075856401][T][T] 
-    [144115188075856402][T][T] 
-    [144115188075856403][T][T] 
-    [144115188075856404][T][T] 
-    [144115188075856405][T][T] 
-    [144115188075856406][T][T] 
-    [144115188075856407][T][T] 
-    [144115188075856408][T][T] 
-    [144115188075856409][T][T] 
-    [144115188075856410][T][T] 
-    [144115188075856411][T][T] 
-    [144115188075856412][T][T] 
-    [144115188075856413][T][T] 
-    [144115188075856414][T][T] 
-    [144115188075856415][T][T] 
-    [144115188075856416][T][T] 
-    [144115188075856417][T][T] 
-    [144115188075856418][T][T] 
-    [144115188075856419][T][T] 
-    [144115188075856420][T][T] 
-    [144115188075856421][T][T] 
-    [144115188075856422][T][T] 
-    [144115188075856423][T][T] 
-    [144115188075856474][T][T] xXHolicsXx
-    [144115188075858725][T][T] 
-    [144115188075861047][T][T] Exile
-    [144115188075862178][T][T] titanfan_74
-    [144115188075863299][T][T] Julie
-    [144115188075863321][T][T] Murda
-    [144115188075858859][T][T] BlacKK
-    [144115188075859998][T][T] 
-    [144115188075862236][T][T] Decipher
-    [144115188075856712][T][T] Pyro
-    [144115188075860097][T][T] 
-    [144115188075860098][T][T] 
-    [144115188075860099][T][T] 
     [144115188075860152][T][T] 
     [144115188075860153][T][T] 
     [144115188075860154][T][T] 
@@ -248,13 +188,58 @@
     [144115188075860199][T][T] 
     [144115188075860200][T][T] 
     [144115188075860201][T][T] 
+    [144115188075859652][T][T] 
+    [144115188075859653][T][T] 
+    [144115188075859654][T][T] 
+    [144115188075856321][T][T] 
+    [144115188075856322][T][T] 
+    [144115188075856323][T][T] 
     [144115188075856886][T][T] Xardalas
     [144115188075858015][T][T] 
     [144115188075858016][T][T] 
     [144115188075858017][T][T] 
     [144115188075858018][T][T] spectre4evil
+    [144115188075856385][T][T] 
     [144115188075862513][T][T] The Town Drunk
+    [144115188075856386][T][T] 
+    [144115188075856387][T][T] 
+    [144115188075856388][T][T] 
+    [144115188075856389][T][T] 
+    [144115188075856390][T][T] 
+    [144115188075856391][T][T] 
+    [144115188075856392][T][T] 
+    [144115188075856393][T][T] 
+    [144115188075856394][T][T] 
+    [144115188075856395][T][T] 
+    [144115188075856396][T][T] 
+    [144115188075856397][T][T] 
+    [144115188075856398][T][T] 
+    [144115188075856399][T][T] 
+    [144115188075856400][T][T] 
+    [144115188075856401][T][T] 
+    [144115188075856402][T][T] 
+    [144115188075856403][T][T] 
     [144115188075863645][T][T] Terrus
+    [144115188075856404][T][T] 
+    [144115188075856405][T][T] 
+    [144115188075856406][T][T] 
+    [144115188075856407][T][T] 
+    [144115188075856408][T][T] 
+    [144115188075856409][T][T] 
+    [144115188075856410][T][T] 
+    [144115188075856411][T][T] 
+    [144115188075856412][T][T] 
+    [144115188075856413][T][T] 
+    [144115188075856414][T][T] 
+    [144115188075856415][T][T] 
+    [144115188075856416][T][T] 
+    [144115188075856417][T][T] 
+    [144115188075856418][T][T] 
+    [144115188075856419][T][T] 
+    [144115188075856420][T][T] 
+    [144115188075856421][T][T] 
+    [144115188075856422][T][T] 
+    [144115188075856423][T][T] 
     [144115188075859220][T][T] I hate this game
     [144115188075855894][T][F] Space Pirates
     [144115188075855896][T][F] The Great Tarantula
@@ -279,11 +264,11 @@
     [144115188075855915][T][F] The Mechanic
     [144115188075855916][T][F] Optimus
     [144115188075855917][T][F] The Coder
+    [144115188075856474][T][T] xXHolicsXx
     [144115188075855918][T][F] Reboot
     [144115188075855919][T][F] Scrap
     [144115188075855920][T][F] The Analyst
     [144115188075855921][T][F] The Hacker
-    [144115188075859273][T][T] Nick
     [144115188075855922][T][F] Tin
     [144115188075855923][T][F] The Map Maker
     [144115188075855924][T][F] Fiber
@@ -294,7 +279,9 @@
     [144115188075855929][T][F] Socket
     [144115188075855930][T][F] Cylinder
     [144115188075855931][T][F] Telescope
+    [144115188075859273][T][T] Nick
     [144115188075855932][T][T] Steener
+    [144115188075858725][T][T] 
     [144115188075857057][T][T] EHBox
     [144115188075855973][T][T] Silverbane
     [144115188075855974][T][F] The Director
@@ -322,13 +309,26 @@
     [144115188075855996][T][F] Intergalactic Shipbuilding CEO
     [144115188075855997][T][F] Specialized Constructors CEO
     [144115188075855998][T][F] Interstellar Constructors CEO
+    [144115188075861047][T][T] Exile
+    [144115188075862178][T][T] titanfan_74
     [144115188075860514][T][T] piggles_19
+    [144115188075863299][T][T] Julie
     [144115188075857179][T][T] 
+    [144115188075858859][T][T] BlacKK
+    [144115188075863321][T][T] Murda
     [144115188075856099][T][T] Binkabobo
+    [144115188075859998][T][T] 
+    [144115188075862236][T][T] Decipher
     [144115188075859462][T][T] deamons
+    [144115188075856712][T][T] Pyro
+    [144115188075860615][T][T] Gamer Kid 007
+    [144115188075860097][T][T] 
+    [144115188075860098][T][T] 
+    [144115188075860099][T][T] 
+    [144115188075856200][T][T] Nicklealias
     
-05Jun23_21:17:45:7702    AwwScrapCore: LateSetup    Fully online.
-05Jun23_21:17:45:7742    AwwScrapCore: LateSetup    
+06Jun23_19:51:24:6741    AwwScrapCore: LateSetup    Fully online.
+06Jun23_19:51:24:6771    AwwScrapCore: LateSetup    
 
  The following valid scrap was created...
 
@@ -342,7 +342,7 @@
       Textures\GUI\Icons\component\construction_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\construction_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   MetalGrid | MetalGridScrap | MetalGridScrapToIngot
@@ -354,7 +354,7 @@
       Textures\GUI\Icons\component\metal_grid_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\metal_grid_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   InteriorPlate | InteriorPlateScrap | InteriorPlateScrapToIngot
@@ -366,7 +366,7 @@
       Textures\GUI\Icons\component\interior_plate_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\interior_plate_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   SteelPlate | SteelPlateScrap | SteelPlateScrapToIngot
@@ -378,7 +378,7 @@
       Textures\GUI\Icons\component\steel_plate_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\steel_plate_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Girder | GirderScrap | GirderScrapToIngot
@@ -390,7 +390,7 @@
       Textures\GUI\Icons\component\girder_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\girder_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   SmallTube | SmallTubeScrap | SmallTubeScrapToIngot
@@ -402,7 +402,7 @@
       Textures\GUI\Icons\component\small_tube_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\small_tube_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   LargeTube | LargeTubeScrap | LargeTubeScrapToIngot
@@ -414,7 +414,7 @@
       Textures\GUI\Icons\component\large_tube_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\large_tube_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Motor | MotorScrap | MotorScrapToIngot
@@ -426,7 +426,7 @@
       Textures\GUI\Icons\component\motor_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\motor_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Display | DisplayScrap | DisplayScrapToIngot
@@ -438,7 +438,7 @@
       Textures\GUI\Icons\component\display_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\display_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   BulletproofGlass | BulletproofGlassScrap | BulletproofGlassScrapToIngot
@@ -450,7 +450,7 @@
       Textures\GUI\Icons\component\bulletproof_glass_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\bulletproof_glass_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Superconductor | SuperconductorScrap | SuperconductorScrapToIngot
@@ -462,7 +462,7 @@
       Textures\GUI\Icons\component\superconductor_conducts_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\superconductor_conducts_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Computer | ComputerScrap | ComputerScrapToIngot
@@ -474,7 +474,7 @@
       Textures\GUI\Icons\component\computer_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\computer_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Reactor | ReactorScrap | ReactorScrapToIngot
@@ -486,7 +486,7 @@
       Textures\GUI\Icons\component\reactor_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\reactor_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Thrust | ThrustScrap | ThrustScrapToIngot
@@ -498,7 +498,7 @@
       Textures\GUI\Icons\component\thrust_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\thrust_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   GravityGenerator | GravityGeneratorScrap | GravityGeneratorScrapToIngot
@@ -510,7 +510,7 @@
       Textures\GUI\Icons\component\gravity_generator_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\gravity_generator_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Medical | MedicalScrap | MedicalScrapToIngot
@@ -522,7 +522,7 @@
       Textures\GUI\Icons\component\medical_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\medical_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   RadioCommunication | RadioCommunicationScrap | RadioCommunicationScrapToIngot
@@ -534,7 +534,7 @@
       Textures\GUI\Icons\component\radio_communication_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\radio_communication_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Detector | DetectorScrap | DetectorScrapToIngot
@@ -546,7 +546,7 @@
       Textures\GUI\Icons\component\detector_components_component.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\detector_components_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Explosives | ExplosivesScrap | ExplosivesScrapToIngot
@@ -558,7 +558,7 @@
       Textures\GUI\Icons\component\ExplosivesComponent.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\ExplosivesComponent.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   SolarCell | SolarCellScrap | SolarCellScrapToIngot
@@ -570,7 +570,7 @@
       Textures\GUI\Icons\component\SolarCellComponent.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\SolarCellComponent.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   PowerCell | PowerCellScrap | PowerCellScrapToIngot
@@ -582,7 +582,7 @@
       Textures\GUI\Icons\component\BatteryComponent.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\BatteryComponent.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [Vanilla (Base Game)]
   Canvas | CanvasScrap | CanvasScrapToIngot
@@ -594,19 +594,7 @@
       Textures\GUI\Icons\component\Cartridge_Icon.dds
     Scrap Icon(s)
       Textures\GUI\Icons\component\Cartridge_Icon.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
-
-  Component Origin: [Defense Shields - v2.0(38) (1365616918.sbm)]
-  ShieldComponent | ShieldComponentScrap | ShieldComponentScrapToIngot
-    [F][F][01][07.00s][00.2480][00.0006][004] | [02.67] Platinum [26.67] Iron [06.67] Silicon [05.00] Gold 
-    [P][01.00] ShieldComponentScrap 
-    [R][01.20] Platinum [R][12.00] Iron [R][03.00] Silicon [R][02.25] Gold 
-    [T] Ingots 
-    Component Icon(s)
-      C:\SEServer\Instance\content\244850\1365616918\Textures\Icons\Shield_Comp1.dds
-    Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\1365616918\Textures\Icons\Shield_Comp1.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [AQD - Concrete (2298956701.sbm)]
   AQD_Comp_Concrete | AQD_Comp_ConcreteScrap | AQD_Comp_ConcreteScrapToIngot
@@ -615,9 +603,9 @@
     [R][01.50] Stone 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\2298956701\Textures\GUI\Icons\component\AQD_Comp_Concrete.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\2298956701\Textures\GUI\Icons\component\AQD_Comp_Concrete.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\2298956701\Textures\GUI\Icons\component\AQD_Comp_ConcreteScrap.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\2298956701\Textures\GUI\Icons\component\AQD_Comp_ConcreteScrap.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AssemblerMotorT2 | LWTS_AssemblerMotorT2Scrap | LWTS_AssemblerMotorT2ScrapToIngot
@@ -626,10 +614,10 @@
     [R][03.75] Iron [R][00.99] Nickel [R][00.77] Silicon 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AssemblerMotorT3 | LWTS_AssemblerMotorT3Scrap | LWTS_AssemblerMotorT3ScrapToIngot
@@ -638,10 +626,10 @@
     [R][04.28] Iron [R][01.31] Nickel [R][01.13] Silicon [R][00.68] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AssemblerMotorT4 | LWTS_AssemblerMotorT4Scrap | LWTS_AssemblerMotorT4ScrapToIngot
@@ -650,10 +638,10 @@
     [R][05.48] Iron [R][01.76] Nickel [R][01.52] Silicon [R][01.11] Cobalt [R][00.05] Platinum 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AssemblerMotorT5 | LWTS_AssemblerMotorT5Scrap | LWTS_AssemblerMotorT5ScrapToIngot
@@ -662,10 +650,10 @@
     [R][06.99] Iron [R][02.06] Nickel [R][02.06] Silicon [R][01.33] Cobalt [R][00.14] Platinum [R][00.13] LWTS_Titanium 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\AssemblerMotors\motor_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ALBUC_T5 | LWTS_ALBUC_T5Scrap | LWTS_ALBUC_T5ScrapToIngot
@@ -674,10 +662,10 @@
     [R][00.30] Iron [R][03.75] Silicon [R][00.37] Gold [R][02.25] Platinum [R][01.50] Nickel [R][01.05] Silver [R][00.37] LWTS_Titanium 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\largeBlock_chipset5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\largeBlock_chipset5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\largeBlock_chipset5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\largeBlock_chipset5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ASBUC_T5 | LWTS_ASBUC_T5Scrap | LWTS_ASBUC_T5ScrapToIngot
@@ -686,10 +674,10 @@
     [R][00.30] Iron [R][03.00] Silicon [R][00.30] Gold [R][01.65] Platinum [R][01.50] Nickel [R][01.20] Cobalt [R][00.18] LWTS_Titanium 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\smallBlock_chipset5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\smallBlock_chipset5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\smallBlock_chipset5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\smallBlock_chipset5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AlloyTube | LWTS_AlloyTubeScrap | LWTS_AlloyTubeScrapToIngot
@@ -698,10 +686,10 @@
     [R][01.47] Iron [R][00.13] Silicon [R][00.05] Stone 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\alloy_tube_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\alloy_tube_component.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\alloy_tube_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\alloy_tube_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ConstructionArmored | LWTS_ConstructionArmoredScrap | LWTS_ConstructionArmoredScrapToIngot
@@ -710,10 +698,10 @@
     [R][15.00] Iron [R][03.78] Nickel [R][02.73] Cobalt [R][00.82] Gold [R][00.14] LWTS_Titanium 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\armor_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\armor_component.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\armor_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\armor_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_AlloyPlate | LWTS_AlloyPlateScrap | LWTS_AlloyPlateScrapToIngot
@@ -722,10 +710,10 @@
     [R][04.25] Iron [R][00.63] Nickel 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\alloy_plate_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\alloy_plate_component.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\alloy_plate_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\alloy_plate_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MetalPlate | MetalPlateScrap | MetalPlateScrapToIngot
@@ -734,10 +722,10 @@
     [R][05.15] Iron [R][00.53] Cobalt [R][00.96] Nickel [R][00.06] Silicon 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_component.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MetalPlate_Military | MetalPlate_MilitaryScrap | MetalPlate_MilitaryScrapToIngot
@@ -746,10 +734,10 @@
     [R][06.68] Iron [R][00.82] Cobalt [R][01.05] Nickel [R][00.09] Silicon 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_mil_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_mil_component.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_mil_component.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\metal_plate_mil_component.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_DetectorTier2 | LWTS_DetectorTier2Scrap | LWTS_DetectorTier2ScrapToIngot
@@ -758,10 +746,10 @@
     [R][00.98] Iron [R][02.43] Nickel [R][00.75] Silicon 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_DetectorTier3 | LWTS_DetectorTier3Scrap | LWTS_DetectorTier3ScrapToIngot
@@ -770,10 +758,10 @@
     [R][01.33] Iron [R][02.74] Nickel [R][01.13] Silicon [R][00.18] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_DetectorTier4 | LWTS_DetectorTier4Scrap | LWTS_DetectorTier4ScrapToIngot
@@ -782,10 +770,10 @@
     [R][01.90] Iron [R][03.53] Nickel [R][01.83] Silicon [R][00.37] Cobalt [R][00.23] Gold 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_DetectorTier5 | LWTS_DetectorTier5Scrap | LWTS_DetectorTier5ScrapToIngot
@@ -794,10 +782,10 @@
     [R][02.48] Iron [R][04.10] Nickel [R][02.30] Silicon [R][00.51] Cobalt [R][00.40] Gold [R][00.55] Magnesium 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\detector_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_GravityGeneratorTier2 | LWTS_GravityGeneratorTier2Scrap | LWTS_GravityGeneratorTier2ScrapToIngot
@@ -806,10 +794,10 @@
     [R][00.98] Silver [R][01.63] Gold [R][34.50] Cobalt [R][91.95] Iron [R][03.00] Nickel 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_GravityGeneratorTier3 | LWTS_GravityGeneratorTier3Scrap | LWTS_GravityGeneratorTier3ScrapToIngot
@@ -818,10 +806,10 @@
     [R][01.25] Silver [R][01.89] Gold [R][36.00] Cobalt [R][93.60] Iron [R][05.81] Nickel [R][03.18] Silicon 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_GravityGeneratorTier4 | LWTS_GravityGeneratorTier4Scrap | LWTS_GravityGeneratorTier4ScrapToIngot
@@ -830,10 +818,10 @@
     [R][01.68] Silver [R][02.64] Gold [R][37.80] Cobalt [R][97.20] Iron [R][08.43] Nickel [R][04.68] Silicon 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_GravityGeneratorTier5 | LWTS_GravityGeneratorTier5Scrap | LWTS_GravityGeneratorTier5ScrapToIngot
@@ -842,10 +830,10 @@
     [R][02.33] Silver [R][03.20] Gold [R][41.25] Cobalt [R][103.35] Iron [R][11.48] Nickel [R][06.00] Silicon [R][00.15] LWTS_Titanium [R][00.14] Platinum 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\gravity_generator_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   HydroThrustComponentT2 | HydroThrustComponentT2Scrap | HydroThrustComponentT2ScrapToIngot
@@ -854,10 +842,10 @@
     [R][01.80] Iron [R][00.75] Nickel [R][00.44] Silicon 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   HydroThrustComponentT3 | HydroThrustComponentT3Scrap | HydroThrustComponentT3ScrapToIngot
@@ -866,10 +854,10 @@
     [R][02.36] Iron [R][01.13] Nickel [R][00.63] Silicon [R][00.37] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   HydroThrustComponentT4 | HydroThrustComponentT4Scrap | HydroThrustComponentT4ScrapToIngot
@@ -878,10 +866,10 @@
     [R][02.74] Iron [R][01.67] Nickel [R][00.83] Silicon [R][00.53] Cobalt [R][00.01] Platinum 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   HydroThrustComponentT5 | HydroThrustComponentT5Scrap | HydroThrustComponentT5ScrapToIngot
@@ -890,10 +878,10 @@
     [R][03.23] Iron [R][02.25] Nickel [R][01.02] Silicon [R][00.86] Cobalt [R][00.02] Platinum [R][00.86] Gold 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\hydrogen_thruster_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MotorT2 | MotorT2Scrap | MotorT2ScrapToIngot
@@ -902,10 +890,10 @@
     [R][03.60] Iron [R][00.98] Nickel [R][00.75] Silicon 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MotorT3 | MotorT3Scrap | MotorT3ScrapToIngot
@@ -914,10 +902,10 @@
     [R][04.28] Iron [R][01.31] Nickel [R][01.13] Silicon [R][00.68] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MotorT4 | MotorT4Scrap | MotorT4ScrapToIngot
@@ -926,10 +914,10 @@
     [R][05.48] Iron [R][01.76] Nickel [R][01.50] Silicon [R][01.10] Cobalt [R][00.04] Platinum 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   MotorT5 | MotorT5Scrap | MotorT5ScrapToIngot
@@ -938,10 +926,10 @@
     [R][06.90] Iron [R][02.06] Nickel [R][02.03] Silicon [R][01.32] Cobalt [R][00.06] Platinum [R][00.08] LWTS_Titanium 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\motor_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_PowerCellT2 | LWTS_PowerCellT2Scrap | LWTS_PowerCellT2ScrapToIngot
@@ -950,10 +938,10 @@
     [R][01.88] Iron [R][00.32] Silicon [R][00.53] Nickel [R][00.32] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_PowerCellT3 | LWTS_PowerCellT3Scrap | LWTS_PowerCellT3ScrapToIngot
@@ -962,10 +950,10 @@
     [R][02.39] Iron [R][00.49] Silicon [R][00.73] Nickel [R][00.55] Cobalt [R][00.30] Silver 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_PowerCellT4 | LWTS_PowerCellT4Scrap | LWTS_PowerCellT4ScrapToIngot
@@ -974,10 +962,10 @@
     [R][02.93] Iron [R][00.75] Silicon [R][00.94] Nickel [R][00.63] Cobalt [R][00.53] Silver [R][00.24] Gold 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_PowerCellT5 | LWTS_PowerCellT5Scrap | LWTS_PowerCellT5ScrapToIngot
@@ -986,10 +974,10 @@
     [R][03.41] Iron [R][00.94] Silicon [R][01.00] Nickel [R][00.82] Cobalt [R][00.71] Silver [R][00.39] Gold [R][00.09] Platinum 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\BatteryComponent5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ReactorT2 | LWTS_ReactorT2Scrap | LWTS_ReactorT2ScrapToIngot
@@ -998,10 +986,10 @@
     [R][02.55] Iron [R][03.75] Stone [R][00.96] Silver [R][00.75] Nickel 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ReactorT3 | LWTS_ReactorT3Scrap | LWTS_ReactorT3ScrapToIngot
@@ -1010,10 +998,10 @@
     [R][03.00] Iron [R][04.43] Stone [R][01.08] Silver [R][01.27] Nickel [R][00.01] Platinum 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ReactorT4 | LWTS_ReactorT4Scrap | LWTS_ReactorT4ScrapToIngot
@@ -1022,10 +1010,10 @@
     [R][04.20] Iron [R][05.25] Stone [R][01.43] Silver [R][01.88] Nickel [R][00.03] Platinum [R][00.01] Uranium 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_ReactorT5 | LWTS_ReactorT5Scrap | LWTS_ReactorT5ScrapToIngot
@@ -1034,10 +1022,10 @@
     [R][05.70] Iron [R][06.75] Stone [R][01.88] Silver [R][02.25] Nickel [R][00.04] Platinum [R][00.02] Uranium [R][00.11] LWTS_Titanium 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\Component\reactor_components_component5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_SolarCellT2 | LWTS_SolarCellT2Scrap | LWTS_SolarCellT2ScrapToIngot
@@ -1046,10 +1034,10 @@
     [R][00.75] Nickel [R][01.13] Silicon [R][00.90] Iron 
     [T] Ingots [T] CommonMetals [T] GravelToDust [T] StoneToDust 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_SolarCellT3 | LWTS_SolarCellT3Scrap | LWTS_SolarCellT3ScrapToIngot
@@ -1058,10 +1046,10 @@
     [R][01.20] Nickel [R][01.37] Silicon [R][01.15] Iron [R][00.26] Cobalt 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_SolarCellT4 | LWTS_SolarCellT4Scrap | LWTS_SolarCellT4ScrapToIngot
@@ -1070,10 +1058,10 @@
     [R][01.68] Nickel [R][01.88] Silicon [R][01.84] Iron [R][00.35] Cobalt [R][00.23] Gold 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   LWTS_SolarCellT5 | LWTS_SolarCellT5Scrap | LWTS_SolarCellT5ScrapToIngot
@@ -1082,10 +1070,10 @@
     [R][02.03] Nickel [R][02.25] Silicon [R][02.45] Iron [R][00.53] Cobalt [R][00.41] Gold [R][00.46] Silver 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\SolarCellComponent5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   ThrustT2 | ThrustT2Scrap | ThrustT2ScrapToIngot
@@ -1094,10 +1082,10 @@
     [R][04.65] Iron [R][01.76] Cobalt [R][00.15] Gold [R][00.07] Platinum [R][00.13] Nickel 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t2.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t2.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t2.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   ThrustT3 | ThrustT3Scrap | ThrustT3ScrapToIngot
@@ -1106,10 +1094,10 @@
     [R][05.10] Iron [R][02.18] Cobalt [R][00.23] Gold [R][00.09] Platinum [R][00.18] Nickel [R][00.23] Silicon 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t3.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t3.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t3.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   ThrustT4 | ThrustT4Scrap | ThrustT4ScrapToIngot
@@ -1118,10 +1106,10 @@
     [R][06.00] Iron [R][02.62] Cobalt [R][00.25] Gold [R][00.11] Platinum [R][00.37] Nickel [R][00.49] Silicon [R][00.01] Uranium 
     [T] Ingots 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t4.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t4.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t4.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
   Component Origin: [[v6.5.10] Lord Wiader's Tiered Systems - LWTS (KptKosmit91's Tiered Systems/Tiered Everything) (691529112.sbm)]
   ThrustT5 | ThrustT5Scrap | ThrustT5ScrapToIngot
@@ -1130,10 +1118,22 @@
     [R][06.75] Iron [R][02.85] Cobalt [R][00.28] Gold [R][00.13] Platinum [R][00.54] Nickel [R][00.75] Silicon [R][00.01] Uranium [R][00.01] LWTS_Titanium 
     [T] Ingots [T] CommonMetals 
     Component Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t5.dds
     Scrap Icon(s)
-      C:\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t5.dds
-      C:\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\691529112\Textures\GUI\Icons\component\thrust_components_component_t5.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
+
+  Component Origin: [Defense Shields - v2.0(38) (1365616918.sbm)]
+  ShieldComponent | ShieldComponentScrap | ShieldComponentScrapToIngot
+    [F][F][01][07.00s][00.2480][00.0006][004] | [02.67] Platinum [26.67] Iron [06.67] Silicon [05.00] Gold 
+    [P][01.00] ShieldComponentScrap 
+    [R][01.20] Platinum [R][12.00] Iron [R][03.00] Silicon [R][02.25] Gold 
+    [T] Ingots 
+    Component Icon(s)
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1365616918\Textures\Icons\Shield_Comp1.dds
+    Scrap Icon(s)
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1365616918\Textures\Icons\Shield_Comp1.dds
+      C:\P51SESurvivalServer\SEServer\Instance\content\244850\1542310718\Textures\GUI\Icons\Components\ScrapOverlayOutlineRed.dds
 
  The following valid scrap was intentionally skipped...
 
@@ -1215,4 +1215,4 @@
 
 
 
-06Jun23_12:16:39:5711    AwwScrapCore: Unload    Retired.
+06Jun23_22:07:01:4302    AwwScrapCore: Unload    Retired.

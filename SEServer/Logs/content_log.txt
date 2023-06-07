@@ -1967,3 +1967,87 @@
 [2023-06-05 21:17:47] HTTP/2 (SteamCache,149) - cache4-ord1.steamcontent.com ([2602:801:f007:101::a2fe:c124]:443 / [2602:801:f007:101::a2fe:c124]:443, host: cache4-ord1.steamcontent.com): Closing connection
 [2023-06-05 21:22:14] stats: (Invalid, 0) : 68765 Bytes, 2 sec (0.26 Mbps). 2 Hits / 0 Misses (100 %, 100 % bytes)
 [2023-06-05 21:22:14] stats: (SteamCache, 149) cache4-ord1.steamcontent.com: 4208 Bytes, 2 sec (0.02 Mbps). 2 Hits / 0 Misses (100 %, 100 % bytes)
+
+
+[2023-06-06 18:32:01] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 18:32:01] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 18:32:01] Steam library folders configuration will be reset.
+[2023-06-06 18:32:01] No install folder configuration files found.
+
+
+[2023-06-06 18:32:18] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 18:32:18] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 18:32:18] Steam library folders configuration will be reset.
+[2023-06-06 18:32:18] No install folder configuration files found.
+
+
+[2023-06-06 18:33:15] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 18:33:15] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 18:33:15] Steam library folders configuration will be reset.
+[2023-06-06 18:33:15] No install folder configuration files found.
+
+
+[2023-06-06 18:33:30] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 18:33:30] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 18:33:30] Steam library folders configuration will be reset.
+[2023-06-06 18:33:30] No install folder configuration files found.
+
+
+[2023-06-06 19:42:16] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 19:42:16] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 19:42:16] Steam library folders configuration will be reset.
+[2023-06-06 19:42:16] No install folder configuration files found.
+
+
+[2023-06-06 19:49:24] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 19:49:24] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 19:49:24] Steam library folders configuration will be reset.
+[2023-06-06 19:49:24] No install folder configuration files found.
+[2023-06-06 19:49:28] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:28] AppID 244850 update changed : Running Update,Reconfiguring,
+[2023-06-06 19:49:29] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 1 / Launcher 9)
+[2023-06-06 19:49:29] Created download interface of type 'SteamCache' (7) to host cache4-ord1.steamcontent.com (cache4-ord1.steamcontent.com)
+[2023-06-06 19:49:29] Created download interface of type 'SteamCache' (7) to host cache5-ord1.steamcontent.com (cache5-ord1.steamcontent.com)
+[2023-06-06 19:49:29] Created download interface of type 'SteamCache' (7) to host cache10-ord1.steamcontent.com (cache10-ord1.steamcontent.com)
+[2023-06-06 19:49:29] HTTP/2 available
+[2023-06-06 19:49:29] Created dual-stack http client
+[2023-06-06 19:49:30] HTTPS (SteamCache,149) - cache4-ord1.steamcontent.com ([2602:801:f007:101::a2fe:c124]:443 / [2602:801:f007:101::a2fe:c124]:443, host: cache4-ord1.steamcontent.com): Negotiated HTTP/2
+[2023-06-06 19:49:30] HTTP/2 (SteamCache,149) - cache4-ord1.steamcontent.com ([2602:801:f007:101::a2fe:c124]:443 / [2602:801:f007:101::a2fe:c124]:443, host: cache4-ord1.steamcontent.com): cache4-ord1.steamcontent.com/depot/244850/manifest/5778875522922857164/5/11554073325153595078 - received 200 (OK) HTTP response
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,Validating,
+[2023-06-06 19:49:30] Validating active workshop item 2936367770 ...
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,Preallocating,
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:30] AppID 244850 update started : download 0/2098240, store 0/0, reuse 0/428, delta 0/0, stage 0/11650496 
+[2023-06-06 19:49:30] AppID 244850 update changed : Running Update,Downloading,Staging,
+[2023-06-06 19:49:30] Downloading 81 chunks from depot 244850
+[2023-06-06 19:49:30] HTTPS (SteamCache,231) - cache10-ord1.steamcontent.com ([2602:801:f007:100::a2fe:c111]:443 / [2602:801:f007:100::a2fe:c111]:443, host: cache10-ord1.steamcontent.com): Negotiated HTTP/2
+[2023-06-06 19:49:30] HTTPS (SteamCache,117) - cache5-ord1.steamcontent.com ([2602:801:f007:100::a2fe:c10d]:443 / [2602:801:f007:100::a2fe:c10d]:443, host: cache5-ord1.steamcontent.com): Negotiated HTTP/2
+[2023-06-06 19:49:31] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:31] AppID 244850 update changed : Running Update,Committing,
+[2023-06-06 19:49:31] AppID 244850 starting commit from "C:\P51SESurvivalServer\SEServer\Instance/downloads/244850" to "C:\P51SESurvivalServer\SEServer\Instance/content/244850" : 80 updated, 0 moved, 37 deleted files
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:32] AppID 244850 update changed : None
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,Reconfiguring,
+[2023-06-06 19:49:32] HTTP/2 (SteamCache,149) - cache4-ord1.steamcontent.com ([2602:801:f007:101::a2fe:c124]:443 / [2602:801:f007:101::a2fe:c124]:443, host: cache4-ord1.steamcontent.com): cache4-ord1.steamcontent.com/depot/244850/manifest/509629766157528765/5/15352551845900023292 - received 200 (OK) HTTP response
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,Validating,
+[2023-06-06 19:49:32] Validating active workshop item 1365616918 ...
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,Preallocating,
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:32] AppID 244850 update started : download 0/7536, store 0/0, reuse 0/0, delta 0/0, stage 0/39266 
+[2023-06-06 19:49:32] AppID 244850 update changed : Running Update,Downloading,Staging,
+[2023-06-06 19:49:32] Downloading 2 chunks from depot 244850
+[2023-06-06 19:49:33] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:33] AppID 244850 update changed : Running Update,Committing,
+[2023-06-06 19:49:33] AppID 244850 starting commit from "C:\P51SESurvivalServer\SEServer\Instance/downloads/244850" to "C:\P51SESurvivalServer\SEServer\Instance/content/244850" : 2 updated, 0 moved, 0 deleted files
+[2023-06-06 19:49:33] AppID 244850 update changed : Running Update,
+[2023-06-06 19:49:33] AppID 244850 update changed : None
+[2023-06-06 19:50:32] HTTP/2 (SteamCache,231) - cache10-ord1.steamcontent.com ([2602:801:f007:100::a2fe:c111]:443 / [2602:801:f007:100::a2fe:c111]:443, host: cache10-ord1.steamcontent.com): Closing connection
+[2023-06-06 19:50:33] HTTP/2 (SteamCache,149) - cache4-ord1.steamcontent.com ([2602:801:f007:101::a2fe:c124]:443 / [2602:801:f007:101::a2fe:c124]:443, host: cache4-ord1.steamcontent.com): Closing connection
+[2023-06-06 19:50:34] HTTP/2 (SteamCache,117) - cache5-ord1.steamcontent.com ([2602:801:f007:100::a2fe:c10d]:443 / [2602:801:f007:100::a2fe:c10d]:443, host: cache5-ord1.steamcontent.com): Closing connection
+[2023-06-06 19:55:00] stats: (SteamCache, 149) cache4-ord1.steamcontent.com: 1104993 Bytes, 1 sec (6.86 Mbps). 34 Hits / 0 Misses (100 %, 100 % bytes)
+[2023-06-06 19:55:00] stats: (Invalid, 0) : 2192657 Bytes, 2 sec (11.06 Mbps). 83 Hits / 0 Misses (100 %, 100 % bytes)

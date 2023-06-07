@@ -1634,3 +1634,48 @@
 [2023-06-06 11:32:52] [AppID 244850] Updating workshop item details failed with Access Denied
 [2023-06-06 11:47:53] [AppID 244850] Updating workshop item details failed with Access Denied
 [2023-06-06 12:02:55] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2023-06-06 18:32:01] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+
+
+[2023-06-06 18:32:18] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+
+
+[2023-06-06 18:33:15] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+
+
+[2023-06-06 18:33:30] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+
+
+[2023-06-06 19:42:16] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+
+
+[2023-06-06 19:49:24] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Content\Workshop" (0 installed, 0 needed)
+[2023-06-06 19:49:27] [AppID 244850] GetDetails request 0x1 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2023-06-06 19:49:28] [AppID 244850] GetDetails request 0x2 - batch (0-6 of 6) => not in cache, requesting from Steam
+[2023-06-06 19:49:28] [AppID 244850] Unloaded installed workshop items
+[2023-06-06 19:49:28] [AppID 244850] Loaded workshop items in "C:\P51SESurvivalServer\SEServer\Instance" (116 installed, 116 needed)
+[2023-06-06 19:49:28] [AppID 244850] GetDetails request 0x3 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2023-06-06 19:49:28] [AppID 244850] Download item 2936367770 requested by app
+[2023-06-06 19:49:28] [AppID 244850] Starting Workshop download job (requested item 2936367770 )
+[2023-06-06 19:49:29] [AppID 244850] Detected workshop change : changed cached item 2936367770, new manifest 5778875522922857164
+[2023-06-06 19:49:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-06 19:49:32] [AppID 244850] Download item 2936367770 result : OK
+[2023-06-06 19:49:32] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-06 19:49:32] [AppID 244850] Download item 1365616918 requested by app
+[2023-06-06 19:49:32] [AppID 244850] Starting Workshop download job (requested item 1365616918 )
+[2023-06-06 19:49:32] [AppID 244850] Detected workshop change : changed cached item 1365616918, new manifest 509629766157528765
+[2023-06-06 19:49:32] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2023-06-06 19:49:33] [AppID 244850] Download item 1365616918 result : OK
+[2023-06-06 19:49:33] [AppID 244850] Finished Workshop download job : No Error
+[2023-06-06 19:49:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 20:04:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 20:19:35] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 20:34:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 20:49:38] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 21:04:39] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 21:19:40] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 21:34:41] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 21:49:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2023-06-06 22:04:43] [AppID 244850] Updating workshop item details failed with Access Denied

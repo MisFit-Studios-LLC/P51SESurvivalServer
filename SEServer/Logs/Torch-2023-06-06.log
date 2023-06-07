@@ -82,3 +82,628 @@
 12:16:37.4905 [INFO]   Torch.Session.TorchSessionManager: Unloading torch session for Protocol 51 Star System
 12:16:37.4905 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Removed authentication intercept
 12:16:41.0395 [INFO]   Torch.Session.TorchSessionManager: Unloaded torch session for Protocol 51 Star System
+18:31:55.0183 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+18:31:55.0183 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+18:31:55.2873 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+18:31:55.3142 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+18:31:55.3142 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+18:31:55.3142 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:31:55.3142 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+18:31:55.9095 [INFO]   Torch.Patches.PromotePatch: patching promote
+18:31:55.9095 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+18:31:55.9095 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+18:31:55.9351 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+18:31:55.9648 [INFO]   Torch: Initializing server
+18:31:56.5209 [INFO]   Torch: RELEASE
+18:31:56.5209 [INFO]   Torch: Torch Version: v1.3.1.236-master
+18:31:56.5209 [INFO]   Torch: Game Version: 1.202.119
+18:31:56.5209 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+18:31:56.5209 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+18:31:56.5209 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+18:31:56.5369 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+18:31:56.5369 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+18:31:56.5369 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+18:31:56.6303 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+18:31:57.4422 [INFO]   Torch.VRageGame: Loading Dedicated Config
+18:31:57.4422 [INFO]   Torch.VRageGame: Initializing network services
+18:31:57.4592 [INFO]   Torch.VRageGame: Initializing services
+18:31:57.4592 [INFO]   Torch.VRageGame: Services initialized
+18:31:57.4762 [INFO]   Torch.VRageGame: Setting up serializers
+18:31:59.9577 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+18:31:59.9577 [WARN]   InstanceManager: No worlds found in the current instance C:\SEServer\Instance.
+18:31:59.9697 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+18:31:59.9697 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:31:59.9697 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+18:31:59.9697 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+18:31:59.9697 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+18:31:59.9697 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+18:31:59.9697 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+18:31:59.9857 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:31:59.9857 [INFO]   Torch: Starting server.
+18:32:02.9643 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:02.9643 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:02.9643 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:02.9643 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:02.9753 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+18:32:05.3768 [FATAL]  Initializer: System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+18:32:05.3998 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT27-2023-06-06 18-32-05.dmp
+18:32:15.2598 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+18:32:15.2598 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:15.3085 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+18:32:15.3085 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+18:32:15.3085 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+18:32:15.3135 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:15.3135 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+18:32:15.3415 [INFO]   Torch.Patches.PromotePatch: patching promote
+18:32:15.3415 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+18:32:15.3415 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+18:32:15.3545 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+18:32:15.3713 [INFO]   Torch: Initializing server
+18:32:15.4961 [INFO]   Torch: RELEASE
+18:32:15.4961 [INFO]   Torch: Torch Version: v1.3.1.236-master
+18:32:15.4961 [INFO]   Torch: Game Version: 1.202.119
+18:32:15.4961 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+18:32:15.4961 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+18:32:15.4961 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+18:32:15.5051 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+18:32:15.5051 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+18:32:15.5051 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+18:32:15.5321 [INFO]   Torch.VRageGame: Loading Dedicated Config
+18:32:15.5719 [INFO]   Torch.VRageGame: Initializing network services
+18:32:15.5789 [INFO]   Torch.VRageGame: Initializing services
+18:32:15.5789 [INFO]   Torch.VRageGame: Services initialized
+18:32:15.5789 [INFO]   Torch.VRageGame: Setting up serializers
+18:32:15.9654 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+18:32:16.4372 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+18:32:16.4382 [WARN]   InstanceManager: No worlds found in the current instance C:\SEServer\Instance.
+18:32:16.4382 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+18:32:16.4382 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+18:32:16.4382 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+18:32:16.4572 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+18:32:16.4572 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+18:32:16.4572 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+18:32:16.4572 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:16.4572 [INFO]   Torch: Starting server.
+18:32:19.6428 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:19.6428 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:19.6428 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:32:19.6428 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:32:19.6428 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+18:32:21.4821 [FATAL]  Initializer: System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+18:32:21.4918 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT25-2023-06-06 18-32-21.dmp
+18:33:13.2423 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+18:33:13.2423 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+18:33:13.2894 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+18:33:13.3061 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+18:33:13.3061 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+18:33:13.3061 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:13.3061 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+18:33:13.3211 [INFO]   Torch.Patches.PromotePatch: patching promote
+18:33:13.3211 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+18:33:13.3211 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+18:33:13.3361 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+18:33:13.3516 [INFO]   Torch: Initializing server
+18:33:13.4679 [INFO]   Torch: RELEASE
+18:33:13.4679 [INFO]   Torch: Torch Version: v1.3.1.236-master
+18:33:13.4679 [INFO]   Torch: Game Version: 1.202.119
+18:33:13.4679 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+18:33:13.4679 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+18:33:13.4709 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+18:33:13.4709 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+18:33:13.4709 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+18:33:13.4709 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+18:33:13.5218 [INFO]   Torch.VRageGame: Loading Dedicated Config
+18:33:13.5479 [INFO]   Torch.VRageGame: Initializing network services
+18:33:13.5479 [INFO]   Torch.VRageGame: Initializing services
+18:33:13.5479 [INFO]   Torch.VRageGame: Services initialized
+18:33:13.5701 [INFO]   Torch.VRageGame: Setting up serializers
+18:33:13.9710 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+18:33:14.4274 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+18:33:14.4274 [WARN]   InstanceManager: No worlds found in the current instance C:\SEServer\Instance.
+18:33:14.4274 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+18:33:14.4274 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:14.4274 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+18:33:14.4274 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+18:33:14.4274 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+18:33:14.4384 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+18:33:14.4384 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:14.4384 [INFO]   Torch: Starting server.
+18:33:16.8167 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:16.8167 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:16.8167 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:16.8167 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:16.8167 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+18:33:18.4237 [FATAL]  Initializer: System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+18:33:18.4237 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT24-2023-06-06 18-33-18.dmp
+18:33:27.5866 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+18:33:27.5866 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:27.6365 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+18:33:27.6365 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+18:33:27.6365 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+18:33:27.6415 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:27.6415 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+18:33:27.6705 [INFO]   Torch.Patches.PromotePatch: patching promote
+18:33:27.6705 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+18:33:27.6705 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+18:33:27.6885 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+18:33:27.7166 [INFO]   Torch: Initializing server
+18:33:27.8344 [INFO]   Torch: RELEASE
+18:33:27.8344 [INFO]   Torch: Torch Version: v1.3.1.236-master
+18:33:27.8344 [INFO]   Torch: Game Version: 1.202.119
+18:33:27.8344 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+18:33:27.8344 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+18:33:27.8344 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+18:33:27.8344 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+18:33:27.8344 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+18:33:27.8453 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+18:33:27.8794 [INFO]   Torch.VRageGame: Loading Dedicated Config
+18:33:27.9102 [INFO]   Torch.VRageGame: Initializing network services
+18:33:27.9102 [INFO]   Torch.VRageGame: Initializing services
+18:33:27.9102 [INFO]   Torch.VRageGame: Services initialized
+18:33:27.9307 [INFO]   Torch.VRageGame: Setting up serializers
+18:33:28.3282 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+18:33:28.7862 [INFO]   InstanceManager: Loading instance C:\SEServer\Instance
+18:33:28.7862 [WARN]   InstanceManager: No worlds found in the current instance C:\SEServer\Instance.
+18:33:28.7862 [INFO]   Torch: Initialized server 'Instance' at 'C:\SEServer\Instance'
+18:33:28.7862 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:28.7862 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+18:33:28.7862 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+18:33:28.7862 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+18:33:28.7862 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+18:33:28.7862 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+18:33:28.8012 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:28.8012 [INFO]   Torch: Starting server.
+18:33:32.1690 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:32.1690 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:32.1690 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+18:33:32.1690 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+18:33:32.1800 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+18:33:34.2318 [FATAL]  Initializer: System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+18:33:34.2427 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT18-2023-06-06 18-33-34.dmp
+19:42:09.6427 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+19:42:09.6427 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:42:09.7832 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+19:42:09.7832 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+19:42:09.8123 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+19:42:09.8133 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+19:42:09.8133 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+19:42:09.8133 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+19:42:09.8133 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+19:42:09.8133 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+19:42:09.8403 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+19:42:09.8403 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+19:42:09.8403 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:42:09.8403 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+19:42:09.8968 [INFO]   Torch.Patches.PromotePatch: patching promote
+19:42:09.8968 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+19:42:09.8968 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+19:42:09.9228 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+19:42:09.9605 [INFO]   Torch: Initializing server
+19:42:10.3694 [INFO]   Torch: RELEASE
+19:42:10.3694 [INFO]   Torch: Torch Version: v1.3.1.236-master
+19:42:10.3694 [INFO]   Torch: Game Version: 1.202.119
+19:42:10.3694 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+19:42:10.3694 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+19:42:10.3694 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+19:42:10.3824 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+19:42:10.3824 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+19:42:10.3824 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+19:42:10.7663 [INFO]   Torch.VRageGame: Loading Dedicated Config
+19:42:10.8038 [INFO]   Torch.VRageGame: Initializing network services
+19:42:10.8148 [INFO]   Torch.VRageGame: Initializing services
+19:42:10.8148 [INFO]   Torch.VRageGame: Services initialized
+19:42:10.8418 [INFO]   Torch.VRageGame: Setting up serializers
+19:42:11.6483 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+19:42:12.2588 [INFO]   InstanceManager: Loading instance C:\P51SESurvivalServer\SEServer\Instance
+19:42:14.3399 [ERROR]  InstanceManager: Failed to load world at path: C:\SEServer\Instance\Saves\Protocol 51 Star System 05-02-2023 00-43-42
+19:42:14.3469 [INFO]   ModListControl: Instance loaded.
+19:42:14.3469 [INFO]   Torch: Initialized server 'Instance' at 'C:\P51SESurvivalServer\SEServer\Instance'
+19:42:14.3469 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:42:14.3609 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+19:42:14.3609 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+19:42:14.3609 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+19:42:14.3609 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+19:42:14.3609 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+19:42:14.3759 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:42:14.3759 [INFO]   Torch: Starting server.
+19:42:18.7944 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:42:18.7944 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:42:18.7944 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:42:18.7944 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:42:18.8104 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+19:42:21.1911 [FATAL]  Initializer: System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.ApplicationException: Session can not start. Save is corrupted or not valid. See log file for more information.
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+19:42:21.2433 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT24-2023-06-06 19-42-21.dmp
+19:46:51.4350 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+19:46:51.4350 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:46:51.5195 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+19:46:51.5195 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+19:46:51.5385 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+19:46:51.5625 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+19:46:51.5635 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+19:46:51.5635 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:46:51.5635 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+19:46:51.5865 [INFO]   Torch.Patches.PromotePatch: patching promote
+19:46:51.5865 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+19:46:51.5865 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+19:46:51.6059 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+19:46:51.6459 [INFO]   Torch: Initializing server
+19:46:51.8327 [INFO]   Torch: RELEASE
+19:46:51.8327 [INFO]   Torch: Torch Version: v1.3.1.236-master
+19:46:51.8327 [INFO]   Torch: Game Version: 1.202.119
+19:46:51.8327 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+19:46:51.8327 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+19:46:51.8327 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+19:46:51.8447 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+19:46:51.8447 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+19:46:51.8447 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+19:46:51.9426 [INFO]   Torch.VRageGame: Loading Dedicated Config
+19:46:51.9736 [INFO]   Torch.VRageGame: Initializing network services
+19:46:51.9886 [INFO]   Torch.VRageGame: Initializing services
+19:46:51.9886 [INFO]   Torch.VRageGame: Services initialized
+19:46:52.0201 [INFO]   Torch.VRageGame: Setting up serializers
+19:46:52.3086 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+19:46:53.1174 [INFO]   InstanceManager: Loading instance C:\P51SESurvivalServer\SEServer\Instance
+19:46:55.0823 [ERROR]  InstanceManager: Failed to load world at path: C:\SEServer\Instance\Saves\Protocol 51 Star System 05-02-2023 00-43-42
+19:46:55.0823 [INFO]   ModListControl: Instance loaded.
+19:46:55.0823 [INFO]   Torch: Initialized server 'Instance' at 'C:\P51SESurvivalServer\SEServer\Instance'
+19:47:38.4264 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:49:00.8463 [INFO]   InstanceManager: Saved dedicated config.
+19:49:01.2991 [INFO]   InstanceManager: Saved world config.
+19:49:01.6356 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:49:05.5207 [INFO]   InstanceManager: Saved dedicated config.
+19:49:05.6102 [INFO]   InstanceManager: Saved world config.
+19:49:06.3133 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:49:22.2098 [INFO]   InstanceManager: Saved dedicated config.
+19:49:22.3129 [INFO]   InstanceManager: Saved world config.
+19:49:22.3129 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:49:22.3129 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+19:49:22.3129 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+19:49:22.3129 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+19:49:22.3293 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+19:49:22.3293 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+19:49:22.3293 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+19:49:22.3293 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+19:49:22.3293 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+19:49:22.3470 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+19:49:22.3470 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+19:49:22.3470 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+19:49:22.3470 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:49:22.3470 [INFO]   Torch: Starting server.
+19:49:23.0311 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+19:49:25.2019 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:49:25.2019 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:49:25.2019 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+19:49:25.2019 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+19:49:25.2169 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+19:51:01.9876 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Cockpit/LWTS_SmallBlockCockpitMetal
+19:51:02.0643 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Assembler/LWTS_LargeAssemblerSimpleT5
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT2
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT3
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT4
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT5
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT6
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT7
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT2
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT3
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT4
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT5
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT6
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT7
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4
+19:51:02.0794 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5
+19:51:02.1256 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT2
+19:51:02.1256 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT3
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier2
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier3
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier4
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier5
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT2
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT3
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT4
+19:51:02.1740 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT5
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier2
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier3
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier4
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier5
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier6
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier7
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier2
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier3
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier4
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier5
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier6
+19:51:02.1881 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier7
+19:51:02.2362 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier2
+19:51:02.2362 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier3
+19:51:02.2362 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier4
+19:51:02.2362 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier5
+19:51:02.2362 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT2
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT3
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT4
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT5
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Refinery/LWTS_LargeRefineryT5
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT2
+19:51:02.2507 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT3
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT4
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT5
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT2
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT3
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT4
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT5
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT2
+19:51:02.2663 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT3
+19:51:02.2823 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT4
+19:51:02.2823 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT5
+19:51:02.3134 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallThrustT5_GOLD
+19:51:02.3134 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallThrustT5_GOLD
+19:51:02.6575 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30
+19:51:02.6575 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30_sm
+19:51:02.6575 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot
+19:51:02.6575 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot_sm
+19:51:02.6575 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock_Armored_Full
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock_Armored_Full
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2_Armored_Half
+19:51:02.6731 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2_Armored_Half
+19:51:02.6891 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Conveyor/Maintenance_Door_Large
+19:51:04.0577 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+19:51:04.0577 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT2 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT3 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT4 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT5 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT2 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT3 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT4 is not in the same block-variant group
+19:51:04.0577 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT5 is not in the same block-variant group
+19:51:05.1883 [INFO]   Torch.Session.TorchSessionManager: Starting new torch session for Protocol 51 Star System
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/EngineerPlushieScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/SabiroidPlushieScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_GoldCoatScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_CandyCaneScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT6Scrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT7Scrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT6Scrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT7Scrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/Field_ModulatorsScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MESThrustScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ProprietaryTechScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/InhibitorChipScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AdminPlateScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CombatBotMaterialScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CrewBotMaterialScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_RepairBotMaterialScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_ScavengerBotMaterialScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/CompressorAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallThrustAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeThrustAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeHydrogenThrustAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallHydrogenThrustAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeAtmosphericThrustAssertScrap" is missing.
+19:51:05.2453 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallAtmosphericThrustAssertScrap" is missing.
+19:51:06.7076 [WARN]   Keen:    Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+19:51:08.3453 [WARN]   Keen:    SurvivalReborn: Character definition for  is null!
+19:51:08.3453 [WARN]   Keen:    SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:51:08.4696 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:51:08.4696 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:51:08.4866 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+19:51:08.4866 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+19:51:08.7830 [WARN]   Keen: Sound on different thread , StopSound
+19:51:09.0331 [WARN]   Keen: Sound on different thread , StopSound
+19:51:09.0331 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.4053 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.4679 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.4679 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.4679 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.4829 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5349 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.5519 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:10.6044 [WARN]   Keen: Sound on different thread , StopSound
+19:51:23.2542 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Inserted authentication intercept
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'whatsmyip'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'help'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'longhelp'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'ver'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'plugins'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'stop'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'restart'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'notify'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'restart.cancel'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'stop.cancel'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'save'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'uptime'
+19:51:23.2542 [INFO]   Torch.Session.TorchSessionManager: Loaded torch session for Protocol 51 Star System
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.on'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.off'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.add'
+19:51:23.2542 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.remove'
+19:51:26.0792 [INFO]   Torch: Starting server watchdog.
+20:48:06.3516 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Connection attempt by 76561198143574867 from 97.126.91.148
+20:48:06.5133 [INFO]   Torch.Managers.MultiplayerManagerBase: Player Pyro joined (76561198143574867)
+21:09:15.8313 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:09:15.8313 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:09:16.0032 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:09:16.0032 [WARN]   Keen: Player is attempting a faction state change they have no rights to do - 144115188075856712
+21:41:06.9321 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:41:06.9321 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+21:41:08.5989 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+21:41:08.5989 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:04:59.8549 [INFO]   Chat: [Global:0] Pyro: yes?
+22:05:08.4973 [INFO]   Chat: [Global:0] Pyro: let me land. 2 minutes
+22:06:44.4909 [INFO]   Chat: [Global:0] Pyro: i should be good :)
+22:06:58.6878 [INFO]   Torch: Stopping server.
+22:06:58.6928 [WARN]   Torch: Failed to wait for the game to be stopped
+22:06:58.6928 [INFO]   Torch: Server stopped.
+22:06:58.7322 [INFO]   Torch.Session.TorchSessionManager: Unloading torch session for Protocol 51 Star System
+22:06:58.7352 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Removed authentication intercept
+22:07:03.0317 [INFO]   Torch.Session.TorchSessionManager: Unloaded torch session for Protocol 51 Star System
+22:07:03.0317 [ERROR]  Keen: Shouldn't have any unclosed handles. Closing HkHandles 56

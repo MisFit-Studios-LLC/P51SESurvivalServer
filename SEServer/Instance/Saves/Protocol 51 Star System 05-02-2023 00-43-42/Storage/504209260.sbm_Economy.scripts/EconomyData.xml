@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <EconData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <CreditBalance>-201500</CreditBalance>
+  <CreditBalance>-201300</CreditBalance>
   <Clients>
     <ClientAccount>
       <SteamId>1234</SteamId>
@@ -66,7 +66,7 @@
       <SteamId>76561198143574867</SteamId>
       <BankBalance>100</BankBalance>
       <NickName>Pyro</NickName>
-      <Date>2023-06-05T19:22:44.3006402-05:00</Date>
+      <Date>2023-06-06T20:50:14.5759858-05:00</Date>
       <OpenedDate>2023-05-09T22:41:44.6097313-05:00</OpenedDate>
       <Language>0</Language>
       <MissionId>0</MissionId>
@@ -140,26 +140,6 @@
       <NickName>The Town Drunk</NickName>
       <Date>2023-06-05T07:31:36.9949491-05:00</Date>
       <OpenedDate>2023-06-03T18:58:41.8890985-05:00</OpenedDate>
-      <Language>0</Language>
-      <MissionId>0</MissionId>
-      <ClientHudSettings />
-    </ClientAccount>
-    <ClientAccount>
-      <SteamId>76561197997030776</SteamId>
-      <BankBalance>100</BankBalance>
-      <NickName>Murda</NickName>
-      <Date>2023-06-04T21:19:30.1619023-05:00</Date>
-      <OpenedDate>2023-06-04T21:19:30.1619023-05:00</OpenedDate>
-      <Language>0</Language>
-      <MissionId>0</MissionId>
-      <ClientHudSettings />
-    </ClientAccount>
-    <ClientAccount>
-      <SteamId>76561197974623845</SteamId>
-      <BankBalance>100</BankBalance>
-      <NickName>Terrus</NickName>
-      <Date>2023-06-05T01:29:10.164646-05:00</Date>
-      <OpenedDate>2023-06-05T01:29:10.164646-05:00</OpenedDate>
       <Language>0</Language>
       <MissionId>0</MissionId>
       <ClientHudSettings />
