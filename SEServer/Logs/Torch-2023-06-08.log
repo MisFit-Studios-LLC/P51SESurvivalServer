@@ -1,0 +1,124 @@
+01:15:48.6531 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:48.6531 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:50.3186 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:50.3186 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:51.9836 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:51.9836 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:53.6521 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:53.6521 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:55.3171 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:55.3171 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:56.9842 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:56.9842 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:15:58.6509 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:15:58.6509 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:16:00.3198 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:16:00.3198 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:16:01.9850 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:16:01.9850 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:16:03.6514 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:16:03.6514 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:16:05.3213 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:16:05.3213 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:16:06.9847 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+01:16:06.9847 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+01:45:00.0777 [FATAL]  Initializer: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Sandbox.Game.Entities.Cube.MyRefinery.RebuildQueue()
+   at Sandbox.Game.Entities.Cube.MyRefinery.UpdateProduction(UInt32 framesFromLastTrigger)
+   at Sandbox.Game.Entities.Cube.MyRefinery.DoUpdateTimerTick()
+   at Sandbox.Game.Entities.Cube.MyFunctionalBlock.OnTimerTick(MyEntityComponentContainer obj)
+   at System.DelegateExtensions.InvokeIfNotNull[T1](Action`1 handler, T1 arg1)
+   at Sandbox.Game.Components.MyTimerComponent.Update(Boolean forceUpdate)
+   at Sandbox.Game.Entities.Cube.MyFunctionalBlock.UpdateAfterSimulation10()
+   at Sandbox.Game.Entities.MyParallelEntityUpdateOrchestrator.UpdateAfterSimulation10()
+   at Sandbox.Game.Entities.MyParallelEntityUpdateOrchestrator.DispatchAfterSimulation()
+   at Sandbox.Game.Entities.MyEntities.UpdateAfterSimulation()
+   at Sandbox.Game.World.MySector.UpdateAfterSimulation()
+   at Sandbox.Game.World.MySession.UpdateComponents()
+   at Sandbox.Game.World.MySession.Update(MyTimeSpan updateTime)
+   at Sandbox.MySandboxGame.Update()
+   at Sandbox.Engine.Platform.Game.UpdateInternal()
+   at Sandbox.Engine.Platform.Game.RunSingleFrame()
+   at Sandbox.Engine.Platform.FixedLoop.<>c__DisplayClass11_0.<Run>b__0()
+   at Sandbox.Engine.Platform.GenericLoop.Run(VoidAction tickCallback)
+   at Sandbox.Engine.Platform.Game.RunLoop()
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Sandbox.Game.Entities.Cube.MyRefinery.RebuildQueue()
+   at Sandbox.Game.Entities.Cube.MyRefinery.UpdateProduction(UInt32 framesFromLastTrigger)
+   at Sandbox.Game.Entities.Cube.MyRefinery.DoUpdateTimerTick()
+   at Sandbox.Game.Entities.Cube.MyFunctionalBlock.OnTimerTick(MyEntityComponentContainer obj)
+   at System.DelegateExtensions.InvokeIfNotNull[T1](Action`1 handler, T1 arg1)
+   at Sandbox.Game.Components.MyTimerComponent.Update(Boolean forceUpdate)
+   at Sandbox.Game.Entities.Cube.MyFunctionalBlock.UpdateAfterSimulation10()
+   at Sandbox.Game.Entities.MyParallelEntityUpdateOrchestrator.UpdateAfterSimulation10()
+   at Sandbox.Game.Entities.MyParallelEntityUpdateOrchestrator.DispatchAfterSimulation()
+   at Sandbox.Game.Entities.MyEntities.UpdateAfterSimulation()
+   at Sandbox.Game.World.MySector.UpdateAfterSimulation()
+   at Sandbox.Game.World.MySession.UpdateComponents()
+   at Sandbox.Game.World.MySession.Update(MyTimeSpan updateTime)
+   at Sandbox.MySandboxGame.Update()
+   at Sandbox.Engine.Platform.Game.UpdateInternal()
+   at Sandbox.Engine.Platform.Game.RunSingleFrame()
+   at Sandbox.Engine.Platform.FixedLoop.<>c__DisplayClass11_0.<Run>b__0()
+   at Sandbox.Engine.Platform.GenericLoop.Run(VoidAction tickCallback)
+   at Sandbox.Engine.Platform.Game.RunLoop()
+   at Sandbox.MySandboxGame.Run(Boolean customRenderLoop, Action disposeSplashScreen)
+   at Torch.VRageGame.DoStart() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 325
+   at Torch.VRageGame.Run() in C:\ProgramData\Jenkins\.jenkins\workspace\Torch_master\Torch\VRageGame.cs:line 125
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+01:45:00.1970 [INFO]   Initializer: Generating minidump at Logs\MiniDumpT18-2023-06-08 01-45-00.dmp
+13:40:16.7708 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+13:40:16.7708 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+13:40:17.1631 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+13:40:17.1631 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+13:40:17.1631 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+13:40:17.1775 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+13:40:17.1775 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+13:40:17.1775 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+13:40:17.1775 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+13:40:17.1775 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+13:40:17.2059 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+13:40:17.2059 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+13:40:17.2059 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+13:40:17.2099 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+13:40:17.5965 [INFO]   Torch.Patches.PromotePatch: patching promote
+13:40:17.5965 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+13:40:17.5965 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+13:40:17.6336 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+13:40:17.7078 [INFO]   Torch: Initializing server
+13:40:18.4971 [INFO]   Torch: RELEASE
+13:40:18.4971 [INFO]   Torch: Torch Version: v1.3.1.236-master
+13:40:18.4971 [INFO]   Torch: Game Version: 1.202.119
+13:40:18.4971 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+13:40:18.4971 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+13:40:18.5112 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+13:40:18.5362 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+13:40:18.5362 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+13:40:18.5362 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+13:40:18.6769 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+13:40:19.1947 [INFO]   Torch.VRageGame: Loading Dedicated Config
+13:40:19.3143 [INFO]   Torch.VRageGame: Initializing network services
+13:40:19.3513 [INFO]   Torch.VRageGame: Initializing services
+13:40:19.3513 [INFO]   Torch.VRageGame: Services initialized
+13:40:19.4060 [INFO]   Torch.VRageGame: Setting up serializers
+13:40:21.3525 [INFO]   InstanceManager: Loading instance C:\P51SESurvivalServer\SEServer\Instance
+13:40:23.2257 [INFO]   ModListControl: Instance loaded.
+13:40:23.2257 [INFO]   Torch: Initialized server 'Instance' at 'C:\P51SESurvivalServer\SEServer\Instance'
+13:40:24.0597 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+13:40:24.2690 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+13:42:42.4784 [INFO]   InstanceManager: Saved dedicated config.
+13:42:42.8599 [INFO]   InstanceManager: Saved world config.
+13:42:43.2788 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+13:42:43.7544 [INFO]   InstanceManager: Saved dedicated config.
+13:42:43.8181 [INFO]   InstanceManager: Saved world config.
+13:42:44.4915 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!

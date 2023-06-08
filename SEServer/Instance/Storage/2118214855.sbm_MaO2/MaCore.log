@@ -1,7 +1,4 @@
-060623-19:51:05:3089    MaCore: SuperEarlySetup    Waking up.  Is Server: True
-060623-19:51:07:8507    MaCore: OxyGen (82217207744513382): Report:    I'm alive: 82217207744513382
-060623-19:51:10:5379    MaCore: OxyGen (124562130357205162): Report:    I'm alive: 124562130357205162
-060623-19:51:23:3607    MaCore: LateSetup    Fully online.
-060623-22:07:00:6431    MaCore: OxyGen (82217207744513382): Close:    I'm out! 82217207744513382
-060623-22:07:01:0392    MaCore: OxyGen (124562130357205162): Close:    I'm out! 124562130357205162
-060623-22:07:01:4183    MaCore: Unload    Retired.
+060623-22:15:56:8390    MaCore: SuperEarlySetup    Waking up.  Is Server: True
+060623-22:15:59:3653    MaCore: OxyGen (82217207744513382): Report:    I'm alive: 82217207744513382
+060623-22:16:02:5482    MaCore: OxyGen (124562130357205162): Report:    I'm alive: 124562130357205162
+060623-22:16:15:5896    MaCore: LateSetup    Fully online.

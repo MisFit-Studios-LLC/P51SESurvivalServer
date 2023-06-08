@@ -1022,3 +1022,35 @@
 [2023-06-06 22:07:01] [Logged On, 4, 3] [A:1:13336585:23563] LogOff()
 [2023-06-06 22:07:01] [Logging Off, 4, 3] [A:1:13336585:23563] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
 [2023-06-06 22:07:01] [Logging Off, 0, 3] [A:1:13336585:23563] Log session ended
+
+
+[2023-06-06 22:15:06] Log session started
+[2023-06-06 22:15:06] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2023-06-06 22:15:06] Log session started
+[2023-06-06 22:15:06] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2023-06-06 22:15:06] Log session started
+[2023-06-06 22:15:06] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2023-06-06 22:15:07] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-06-06 22:15:07] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2023-06-06 22:15:07] GetCMListForConnect -- DC 'ord1' count: 22
+[2023-06-06 22:15:07] GetCMListForConnect -- DC 'iad1' count: 23
+[2023-06-06 22:15:07] GetCMListForConnect -- DC 'sea1' count: 15
+[2023-06-06 22:15:07] GetCMListForConnect -- DC 'dfw1' count: 20
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] CM Directory list says 91% of connections should be websockets, we rolled 90 - using WebSockets as default.
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27020) starting...
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27024) starting...
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-ord1.steamserver.net:443) starting...
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-iad1.steamserver.net:27034) starting...
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-ord1.steamserver.net:443) results: 6.1015ms + load 38.0000
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() stopping early for good host (ext1-ord1.steamserver.net:443)
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27020) results: 17.7602ms + load 31.0000
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27024) results: 14.6335ms + load 31.0000
+[2023-06-06 22:15:07] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-iad1.steamserver.net:27034) results: 31.9819ms + load 29.0000
+[2023-06-06 22:15:07] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, ext1-ord1.steamserver.net:443, WebSocket)
+[2023-06-06 22:15:07] [Connecting, 4, 3] [A:1:0:0] ConnectionCompleted() (162.254.193.102:443, WebSocket) local address (192.168.1.141:56655)
+[2023-06-06 22:15:07] [Connecting, 4, 3] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-06-06 22:15:07] [Connected, 4, 3] [A:1:0:0] Logging on [A:1:0:0]
+[2023-06-06 22:15:07] [Logging On, 4, 3] [A:1:0:0] RecvMsgClientLogOnResponse() : [A:1:3212249097:23563] 'OK'
+[2023-06-06 22:15:08] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2602:801:f006:100::a2fe:c313]:80 ([2602:801:f006:100::a2fe:c313]:80)) - SUCCESS
+[2023-06-06 22:15:08] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2602:801:f006:100::a2fe:c313]:80 ([2602:801:f006:100::a2fe:c313]:80)) - server indicated we are using ipv6, external address = '2600:1700:2ca0:ef90:91c1:c3d9:32e8:cc18'
+[2023-06-06 22:15:08] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / [2602:801:f002:102::a2fe:c024]:27019) - SUCCESS

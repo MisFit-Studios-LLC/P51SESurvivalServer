@@ -153,3 +153,8 @@
 [2023-06-06 19:49:25] Flushed store 'install' to 'C:\P51SESurvivalServer\SEServer\config\config.vdf'
 [2023-06-06 19:49:29] Loaded store 'install' from 'C:\P51SESurvivalServer\SEServer\config\config.vdf' successfully
 [2023-06-06 19:50:00] Flushed store 'install' to 'C:\P51SESurvivalServer\SEServer\config\config.vdf'
+
+
+[2023-06-06 22:15:06] Loaded store 'install' from 'C:\P51SESurvivalServer\SEServer\config\config.vdf' successfully
+[2023-06-06 22:15:06] Failed to read store 'userlocal' from 'C:\P51SESurvivalServer\SEServer\config\localconfig.vdf.tmp'
+[2023-06-06 22:15:07] Flushed store 'install' to 'C:\P51SESurvivalServer\SEServer\config\config.vdf'

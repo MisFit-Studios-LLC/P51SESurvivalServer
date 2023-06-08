@@ -707,3 +707,238 @@ System.ApplicationException: Session can not start. Save is corrupted or not val
 22:06:58.7352 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Removed authentication intercept
 22:07:03.0317 [INFO]   Torch.Session.TorchSessionManager: Unloaded torch session for Protocol 51 Star System
 22:07:03.0317 [ERROR]  Keen: Shouldn't have any unclosed handles. Closing HkHandles 56
+22:11:39.6364 [INFO]   Torch.Patches.MessageSizeLimitPatch: Patched MessageSizeLimit
+22:11:39.6364 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:11:39.7366 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/14.  (14%)
+22:11:39.7366 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/14.  (21%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/14.  (35%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/14.  (42%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/14.  (50%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/14.  (64%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/14.  (71%)
+22:11:39.7530 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 12/14.  (85%)
+22:11:39.7860 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 13/14.  (92%)
+22:11:39.7860 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 14/14.  (100%)
+22:11:39.7860 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:11:39.7860 [INFO]   Torch.Patches.ModsDownloadingPatch: Patching mods downloading
+22:11:39.8400 [INFO]   Torch.Patches.PromotePatch: patching promote
+22:11:39.8400 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response polling
+22:11:39.8400 [INFO]   Torch.Patches.SteamLoginPatch: Applied custom WaitStart timeout
+22:11:39.8806 [INFO]   Torch.Managers.UpdateManager: Checking for Torch Update...
+22:11:39.9371 [INFO]   Torch: Initializing server
+22:11:40.0995 [INFO]   Torch: RELEASE
+22:11:40.0995 [INFO]   Torch: Torch Version: v1.3.1.236-master
+22:11:40.0995 [INFO]   Torch: Game Version: 1.202.119
+22:11:40.0995 [INFO]   Torch: Executing assembly: Torch.Server, Version=1.3.1.236, Culture=neutral, PublicKeyToken=null
+22:11:40.0995 [INFO]   Torch: Executing directory: C:\P51SESurvivalServer\SEServer\
+22:11:40.0995 [INFO]   Torch.Managers.PluginManager: Loading plugins...
+22:11:40.0995 [INFO]   Torch.Managers.PluginManager: Checking for plugin updates...
+22:11:40.0995 [INFO]   Torch.Managers.PluginManager: Updated 0 plugins.
+22:11:40.1159 [INFO]   Torch.Managers.PluginManager: Loaded 0 plugins.
+22:11:40.1880 [INFO]   Torch.VRageGame: Loading Dedicated Config
+22:11:40.2166 [INFO]   Torch.VRageGame: Initializing network services
+22:11:40.2266 [INFO]   Torch.VRageGame: Initializing services
+22:11:40.2266 [INFO]   Torch.VRageGame: Services initialized
+22:11:40.2439 [INFO]   Torch.VRageGame: Setting up serializers
+22:11:40.5668 [INFO]   Torch.Managers.UpdateManager: Torch is up to date.
+22:11:41.1929 [INFO]   InstanceManager: Loading instance C:\P51SESurvivalServer\SEServer\Instance
+22:11:43.2750 [INFO]   ModListControl: Instance loaded.
+22:11:43.2750 [INFO]   Torch: Initialized server 'Instance' at 'C:\P51SESurvivalServer\SEServer\Instance'
+22:11:43.9172 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:11:43.9321 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:15:04.6192 [INFO]   InstanceManager: Saved dedicated config.
+22:15:05.0499 [INFO]   InstanceManager: Saved world config.
+22:15:05.0499 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:15:05.0499 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 2/11.  (18%)
+22:15:05.0499 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 3/11.  (27%)
+22:15:05.0499 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 4/11.  (36%)
+22:15:05.0499 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 5/11.  (45%)
+22:15:05.0629 [INFO]   Torch.Patches.ServerResponsePatch: Patching Steam response timeout to 5 seconds
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 6/11.  (54%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 7/11.  (63%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 8/11.  (72%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 9/11.  (81%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 10/11.  (90%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patched 11/11.  (100%)
+22:15:05.0629 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:15:05.0629 [INFO]   Torch: Starting server.
+22:15:05.7287 [INFO]   Torch.Server.ViewModels.ConfigDedicatedViewModel: Mods Info successfully retrieved!
+22:15:07.8029 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:15:07.8029 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:15:07.8029 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching begins...
+22:15:07.8029 [INFO]   Torch.Managers.PatchManager.PatchManager: Patching done
+22:15:07.8189 [INFO]   Torch.Server.Managers.RemoteAPIManager: Remote API started on port 8080
+22:15:53.0158 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Cockpit/LWTS_SmallBlockCockpitMetal
+22:15:53.0790 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Assembler/LWTS_LargeAssemblerSimpleT5
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT2
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT3
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT4
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallAtmosphericThrustT5
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT6
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallAtmosphericThrustT7
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT2
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT3
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT4
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallAtmosphericThrustT5
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT6
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallAtmosphericThrustT7
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3
+22:15:53.0945 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4
+22:15:53.1095 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5
+22:15:53.1257 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT2
+22:15:53.1257 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ConveyorConnector/LWTS_ConveyorTubeT3
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier2
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier3
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier4
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallHydrogenThrustTier5
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT2
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT3
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT4
+22:15:53.1721 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallHydrogenThrustT5
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier2
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier3
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier4
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier5
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier6
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LargeBlockSmallIonThrustTier7
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier2
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier3
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier4
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier5
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier6
+22:15:53.1883 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallBlockSmallIonThrustTier7
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier2
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier3
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier4
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LargeBlockSmallGeneratorTier5
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT2
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT3
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT4
+22:15:53.2190 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Reactor/LWTS_SmallBlockSmallGeneratorT5
+22:15:53.2355 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Refinery/LWTS_LargeRefineryT5
+22:15:53.2355 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT2
+22:15:53.2355 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT3
+22:15:53.2355 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT4
+22:15:53.2355 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SmallMissileLauncherReload/LWTS_SmallRocketLauncherReloadT5
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT2
+22:15:53.2516 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT3
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT4
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_SmallGatlingTurretT5
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT2
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT3
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT4
+22:15:53.2658 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_LargeGatlingTurret/LWTS_LargeGatlingTurretT5
+22:15:53.2976 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_SmallBlockSmallThrustT5_GOLD
+22:15:53.2976 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/LWTS_LargeBlockSmallThrustT5_GOLD
+22:15:53.7418 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30
+22:15:53.7418 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_Spotlight30_sm
+22:15:53.7511 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot
+22:15:53.7511 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_ReflectorLight/MA_ClassicSpot_sm
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlock_Armored_Full
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlock_Armored_Full
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_SmallBlockV2_Armored_Half
+22:15:53.7816 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Thrust/SmallAtmosphericHoverEngine_LargeBlockV2_Armored_Half
+22:15:53.8150 [WARN]   Keen:       BlockVariants are obsolete. Use block groups instead for block: MyObjectBuilder_Conveyor/Maintenance_Door_Large
+22:15:55.0572 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+22:15:55.0572 [ERROR]  Keen:       Stage block MyObjectBuilder_UpgradeModule/MA_Spotlight45_sm doesn't exist
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT2 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT2 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT3 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT3 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT4 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT4 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_SolarPanel/LWTS_LargeBlockSolarPanelT5 MyObjectBuilder_SolarPanel/LWTS_SmallBlockSolarPanelT5 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT2 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT2 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT3 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT3 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT4 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT4 is not in the same block-variant group
+22:15:55.0572 [ERROR]  Keen:       Block-pair MyObjectBuilder_BatteryBlock/LWTS_SmallBlockBatteryBlockT5 MyObjectBuilder_BatteryBlock/LWTS_LargeBlockBatteryBlockT5 is not in the same block-variant group
+22:15:56.4747 [INFO]   Torch.Session.TorchSessionManager: Starting new torch session for Protocol 51 Star System
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/EngineerPlushieScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/SabiroidPlushieScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_GoldCoatScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MetalPlate_CandyCaneScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT6Scrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MotorT7Scrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT6Scrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ThrustT7Scrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/Field_ModulatorsScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/MESThrustScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ProprietaryTechScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/InhibitorChipScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AdminPlateScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CombatBotMaterialScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_CrewBotMaterialScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_RepairBotMaterialScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/AiEnabled_Comp_ScavengerBotMaterialScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/CompressorAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallThrustAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeThrustAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeHydrogenThrustAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallHydrogenThrustAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockLargeAtmosphericThrustAssertScrap" is missing.
+22:15:56.6449 [FATAL]  Keen:    Definition of "MyObjectBuilder_Ore/ComponentSmallBlockSmallAtmosphericThrustAssertScrap" is missing.
+22:15:58.2550 [WARN]   Keen:    Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+22:16:00.0076 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:16:00.0076 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:16:00.0286 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:16:00.0286 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:16:00.3999 [WARN]   Keen: Sound on different thread , StopSound
+22:16:00.5849 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:16:00.5849 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:16:00.6049 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.1027 [WARN]   Keen: SurvivalReborn: Character definition for  is null!
+22:16:02.1027 [WARN]   Keen: SurvivalReborn: Skipped adding an invalid, null, or dead character.
+22:16:02.3522 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.4697 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5177 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5177 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5177 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5177 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5177 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5472 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5942 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5942 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5942 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5942 [WARN]   Keen: Sound on different thread , StopSound
+22:16:02.5942 [WARN]   Keen: Sound on different thread , StopSound
+22:16:15.4792 [INFO]   Torch.Server.Managers.MultiplayerManagerDedicated: Inserted authentication intercept
+22:16:15.4792 [INFO]   Torch.Commands.CommandManager: Registering command 'whatsmyip'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'help'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'longhelp'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'ver'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'plugins'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'stop'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'restart'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'notify'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'restart.cancel'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'stop.cancel'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'save'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'uptime'
+22:16:15.4852 [INFO]   Torch.Session.TorchSessionManager: Loaded torch session for Protocol 51 Star System
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.on'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.off'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.add'
+22:16:15.4852 [INFO]   Torch.Commands.CommandManager: Registering command 'whitelist.remove'
+22:16:18.3967 [INFO]   Torch: Starting server watchdog.

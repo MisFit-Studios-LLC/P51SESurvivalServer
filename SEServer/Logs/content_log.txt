@@ -2051,3 +2051,9 @@
 [2023-06-06 19:50:34] HTTP/2 (SteamCache,117) - cache5-ord1.steamcontent.com ([2602:801:f007:100::a2fe:c10d]:443 / [2602:801:f007:100::a2fe:c10d]:443, host: cache5-ord1.steamcontent.com): Closing connection
 [2023-06-06 19:55:00] stats: (SteamCache, 149) cache4-ord1.steamcontent.com: 1104993 Bytes, 1 sec (6.86 Mbps). 34 Hits / 0 Misses (100 %, 100 % bytes)
 [2023-06-06 19:55:00] stats: (Invalid, 0) : 2192657 Bytes, 2 sec (11.06 Mbps). 83 Hits / 0 Misses (100 %, 100 % bytes)
+
+
+[2023-06-06 22:15:06] Load failed: C:\P51SESurvivalServer\SEServer\steamapps\libraryfolders.vdf.
+[2023-06-06 22:15:06] Load failed: C:\P51SESurvivalServer\SEServer\config\libraryfolders.vdf.
+[2023-06-06 22:15:06] Steam library folders configuration will be reset.
+[2023-06-06 22:15:06] No install folder configuration files found.

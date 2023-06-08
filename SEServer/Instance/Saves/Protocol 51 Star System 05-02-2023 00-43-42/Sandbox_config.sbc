@@ -114,6 +114,7 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>false</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -150,11 +151,6 @@
     <ModItem FriendlyName="NPC Programming Extender">
       <Name>1400364273.sbm</Name>
       <PublishedFileId>1400364273</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC Defense Shields Provider">
-      <Name>2043339470.sbm</Name>
-      <PublishedFileId>2043339470</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Weapon Upgrades">
@@ -645,5 +641,5 @@
     </ModItem>
   </Mods>
   <SessionName>Protocol 51 Star System</SessionName>
-  <LastSaveTime>2023-06-06T22:06:58.7620712-05:00</LastSaveTime>
+  <LastSaveTime>2023-06-08T01:40:07.5133658-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

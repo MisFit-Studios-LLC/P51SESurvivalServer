@@ -1,5 +1,5 @@
-[19:51:21.884] [T25] [DS=True] DEBUG | Log Started
-[19:51:21.954] [T25] [DS=True] DEBUG | BeforeStart() - Checking Group Settings:
+[22:16:14.148] [T18] [DS=True] DEBUG | Log Started
+[22:16:14.215] [T18] [DS=True] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = NULL
@@ -2363,9 +2363,11 @@ BeforeStart() - Checking Entity Components
 Finished with settings
 
 
-[19:51:21.957] [T25] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197981423900, IsAdmin = True, CopyPaste = False, Creative = False
-[19:51:21.957] [T25] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561199253002098, IsAdmin = False, CopyPaste = False, Creative = False
-[19:51:21.957] [T25] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197974812221, IsAdmin = True, CopyPaste = False, Creative = False
-[19:51:21.957] [T25] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561198030953024, IsAdmin = True, CopyPaste = True, Creative = True
-[19:51:21.957] [T25] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197993405115, IsAdmin = True, CopyPaste = False, Creative = False
-[20:50:10.660] [T25] [DS=True] DEBUG | Creative Update: CopyPaste = False, new = False, Creative = False, new = False
+[22:16:14.218] [T18] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197981423900, IsAdmin = True, CopyPaste = False, Creative = False
+[22:16:14.218] [T18] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561199253002098, IsAdmin = False, CopyPaste = False, Creative = False
+[22:16:14.218] [T18] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197974812221, IsAdmin = True, CopyPaste = False, Creative = False
+[22:16:14.218] [T18] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561198030953024, IsAdmin = True, CopyPaste = True, Creative = True
+[22:16:14.218] [T18] [DS=True] DEBUG | UpdateAllPlayerData: Id = 76561197993405115, IsAdmin = True, CopyPaste = False, Creative = False
+[12:26:28.058] [T18] [DS=True] DEBUG | Creative Update: CopyPaste = False, new = False, Creative = False, new = False
+[16:00:54.645] [T18] [DS=True] DEBUG | Creative Update: CopyPaste = False, new = False, Creative = False, new = False
+[21:45:46.932] [T18] [DS=True] DEBUG | Creative Update: CopyPaste = False, new = False, Creative = False, new = False

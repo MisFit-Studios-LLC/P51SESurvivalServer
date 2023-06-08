@@ -1,14 +1,103 @@
-[19:51:22.889] [T25] [DS=True] DEBUG | Log Started (v1.5.14)
-[19:51:22.890] [T25] [DS=True] DEBUG | Defense Shields Mod found. API loaded successfully = True
-[19:51:22.959] [T25] [DS=True] DEBUG | Faction cleanup: Removing 118/120 members from Space Pirates
-[19:51:22.968] [T25] [DS=True] DEBUG | Faction cleanup: Removing 20/22 members from Space spiders
-[19:51:22.971] [T25] [DS=True] DEBUG | Faction cleanup: Removing 4/5 members from Raiders
-[19:51:22.971] [T25] [DS=True] DEBUG | Faction cleanup: Removing 2/4 members from Assert Inc
-[19:51:26.495] [T25] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
-[20:50:17.975] [T25] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
-[21:02:18.275] [T25] [DS=True] WARNING | Something attempted to spawn 'Male Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[21:02:20.676] [T25] [DS=True] WARNING | Something attempted to spawn 'Female Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[21:09:15.838] [T25] [DS=True] DEBUG | Attempting to pair bot faction with i like pie
-[21:09:15.838] [T25] [DS=True] DEBUG |  -> Paired i like pie with Perceptive Encoding
-[22:07:01.307] [T25] [DS=True] DEBUG | Unloading mod data. Registered = True
-[22:07:01.318] [T25] [DS=True] DEBUG | Mod unloaded successfully
+[22:16:15.064] [T18] [DS=True] DEBUG | Log Started (v1.5.14)
+[22:16:15.066] [T18] [DS=True] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[22:16:15.141] [T18] [DS=True] DEBUG | Faction cleanup: Removing 52/54 members from Space Pirates
+[22:16:15.156] [T18] [DS=True] DEBUG | Faction cleanup: Removing 3/5 members from Space spiders
+[22:16:19.286] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[12:26:32.229] [T18] [DS=True] WARNING | Found duplicate identity in faction Perceptive Encoding (discarding identity)
+[12:41:00.709] [T18] [DS=True] WARNING | Something attempted to spawn 'Male Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[12:41:02.362] [T18] [DS=True] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[12:41:04.029] [T18] [DS=True] WARNING | Something attempted to spawn 'Female Astronaut 3' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[12:52:40.077] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[14:47:44.311] [T18] [DS=True] WARNING | Something attempted to spawn 'Combat Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[15:06:35.401] [T18] [DS=True] DEBUG | Attempting to pair bot faction with Otaku Academy
+[15:06:35.401] [T18] [DS=True] DEBUG |  -> Paired Otaku Academy with Mech Bots
+[15:06:54.910] [T18] [DS=True] DEBUG | Exceptions found during GrinderBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[15:09:58.121] [T18] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Skulls Grinder moved from [X:-9, Y:0, Z:21] to [X:-5, Y:6, Z:-8]
+[15:11:55.672] [T18] [DS=True] DEBUG | CubeGridMap (Developed Base - Grid 4718).TeleportNearby: Skulls Grinder moved from [X:-6, Y:2, Z:20] to [X:-5, Y:6, Z:-8]
+[15:14:08.346] [T18] [DS=True] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[16:55:05.853] [T18] [DS=True] WARNING | Something attempted to spawn 'Female Astronaut 5' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[16:56:30.852] [T18] [DS=True] WARNING | Something attempted to spawn 'Female Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[17:01:12.605] [T18] [DS=True] WARNING | Something attempted to spawn 'Female Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[17:03:21.311] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[17:38:40.475] [T18] [DS=True] WARNING | Something attempted to spawn 'Male Astronaut 1' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[18:14:21.815] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[18:26:36.080] [T18] [DS=True] DEBUG | Exceptions found during GrinderBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[18:26:59.411] [T18] [DS=True] DEBUG | Exceptions found during SoldierBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[18:27:12.749] [T18] [DS=True] DEBUG | Exceptions found during GrinderBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[20:33:12.841] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[21:45:50.814] [T18] [DS=True] WARNING | CubeGridMap.ctor: Grid 'space flight' was null or marked for close in constructor!
+[22:18:28.082] [T18] [DS=True] DEBUG | Exceptions found during CreatureBot.SetTarget task!
+
+ -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.GetCellLineIntersectionOctree(Nullable`1& result, Line& modelSpaceLine, Nullable`1& minDistanceUntilNow, CellData cachedDataCell, IntersectionFlags flags)
+   at Sandbox.Engine.Voxels.MyVoxelGeometry.Intersect(Line& localLine, MyIntersectionResultLineTriangle& result, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& t, IntersectionFlags flags)
+   at Sandbox.Game.Entities.MyVoxelBase.GetIntersectionWithLine(LineD& worldLine, Nullable`1& v, Boolean useCollisionModel, IntersectionFlags flags)
+   at AiEnabled.Utilities.AiUtils.CheckLineOfSight(Vector3D& start, Vector3D& end, List`1 cellList, List`1 resultList, MyVoxelBase voxel, MyEntity[] ignoreEnts)
+   at AiEnabled.Bots.BotBase.SetTargetInternal()
+   at ParallelTasks.DelegateWork.DoWork(WorkData workData)
+   at ParallelTasks.WorkItem.DoWork(Int32 expectedID)
+
+[22:18:40.122] [T18] [DS=True] DEBUG | CubeGridMap (Mining Base).TeleportNearby: Cyberhound moved from [X:-15, Y:3, Z:16] to [X:-6, Y:14, Z:0]
+[22:35:24.753] [T18] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:35:26.420] [T18] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:35:28.086] [T18] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:35:29.750] [T18] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:35:31.418] [T18] [DS=True] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[23:08:36.510] [T18] [DS=True] DEBUG | CubeGridMap (Mining Base).TeleportNearby: Cyberhound moved from [X:-23, Y:-2, Z:15] to [X:-6, Y:14, Z:0]
+[00:41:41.598] [T18] [DS=True] WARNING | Something attempted to spawn 'ANC_Suit_01' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[01:33:55.486] [T18] [DS=True] WARNING | VoxelGridMap (4106).TeleportNearby: Unable to find placement for SoldierBot7962 (pos was [X:-14, Y:-14, Z:12])
